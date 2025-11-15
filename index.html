@@ -1,0 +1,573 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GORBAGIO Gor-Boy Collection</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Arial', sans-serif;
+            background: linear-gradient(135deg, #0a0a0a 0%, #1a1a1a 100%);
+            color: #e0e0e0;
+            min-height: 100vh;
+        }
+
+        .container {
+            max-width: 1400px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+
+        /* Header */
+        header {
+            text-align: center;
+            padding: 40px 20px;
+            background: linear-gradient(135deg, #1a1a1a 0%, #2a2a2a 100%);
+            border-bottom: 3px solid #00ff00;
+            margin-bottom: 30px;
+        }
+
+        h1 {
+            font-size: 48px;
+            color: #00ff00;
+            text-shadow: 0 0 20px #00ff00;
+            margin-bottom: 10px;
+        }
+
+        .subtitle {
+            font-size: 18px;
+            color: #888;
+        }
+
+        /* Stats Bar */
+        .stats {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 15px;
+            margin-bottom: 30px;
+        }
+
+        .stat-card {
+            background: #1a1a1a;
+            border: 2px solid #00ff00;
+            padding: 20px;
+            text-align: center;
+            border-radius: 8px;
+        }
+
+        .stat-value {
+            font-size: 36px;
+            font-weight: bold;
+            color: #00ff00;
+        }
+
+        .stat-label {
+            font-size: 14px;
+            color: #888;
+            margin-top: 5px;
+        }
+
+        /* Filters */
+        .filters {
+            background: #1a1a1a;
+            border: 2px solid #00ff00;
+            padding: 20px;
+            border-radius: 8px;
+            margin-bottom: 30px;
+        }
+
+        .filter-row {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 15px;
+            margin-bottom: 15px;
+        }
+
+        .filter-group {
+            display: flex;
+            flex-direction: column;
+        }
+
+        .filter-group label {
+            font-size: 12px;
+            color: #888;
+            margin-bottom: 5px;
+            text-transform: uppercase;
+        }
+
+        .filter-group select,
+        .filter-group input {
+            padding: 10px;
+            background: #0a0a0a;
+            border: 1px solid #00ff00;
+            color: #00ff00;
+            border-radius: 4px;
+            font-size: 14px;
+        }
+
+        .filter-group select:focus,
+        .filter-group input:focus {
+            outline: none;
+            border-color: #00ff00;
+            box-shadow: 0 0 10px rgba(0, 255, 0, 0.3);
+        }
+
+        .filter-buttons {
+            display: flex;
+            gap: 10px;
+        }
+
+        button {
+            padding: 10px 20px;
+            background: #00ff00;
+            color: #000;
+            border: none;
+            border-radius: 4px;
+            font-weight: bold;
+            cursor: pointer;
+            transition: all 0.3s;
+        }
+
+        button:hover {
+            background: #00cc00;
+            transform: translateY(-2px);
+        }
+
+        button.secondary {
+            background: #333;
+            color: #00ff00;
+            border: 1px solid #00ff00;
+        }
+
+        button.secondary:hover {
+            background: #444;
+        }
+
+        /* NFT Grid */
+        .nft-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+            gap: 20px;
+            margin-bottom: 40px;
+        }
+
+        .nft-card {
+            background: #1a1a1a;
+            border: 2px solid #333;
+            border-radius: 8px;
+            overflow: hidden;
+            transition: all 0.3s;
+            cursor: pointer;
+        }
+
+        .nft-card:hover {
+            border-color: #00ff00;
+            transform: translateY(-5px);
+            box-shadow: 0 10px 30px rgba(0, 255, 0, 0.3);
+        }
+
+        .nft-card.listed {
+            border-color: #00ff00;
+        }
+
+        .nft-image-container {
+            position: relative;
+            width: 100%;
+            padding-top: 100%; /* 1:1 Aspect Ratio */
+            background: #0a0a0a;
+            overflow: hidden;
+        }
+
+        .nft-image {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+        }
+
+        .listing-badge {
+            position: absolute;
+            top: 10px;
+            right: 10px;
+            background: #00ff00;
+            color: #000;
+            padding: 5px 10px;
+            border-radius: 4px;
+            font-size: 12px;
+            font-weight: bold;
+        }
+
+        .nft-info {
+            padding: 15px;
+        }
+
+        .nft-name {
+            font-size: 18px;
+            font-weight: bold;
+            color: #00ff00;
+            margin-bottom: 10px;
+        }
+
+        .nft-price {
+            font-size: 16px;
+            color: #fff;
+            margin-bottom: 10px;
+        }
+
+        .nft-owner {
+            font-size: 12px;
+            color: #888;
+            word-break: break-all;
+            margin-bottom: 10px;
+        }
+
+        .nft-traits {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 5px;
+            margin-top: 10px;
+        }
+
+        .trait-badge {
+            background: #0a0a0a;
+            border: 1px solid #00ff00;
+            padding: 3px 8px;
+            border-radius: 3px;
+            font-size: 10px;
+            color: #00ff00;
+        }
+
+        /* Loading State */
+        .loading {
+            text-align: center;
+            padding: 100px 20px;
+            font-size: 24px;
+            color: #00ff00;
+        }
+
+        .error {
+            background: #ff0000;
+            color: #fff;
+            padding: 20px;
+            border-radius: 8px;
+            margin: 20px 0;
+            text-align: center;
+        }
+
+        /* Empty State */
+        .empty-state {
+            text-align: center;
+            padding: 100px 20px;
+            color: #888;
+        }
+
+        .empty-state h2 {
+            font-size: 24px;
+            margin-bottom: 10px;
+        }
+
+        /* Footer */
+        footer {
+            text-align: center;
+            padding: 40px 20px;
+            color: #888;
+            border-top: 1px solid #333;
+            margin-top: 40px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>🗑️ GORBAGIO GOR-BOY COLLECTION 🗑️</h1>
+        <p class="subtitle">All 227 NFTs with the legendary Gor-Boy hands</p>
+    </header>
+
+    <div class="container">
+        <!-- Stats -->
+        <div class="stats">
+            <div class="stat-card">
+                <div class="stat-value" id="totalCount">-</div>
+                <div class="stat-label">Total NFTs</div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-value" id="listedCount">-</div>
+                <div class="stat-label">Currently Listed</div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-value" id="floorPrice">-</div>
+                <div class="stat-label">Floor Price (SOL)</div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-value" id="visibleCount">-</div>
+                <div class="stat-label">Showing</div>
+            </div>
+        </div>
+
+        <!-- Filters -->
+        <div class="filters">
+            <div class="filter-row">
+                <div class="filter-group">
+                    <label>Search by Name/Number</label>
+                    <input type="text" id="searchInput" placeholder="e.g. 826 or Gorbagio #826">
+                </div>
+                <div class="filter-group">
+                    <label>Eyes</label>
+                    <select id="eyesFilter">
+                        <option value="">All Eyes</option>
+                    </select>
+                </div>
+                <div class="filter-group">
+                    <label>Face</label>
+                    <select id="facezFilter">
+                        <option value="">All Faces</option>
+                    </select>
+                </div>
+                <div class="filter-group">
+                    <label>Background</label>
+                    <select id="backgroundsFilter">
+                        <option value="">All Backgrounds</option>
+                    </select>
+                </div>
+            </div>
+            <div class="filter-row">
+                <div class="filter-group">
+                    <label>Listing Status</label>
+                    <select id="listingFilter">
+                        <option value="all">All NFTs</option>
+                        <option value="listed">Listed Only</option>
+                        <option value="unlisted">Unlisted Only</option>
+                    </select>
+                </div>
+                <div class="filter-group">
+                    <label>Sort By</label>
+                    <select id="sortFilter">
+                        <option value="number">NFT Number</option>
+                        <option value="price-low">Price: Low to High</option>
+                        <option value="price-high">Price: High to Low</option>
+                    </select>
+                </div>
+                <div class="filter-buttons">
+                    <button onclick="resetFilters()">Reset Filters</button>
+                </div>
+            </div>
+        </div>
+
+        <!-- NFT Grid -->
+        <div id="loadingState" class="loading">
+            Loading GORBAGIO Gor-Boy NFTs...
+        </div>
+
+        <div id="nftGrid" class="nft-grid" style="display: none;"></div>
+
+        <div id="emptyState" class="empty-state" style="display: none;">
+            <h2>No NFTs Found</h2>
+            <p>Try adjusting your filters</p>
+        </div>
+    </div>
+
+    <footer>
+        <p>GORBAGIO Collection • Powered by Magic Eden API</p>
+        <p style="margin-top: 10px; font-size: 12px;">Data updates when page is refreshed</p>
+    </footer>
+
+    <script>
+        let allNFTs = [];
+        let filteredNFTs = [];
+
+        // Load the JSON data
+        async function loadNFTData() {
+            try {
+                const response = await fetch('data.json');
+                if (!response.ok) {
+                    throw new Error('Failed to load NFT data');
+                }
+                const data = await response.json();
+                allNFTs = data.nfts || [];
+                
+                // Initialize
+                populateFilterDropdowns();
+                applyFilters();
+                updateStats();
+                
+                document.getElementById('loadingState').style.display = 'none';
+                document.getElementById('nftGrid').style.display = 'grid';
+                
+            } catch (error) {
+                console.error('Error loading NFT data:', error);
+                document.getElementById('loadingState').innerHTML = `
+                    <div class="error">
+                        <h2>Error Loading NFTs</h2>
+                        <p>${error.message}</p>
+                        <p style="margin-top: 10px; font-size: 14px;">Make sure data.json is in the same directory as index.html</p>
+                    </div>
+                `;
+            }
+        }
+
+        // Populate filter dropdowns
+        function populateFilterDropdowns() {
+            const eyes = new Set();
+            const facez = new Set();
+            const backgrounds = new Set();
+
+            allNFTs.forEach(nft => {
+                if (nft.traits.eyes) eyes.add(nft.traits.eyes);
+                if (nft.traits.facez) facez.add(nft.traits.facez);
+                if (nft.traits.backgrounds) backgrounds.add(nft.traits.backgrounds);
+            });
+
+            populateSelect('eyesFilter', Array.from(eyes).sort());
+            populateSelect('facezFilter', Array.from(facez).sort());
+            populateSelect('backgroundsFilter', Array.from(backgrounds).sort());
+        }
+
+        function populateSelect(selectId, options) {
+            const select = document.getElementById(selectId);
+            options.forEach(option => {
+                const opt = document.createElement('option');
+                opt.value = option;
+                opt.textContent = option;
+                select.appendChild(opt);
+            });
+        }
+
+        // Apply filters
+        function applyFilters() {
+            const searchTerm = document.getElementById('searchInput').value.toLowerCase();
+            const eyesFilter = document.getElementById('eyesFilter').value;
+            const facezFilter = document.getElementById('facezFilter').value;
+            const backgroundsFilter = document.getElementById('backgroundsFilter').value;
+            const listingFilter = document.getElementById('listingFilter').value;
+            const sortFilter = document.getElementById('sortFilter').value;
+
+            // Filter NFTs
+            filteredNFTs = allNFTs.filter(nft => {
+                // Search filter
+                if (searchTerm && !nft.name.toLowerCase().includes(searchTerm)) {
+                    return false;
+                }
+
+                // Trait filters
+                if (eyesFilter && nft.traits.eyes !== eyesFilter) return false;
+                if (facezFilter && nft.traits.facez !== facezFilter) return false;
+                if (backgroundsFilter && nft.traits.backgrounds !== backgroundsFilter) return false;
+
+                // Listing filter
+                if (listingFilter === 'listed' && !nft.isListed) return false;
+                if (listingFilter === 'unlisted' && nft.isListed) return false;
+
+                return true;
+            });
+
+            // Sort NFTs
+            filteredNFTs.sort((a, b) => {
+                if (sortFilter === 'number') {
+                    const aNum = parseInt(a.name.match(/\d+/)?.[0] || '0');
+                    const bNum = parseInt(b.name.match(/\d+/)?.[0] || '0');
+                    return aNum - bNum;
+                } else if (sortFilter === 'price-low') {
+                    return (a.price || 999999) - (b.price || 999999);
+                } else if (sortFilter === 'price-high') {
+                    return (b.price || 0) - (a.price || 0);
+                }
+                return 0;
+            });
+
+            renderNFTs();
+            updateVisibleCount();
+        }
+
+        // Render NFTs
+        function renderNFTs() {
+            const grid = document.getElementById('nftGrid');
+            const emptyState = document.getElementById('emptyState');
+
+            if (filteredNFTs.length === 0) {
+                grid.style.display = 'none';
+                emptyState.style.display = 'block';
+                return;
+            }
+
+            grid.style.display = 'grid';
+            emptyState.style.display = 'none';
+            grid.innerHTML = '';
+
+            filteredNFTs.forEach(nft => {
+                const card = createNFTCard(nft);
+                grid.appendChild(card);
+            });
+        }
+
+        // Create NFT card
+        function createNFTCard(nft) {
+            const card = document.createElement('div');
+            card.className = `nft-card ${nft.isListed ? 'listed' : ''}`;
+            card.onclick = () => window.open(nft.magicEdenUrl, '_blank');
+
+            card.innerHTML = `
+                <div class="nft-image-container">
+                    <img src="${nft.image}" alt="${nft.name}" class="nft-image" loading="lazy">
+                    ${nft.isListed ? '<div class="listing-badge">FOR SALE</div>' : ''}
+                </div>
+                <div class="nft-info">
+                    <div class="nft-name">${nft.name}</div>
+                    ${nft.isListed && nft.price ? `<div class="nft-price">◎ ${nft.price.toFixed(3)} SOL</div>` : ''}
+                    <div class="nft-owner">Owner: ${nft.owner.substring(0, 4)}...${nft.owner.substring(nft.owner.length - 4)}</div>
+                    <div class="nft-traits">
+                        ${Object.entries(nft.traits).map(([key, value]) => 
+                            `<span class="trait-badge">${key}: ${value}</span>`
+                        ).join('')}
+                    </div>
+                </div>
+            `;
+
+            return card;
+        }
+
+        // Update stats
+        function updateStats() {
+            const listedNFTs = allNFTs.filter(nft => nft.isListed);
+            const prices = listedNFTs.map(nft => nft.price).filter(p => p > 0);
+            const floorPrice = prices.length > 0 ? Math.min(...prices) : 0;
+
+            document.getElementById('totalCount').textContent = allNFTs.length;
+            document.getElementById('listedCount').textContent = listedNFTs.length;
+            document.getElementById('floorPrice').textContent = floorPrice > 0 ? `◎ ${floorPrice.toFixed(3)}` : '-';
+        }
+
+        function updateVisibleCount() {
+            document.getElementById('visibleCount').textContent = filteredNFTs.length;
+        }
+
+        // Reset filters
+        function resetFilters() {
+            document.getElementById('searchInput').value = '';
+            document.getElementById('eyesFilter').value = '';
+            document.getElementById('facezFilter').value = '';
+            document.getElementById('backgroundsFilter').value = '';
+            document.getElementById('listingFilter').value = 'all';
+            document.getElementById('sortFilter').value = 'number';
+            applyFilters();
+        }
+
+        // Event listeners
+        document.getElementById('searchInput').addEventListener('input', applyFilters);
+        document.getElementById('eyesFilter').addEventListener('change', applyFilters);
+        document.getElementById('facezFilter').addEventListener('change', applyFilters);
+        document.getElementById('backgroundsFilter').addEventListener('change', applyFilters);
+        document.getElementById('listingFilter').addEventListener('change', applyFilters);
+        document.getElementById('sortFilter').addEventListener('change', applyFilters);
+
+        // Initialize
+        loadNFTData();
+    </script>
+</body>
+</html>

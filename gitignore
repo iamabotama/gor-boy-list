@@ -1,0 +1,14 @@
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Editor directories
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Optional: If you want to keep your real data private
+# Uncomment the line below (but then you'll need to upload data.json separately)
+# data.json

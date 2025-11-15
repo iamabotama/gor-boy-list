@@ -1,0 +1,42 @@
+{
+  "collection": "GORBAGIO",
+  "filter": "hands: gor-boy",
+  "total": 2,
+  "listed": 1,
+  "unlisted": 1,
+  "generated": "2025-11-15T06:27:17.557Z",
+  "nfts": [
+    {
+      "mint": "SAMPLE1234567890ABCDEF",
+      "name": "Gorbagio #1",
+      "image": "https://placehold.co/400x400/1a1a1a/00ff00?text=GORBAGIO+1",
+      "traits": {
+        "hands": "gor-boy",
+        "eyes": "hazel",
+        "facez": "white",
+        "backgrounds": "cookies",
+        "binz": "original"
+      },
+      "owner": "OWNER1234567890ABCDEF",
+      "isListed": true,
+      "price": 1.254,
+      "magicEdenUrl": "https://magiceden.us/item-details/SAMPLE1234567890ABCDEF"
+    },
+    {
+      "mint": "SAMPLE0987654321FEDCBA",
+      "name": "Gorbagio #2",
+      "image": "https://placehold.co/400x400/1a1a1a/00ff00?text=GORBAGIO+2",
+      "traits": {
+        "hands": "gor-boy",
+        "eyes": "flora",
+        "facez": "black",
+        "backgrounds": "casino",
+        "binz": "recycle-bin"
+      },
+      "owner": "OWNER0987654321FEDCBA",
+      "isListed": false,
+      "price": null,
+      "magicEdenUrl": "https://magiceden.us/item-details/SAMPLE0987654321FEDCBA"
+    }
+  ]
+}
