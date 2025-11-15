@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>GORBAGIO Gor-Boy Collection</title>
+    <title>GORBAGIO Collection - All 4444 NFTs</title>
     <style>
         * {
             margin: 0;
@@ -19,7 +19,7 @@
         }
 
         .container {
-            max-width: 1400px;
+            max-width: 1600px;
             margin: 0 auto;
             padding: 20px;
         }
@@ -117,39 +117,201 @@
             border-color: #00ff00;
             box-shadow: 0 0 10px rgba(0, 255, 0, 0.3);
         }
+        
+        /* Style selected options in dropdowns */
+        .filter-group select option:checked,
+        .filter-group select option[selected] {
+            background: #00ff00;
+            color: #000;
+            font-weight: bold;
+        }
+        
+        /* For browsers that support it, style the selected value in the dropdown */
+        .filter-group select:has(option:not([value=""]):checked) {
+            background: rgba(0, 255, 0, 0.15);
+            font-weight: bold;
+            border-color: #00ff00;
+        }
 
         .filter-buttons {
             display: flex;
             gap: 10px;
+            flex-wrap: wrap;
         }
 
+        /* Updated Button Styling - Rounded Pill Shape */
         button {
-            padding: 10px 20px;
+            padding: 12px 30px;
             background: #00ff00;
             color: #000;
-            border: none;
-            border-radius: 4px;
+            border: 3px solid #fff;
+            border-radius: 50px;
             font-weight: bold;
+            font-size: 16px;
             cursor: pointer;
             transition: all 0.3s;
+            text-transform: capitalize;
         }
 
         button:hover {
             background: #00cc00;
             transform: translateY(-2px);
+            box-shadow: 0 5px 15px rgba(0, 255, 0, 0.4);
         }
 
         button.secondary {
-            background: #333;
+            background: transparent;
             color: #00ff00;
-            border: 1px solid #00ff00;
+            border: 3px solid #00ff00;
         }
 
         button.secondary:hover {
-            background: #444;
+            background: rgba(0, 255, 0, 0.1);
         }
 
-        /* NFT Grid */
+        /* View Toggle Buttons */
+        .view-toggle {
+            display: flex;
+            gap: 10px;
+            margin-bottom: 20px;
+            justify-content: center;
+        }
+
+        button.view-btn {
+            padding: 10px 25px;
+            font-size: 14px;
+        }
+
+        button.view-btn.active {
+            background: #00ff00;
+            color: #000;
+            border-color: #fff;
+        }
+
+        button.view-btn:not(.active) {
+            background: transparent;
+            color: #00ff00;
+            border-color: #00ff00;
+        }
+
+        /* NFT List View */
+        .nft-list {
+            background: #1a1a1a;
+            border: 2px solid #00ff00;
+            border-radius: 8px;
+            overflow: hidden;
+        }
+
+        .list-header {
+            display: grid;
+            grid-template-columns: 80px 200px 150px 200px 1fr;
+            gap: 15px;
+            padding: 15px;
+            background: #0a0a0a;
+            border-bottom: 2px solid #00ff00;
+            font-weight: bold;
+            color: #00ff00;
+            font-size: 14px;
+        }
+
+        .list-row {
+            display: grid;
+            grid-template-columns: 80px 200px 150px 200px 1fr;
+            gap: 15px;
+            padding: 15px;
+            border-bottom: 1px solid #333;
+            align-items: center;
+            transition: all 0.3s;
+            cursor: pointer;
+        }
+
+        .list-row:hover {
+            background: rgba(0, 255, 0, 0.1);
+        }
+
+        .list-row.listed {
+            background: rgba(0, 255, 0, 0.05);
+        }
+
+        /* Image with hover preview */
+        .list-image-container {
+            position: relative;
+            width: 60px;
+            height: 60px;
+        }
+
+        .list-image {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+            border-radius: 4px;
+            border: 2px solid #333;
+        }
+
+        .list-row:hover .list-image {
+            border-color: #00ff00;
+        }
+
+        /* Large image preview on hover */
+        .list-image-container:hover::after {
+            content: '';
+            position: absolute;
+            top: -10px;
+            left: 70px;
+            width: 300px;
+            height: 300px;
+            background-image: var(--hover-image);
+            background-size: cover;
+            background-position: center;
+            border: 3px solid #00ff00;
+            border-radius: 8px;
+            box-shadow: 0 10px 30px rgba(0, 255, 0, 0.5);
+            z-index: 1000;
+            pointer-events: none;
+        }
+
+        .list-name {
+            color: #00ff00;
+            font-weight: bold;
+            font-size: 16px;
+        }
+
+        .list-price {
+            color: #fff;
+            font-size: 16px;
+        }
+
+        .list-price.not-listed {
+            color: #888;
+            font-style: italic;
+        }
+
+        .list-owner {
+            color: #00ff00;
+            font-size: 14px;
+            text-decoration: none;
+        }
+
+        .list-owner:hover {
+            text-decoration: underline;
+        }
+
+        .list-traits {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 5px;
+        }
+
+        .trait-badge {
+            background: #0a0a0a;
+            border: 1px solid #00ff00;
+            padding: 3px 8px;
+            border-radius: 3px;
+            font-size: 10px;
+            color: #00ff00;
+        }
+
+        /* NFT Grid (kept for toggle option) */
         .nft-grid {
             display: grid;
             grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
@@ -179,7 +341,7 @@
         .nft-image-container {
             position: relative;
             width: 100%;
-            padding-top: 100%; /* 1:1 Aspect Ratio */
+            padding-top: 100%;
             background: #0a0a0a;
             overflow: hidden;
         }
@@ -236,41 +398,15 @@
             margin-top: 10px;
         }
 
-        .trait-badge {
-            background: #0a0a0a;
-            border: 1px solid #00ff00;
-            padding: 3px 8px;
-            border-radius: 3px;
-            font-size: 10px;
-            color: #00ff00;
-        }
-
-        /* Loading State */
-        .loading {
+        /* Loading & Empty States */
+        .loading, .empty-state {
             text-align: center;
-            padding: 100px 20px;
-            font-size: 24px;
-            color: #00ff00;
-        }
-
-        .error {
-            background: #ff0000;
-            color: #fff;
-            padding: 20px;
-            border-radius: 8px;
-            margin: 20px 0;
-            text-align: center;
-        }
-
-        /* Empty State */
-        .empty-state {
-            text-align: center;
-            padding: 100px 20px;
+            padding: 60px 20px;
             color: #888;
         }
 
-        .empty-state h2 {
-            font-size: 24px;
+        .loading h2, .empty-state h2 {
+            color: #00ff00;
             margin-bottom: 10px;
         }
 
@@ -278,16 +414,39 @@
         footer {
             text-align: center;
             padding: 40px 20px;
-            color: #888;
-            border-top: 1px solid #333;
+            border-top: 2px solid #00ff00;
             margin-top: 40px;
+            color: #888;
+        }
+
+        /* Responsive */
+        @media (max-width: 1024px) {
+            .list-header, .list-row {
+                grid-template-columns: 60px 150px 120px 150px 1fr;
+                font-size: 12px;
+            }
+        }
+
+        @media (max-width: 768px) {
+            .list-header {
+                display: none;
+            }
+
+            .list-row {
+                grid-template-columns: 1fr;
+                gap: 10px;
+            }
+
+            .list-image-container:hover::after {
+                display: none;
+            }
         }
     </style>
 </head>
 <body>
     <header>
-        <h1>🗑️ GORBAGIO GOR-BOY COLLECTION 🗑️</h1>
-        <p class="subtitle">All 227 NFTs with the legendary Gor-Boy hands</p>
+        <h1>🦍 GORBAGIO COLLECTION</h1>
+        <p class="subtitle">Complete Collection - All 4444 NFTs</p>
     </header>
 
     <div class="container">
@@ -303,7 +462,7 @@
             </div>
             <div class="stat-card">
                 <div class="stat-value" id="floorPrice">-</div>
-                <div class="stat-label">Floor Price (SOL)</div>
+                <div class="stat-label">Floor Price</div>
             </div>
             <div class="stat-card">
                 <div class="stat-value" id="visibleCount">-</div>
@@ -315,26 +474,11 @@
         <div class="filters">
             <div class="filter-row">
                 <div class="filter-group">
-                    <label>Search by Name/Number</label>
-                    <input type="text" id="searchInput" placeholder="e.g. 826 or Gorbagio #826">
+                    <label>Search</label>
+                    <input type="text" id="searchInput" placeholder="Search by name or number...">
                 </div>
-                <div class="filter-group">
-                    <label>Eyes</label>
-                    <select id="eyesFilter">
-                        <option value="">All Eyes</option>
-                    </select>
-                </div>
-                <div class="filter-group">
-                    <label>Face</label>
-                    <select id="facezFilter">
-                        <option value="">All Faces</option>
-                    </select>
-                </div>
-                <div class="filter-group">
-                    <label>Background</label>
-                    <select id="backgroundsFilter">
-                        <option value="">All Backgrounds</option>
-                    </select>
+                <div id="traitFiltersContainer" style="display: contents;">
+                    <!-- Trait filters will be dynamically added here -->
                 </div>
             </div>
             <div class="filter-row">
@@ -354,19 +498,43 @@
                         <option value="price-high">Price: High to Low</option>
                     </select>
                 </div>
-                <div class="filter-buttons">
+            </div>
+            <div class="filter-row">
+                <div class="filter-buttons" style="width: 100%; justify-content: center;">
                     <button onclick="resetFilters()">Reset Filters</button>
+                    <button class="secondary" onclick="exportToCSV()">Export to CSV</button>
+                    <button class="secondary" onclick="exportToJSON()">Export to JSON</button>
                 </div>
             </div>
         </div>
 
-        <!-- NFT Grid -->
-        <div id="loadingState" class="loading">
-            Loading GORBAGIO Gor-Boy NFTs...
+        <!-- View Toggle -->
+        <div class="view-toggle">
+            <button class="view-btn active" id="listViewBtn" onclick="switchView('list')">List View</button>
+            <button class="view-btn" id="gridViewBtn" onclick="switchView('grid')">Grid View</button>
         </div>
 
+        <!-- Loading State -->
+        <div id="loadingState" class="loading">
+            Loading GORBAGIO Collection...
+        </div>
+
+        <!-- List View (Default) -->
+        <div id="nftList" class="nft-list" style="display: none;">
+            <div class="list-header">
+                <div>Image</div>
+                <div>Gorbagio ID</div>
+                <div>Price</div>
+                <div>Owner</div>
+                <div>Attributes</div>
+            </div>
+            <div id="listContent"></div>
+        </div>
+
+        <!-- Grid View -->
         <div id="nftGrid" class="nft-grid" style="display: none;"></div>
 
+        <!-- Empty State -->
         <div id="emptyState" class="empty-state" style="display: none;">
             <h2>No NFTs Found</h2>
             <p>Try adjusting your filters</p>
@@ -381,6 +549,7 @@
     <script>
         let allNFTs = [];
         let filteredNFTs = [];
+        let currentView = 'list'; // Default to list view
 
         // Load the JSON data
         async function loadNFTData() {
@@ -390,15 +559,42 @@
                     throw new Error('Failed to load NFT data');
                 }
                 const data = await response.json();
-                allNFTs = data.nfts || [];
+                
+                // Map the new data format to match expected format
+                allNFTs = (data.nfts || []).map(nft => {
+                    // Price might be in lamports or SOL, detect which
+                    let priceInSOL = null;
+                    if (nft.price) {
+                        // If price is over 1000, it's probably in lamports
+                        priceInSOL = nft.price > 1000 ? nft.price / 1000000000 : nft.price;
+                    }
+                    
+                    return {
+                        name: nft.title || nft.name || `Gorbagio #${nft.tokenId}`,
+                        image: nft.image,
+                        owner: nft.owner,
+                        price: priceInSOL,
+                        isListed: !!(nft.listedStatus || (priceInSOL && priceInSOL > 0)),
+                        traits: nft.traits || {},
+                        mintAddress: nft.mintAddress,
+                        magicEdenUrl: `https://magiceden.io/item-details/${nft.mintAddress}`
+                    };
+                });
+                
+                // Debug: Log listing stats
+                const listedCount = allNFTs.filter(n => n.isListed).length;
+                const withPrice = allNFTs.filter(n => n.price && n.price > 0).length;
+                console.log(`Total NFTs: ${allNFTs.length}, Listed: ${listedCount}, With Price: ${withPrice}`);
                 
                 // Initialize
+                createTraitFilters();
                 populateFilterDropdowns();
+                setDefaultFilters(); // Set hands to gor-boy
                 applyFilters();
                 updateStats();
                 
                 document.getElementById('loadingState').style.display = 'none';
-                document.getElementById('nftGrid').style.display = 'grid';
+                switchView('list'); // Start with list view
                 
             } catch (error) {
                 console.error('Error loading NFT data:', error);
@@ -406,31 +602,113 @@
                     <div class="error">
                         <h2>Error Loading NFTs</h2>
                         <p>${error.message}</p>
-                        <p style="margin-top: 10px; font-size: 14px;">Make sure data.json is in the same directory as index.html</p>
+                        <p style="margin-top: 10px; font-size: 14px;">Make sure data.json is accessible from GitHub</p>
                     </div>
                 `;
             }
         }
 
-        // Populate filter dropdowns
-        function populateFilterDropdowns() {
-            const eyes = new Set();
-            const facez = new Set();
-            const backgrounds = new Set();
+        // Switch between list and grid views
+        function switchView(view) {
+            currentView = view;
+            const listView = document.getElementById('nftList');
+            const gridView = document.getElementById('nftGrid');
+            const listBtn = document.getElementById('listViewBtn');
+            const gridBtn = document.getElementById('gridViewBtn');
 
+            if (view === 'list') {
+                listView.style.display = 'block';
+                gridView.style.display = 'none';
+                listBtn.classList.add('active');
+                gridBtn.classList.remove('active');
+                renderNFTs();
+            } else {
+                listView.style.display = 'none';
+                gridView.style.display = 'grid';
+                listBtn.classList.remove('active');
+                gridBtn.classList.add('active');
+                renderNFTs();
+            }
+        }
+
+        // Create filter dropdowns for all trait types
+        function createTraitFilters() {
+            const container = document.getElementById('traitFiltersContainer');
+            const traitTypes = new Set();
+            
+            // Collect all unique trait types
             allNFTs.forEach(nft => {
-                if (nft.traits.eyes) eyes.add(nft.traits.eyes);
-                if (nft.traits.facez) facez.add(nft.traits.facez);
-                if (nft.traits.backgrounds) backgrounds.add(nft.traits.backgrounds);
+                Object.keys(nft.traits || {}).forEach(trait => traitTypes.add(trait));
             });
+            
+            // Create a filter for each trait type
+            Array.from(traitTypes).sort().forEach(traitType => {
+                const filterGroup = document.createElement('div');
+                filterGroup.className = 'filter-group';
+                
+                const label = document.createElement('label');
+                label.textContent = traitType.charAt(0).toUpperCase() + traitType.slice(1);
+                
+                const select = document.createElement('select');
+                select.id = `${traitType}Filter`;
+                select.className = 'trait-filter';
+                
+                const defaultOption = document.createElement('option');
+                defaultOption.value = '';
+                defaultOption.textContent = `All ${traitType.charAt(0).toUpperCase() + traitType.slice(1)}`;
+                select.appendChild(defaultOption);
+                
+                filterGroup.appendChild(label);
+                filterGroup.appendChild(select);
+                container.appendChild(filterGroup);
+                
+                // Add event listener
+                select.addEventListener('change', applyFilters);
+            });
+        }
 
-            populateSelect('eyesFilter', Array.from(eyes).sort());
-            populateSelect('facezFilter', Array.from(facez).sort());
-            populateSelect('backgroundsFilter', Array.from(backgrounds).sort());
+        // Populate filter dropdowns with values
+        function populateFilterDropdowns() {
+            const traitValues = {};
+            
+            // Collect all unique values for each trait
+            allNFTs.forEach(nft => {
+                Object.entries(nft.traits || {}).forEach(([traitType, value]) => {
+                    if (!traitValues[traitType]) {
+                        traitValues[traitType] = new Set();
+                    }
+                    if (value) {
+                        traitValues[traitType].add(value);
+                    }
+                });
+            });
+            
+            // Populate each filter dropdown
+            Object.entries(traitValues).forEach(([traitType, values]) => {
+                const select = document.getElementById(`${traitType}Filter`);
+                if (select) {
+                    Array.from(values).sort().forEach(value => {
+                        const opt = document.createElement('option');
+                        opt.value = value;
+                        opt.textContent = value;
+                        select.appendChild(opt);
+                    });
+                }
+            });
+        }
+        
+        // Set default filters (Listed Only)
+        function setDefaultFilters() {
+            // Set listing filter to "listed" by default
+            const listingFilter = document.getElementById('listingFilter');
+            if (listingFilter) {
+                listingFilter.value = 'listed';
+            }
         }
 
         function populateSelect(selectId, options) {
             const select = document.getElementById(selectId);
+            if (!select) return;
             options.forEach(option => {
                 const opt = document.createElement('option');
                 opt.value = option;
@@ -442,11 +720,39 @@
         // Apply filters
         function applyFilters() {
             const searchTerm = document.getElementById('searchInput').value.toLowerCase();
-            const eyesFilter = document.getElementById('eyesFilter').value;
-            const facezFilter = document.getElementById('facezFilter').value;
-            const backgroundsFilter = document.getElementById('backgroundsFilter').value;
             const listingFilter = document.getElementById('listingFilter').value;
             const sortFilter = document.getElementById('sortFilter').value;
+            
+            // Get all trait filters dynamically
+            const traitFilters = {};
+            document.querySelectorAll('.trait-filter').forEach(select => {
+                const traitType = select.id.replace('Filter', '');
+                const value = select.value;
+                if (value) {
+                    traitFilters[traitType] = value;
+                    // Add visual indicator for selected filters
+                    select.style.background = 'rgba(0, 255, 0, 0.15)';
+                    select.style.borderColor = '#00ff00';
+                    select.style.fontWeight = 'bold';
+                } else {
+                    // Reset styling if no selection
+                    select.style.background = '#0a0a0a';
+                    select.style.borderColor = '#00ff00';
+                    select.style.fontWeight = 'normal';
+                }
+            });
+            
+            // Highlight listing filter if not "all"
+            const listingSelect = document.getElementById('listingFilter');
+            if (listingFilter !== 'all') {
+                listingSelect.style.background = 'rgba(0, 255, 0, 0.15)';
+                listingSelect.style.borderColor = '#00ff00';
+                listingSelect.style.fontWeight = 'bold';
+            } else {
+                listingSelect.style.background = '#0a0a0a';
+                listingSelect.style.borderColor = '#00ff00';
+                listingSelect.style.fontWeight = 'normal';
+            }
 
             // Filter NFTs
             filteredNFTs = allNFTs.filter(nft => {
@@ -455,10 +761,12 @@
                     return false;
                 }
 
-                // Trait filters
-                if (eyesFilter && nft.traits.eyes !== eyesFilter) return false;
-                if (facezFilter && nft.traits.facez !== facezFilter) return false;
-                if (backgroundsFilter && nft.traits.backgrounds !== backgroundsFilter) return false;
+                // Trait filters - check all dynamically
+                for (const [traitType, filterValue] of Object.entries(traitFilters)) {
+                    if (nft.traits[traitType] !== filterValue) {
+                        return false;
+                    }
+                }
 
                 // Listing filter
                 if (listingFilter === 'listed' && !nft.isListed) return false;
@@ -485,19 +793,77 @@
             updateVisibleCount();
         }
 
-        // Render NFTs
+        // Render NFTs (both views)
         function renderNFTs() {
-            const grid = document.getElementById('nftGrid');
             const emptyState = document.getElementById('emptyState');
 
             if (filteredNFTs.length === 0) {
-                grid.style.display = 'none';
+                document.getElementById('nftList').style.display = 'none';
+                document.getElementById('nftGrid').style.display = 'none';
                 emptyState.style.display = 'block';
                 return;
             }
 
-            grid.style.display = 'grid';
             emptyState.style.display = 'none';
+
+            if (currentView === 'list') {
+                renderListView();
+            } else {
+                renderGridView();
+            }
+        }
+
+        // Render List View
+        function renderListView() {
+            const listContent = document.getElementById('listContent');
+            listContent.innerHTML = '';
+
+            filteredNFTs.forEach(nft => {
+                const row = createListRow(nft);
+                listContent.appendChild(row);
+            });
+        }
+
+        // Create List Row
+        function createListRow(nft) {
+            const row = document.createElement('div');
+            row.className = `list-row ${nft.isListed ? 'listed' : ''}`;
+            
+            const solscanUrl = `https://solscan.io/account/${nft.owner}`;
+            const priceDisplay = nft.isListed && nft.price 
+                ? `◎ ${nft.price.toFixed(3)} SOL` 
+                : 'Not Listed';
+            const priceClass = nft.isListed ? 'list-price' : 'list-price not-listed';
+
+            row.innerHTML = `
+                <div class="list-image-container" style="--hover-image: url('${nft.image}')">
+                    <img src="${nft.image}" alt="${nft.name}" class="list-image" loading="lazy">
+                </div>
+                <div class="list-name">${nft.name}</div>
+                <div class="${priceClass}">${priceDisplay}</div>
+                <a href="${solscanUrl}" target="_blank" class="list-owner" onclick="event.stopPropagation()">
+                    ${nft.owner.substring(0, 6)}...${nft.owner.substring(nft.owner.length - 4)}
+                </a>
+                <div class="list-traits">
+                    ${Object.entries(nft.traits).map(([key, value]) => 
+                        `<span class="trait-badge">${key}: ${value}</span>`
+                    ).join('')}
+                </div>
+            `;
+
+            // Click to open Magic Eden (except when clicking owner link)
+            row.addEventListener('click', (e) => {
+                if (e.target.tagName !== 'A') {
+                    window.open(nft.magicEdenUrl, '_blank');
+                }
+            });
+
+            return row;
+        }
+
+        // Render Grid View
+        function renderGridView() {
+            const grid = document.getElementById('nftGrid');
             grid.innerHTML = '';
 
             filteredNFTs.forEach(nft => {
@@ -506,7 +872,7 @@
             });
         }
 
-        // Create NFT card
+        // Create NFT Card (Grid View)
         function createNFTCard(nft) {
             const card = document.createElement('div');
             card.className = `nft-card ${nft.isListed ? 'listed' : ''}`;
@@ -532,6 +898,52 @@
             return card;
         }
 
+        // Export to CSV
+        function exportToCSV() {
+            // Get all trait types
+            const traitTypes = new Set();
+            filteredNFTs.forEach(nft => {
+                Object.keys(nft.traits || {}).forEach(trait => traitTypes.add(trait));
+            });
+            const sortedTraits = Array.from(traitTypes).sort();
+            
+            const headers = ['Name', 'Price (SOL)', 'Listed', 'Owner', ...sortedTraits, 'Magic Eden URL'];
+            const rows = filteredNFTs.map(nft => [
+                nft.name,
+                nft.price || 'N/A',
+                nft.isListed ? 'Yes' : 'No',
+                nft.owner,
+                ...sortedTraits.map(trait => nft.traits[trait] || ''),
+                nft.magicEdenUrl
+            ]);
+
+            const csvContent = [
+                headers.join(','),
+                ...rows.map(row => row.map(cell => `"${cell}"`).join(','))
+            ].join('\n');
+
+            downloadFile(csvContent, 'gorbagio-collection.csv', 'text/csv');
+        }
+
+        // Export to JSON
+        function exportToJSON() {
+            const jsonContent = JSON.stringify(filteredNFTs, null, 2);
+            downloadFile(jsonContent, 'gorbagio-collection.json', 'application/json');
+        }
+
+        // Download file helper
+        function downloadFile(content, filename, mimeType) {
+            const blob = new Blob([content], { type: mimeType });
+            const url = URL.createObjectURL(blob);
+            const link = document.createElement('a');
+            link.href = url;
+            link.download = filename;
+            document.body.appendChild(link);
+            link.click();
+            document.body.removeChild(link);
+            URL.revokeObjectURL(url);
+        }
+
         // Update stats
         function updateStats() {
             const listedNFTs = allNFTs.filter(nft => nft.isListed);
@@ -550,19 +962,24 @@
         // Reset filters
         function resetFilters() {
             document.getElementById('searchInput').value = '';
-            document.getElementById('eyesFilter').value = '';
-            document.getElementById('facezFilter').value = '';
-            document.getElementById('backgroundsFilter').value = '';
-            document.getElementById('listingFilter').value = 'all';
+            
+            // Reset all trait filters and their styling
+            document.querySelectorAll('.trait-filter').forEach(select => {
+                select.value = '';
+                select.style.background = '#0a0a0a';
+                select.style.borderColor = '#00ff00';
+                select.style.fontWeight = 'normal';
+            });
+            
+            // Keep Listed Only as default
+            document.getElementById('listingFilter').value = 'listed';
             document.getElementById('sortFilter').value = 'number';
+            
             applyFilters();
         }
 
-        // Event listeners
+        // Event listeners (trait filters are added dynamically in createTraitFilters)
         document.getElementById('searchInput').addEventListener('input', applyFilters);
-        document.getElementById('eyesFilter').addEventListener('change', applyFilters);
-        document.getElementById('facezFilter').addEventListener('change', applyFilters);
-        document.getElementById('backgroundsFilter').addEventListener('change', applyFilters);
         document.getElementById('listingFilter').addEventListener('change', applyFilters);
         document.getElementById('sortFilter').addEventListener('change', applyFilters);
 
