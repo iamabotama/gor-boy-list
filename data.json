@@ -1,42 +1,4087 @@
 {
   "collection": "GORBAGIO",
   "filter": "hands: gor-boy",
-  "total": 2,
-  "listed": 1,
-  "unlisted": 1,
+  "total": 227,
+  "listed": 17,
+  "unlisted": 210,
   "generated": "2025-11-15T06:27:17.557Z",
   "nfts": [
     {
-      "mint": "SAMPLE1234567890ABCDEF",
-      "name": "Gorbagio #1",
-      "image": "https://placehold.co/400x400/1a1a1a/00ff00?text=GORBAGIO+1",
+      "mint": "3xf3Fb5yoyB9BC6dPjm7PLfJBF74xUkJanrepdRwo4Eg",
+      "name": "Gorbagio  #3",
+      "image": "https://plum-far-bobcat-940.mypinata.cloud/ipfs/bafybeihkdrontwttwgcaqlpifsav2pvyzyi2m4otl2jeklp4dbdzasdcu4/3.png",
       "traits": {
+        "backgrounds": "fbi open up",
+        "binz": "digibin",
+        "facez": "zombie",
         "hands": "gor-boy",
-        "eyes": "hazel",
-        "facez": "white",
-        "backgrounds": "cookies",
-        "binz": "original"
+        "mouth": "smirk"
       },
-      "owner": "OWNER1234567890ABCDEF",
-      "isListed": true,
-      "price": 1.254,
-      "magicEdenUrl": "https://magiceden.us/item-details/SAMPLE1234567890ABCDEF"
+      "owner": "3f5Egzjy2voJ4FfqRYN1fcVxTeSemBpveNqhVFXMVA8r",
+      "isListed": 0,
+      "price": null,
+      "magicEdenUrl": "https://magiceden.us/item-details/3xf3Fb5yoyB9BC6dPjm7PLfJBF74xUkJanrepdRwo4Eg"
     },
     {
-      "mint": "SAMPLE0987654321FEDCBA",
-      "name": "Gorbagio #2",
-      "image": "https://placehold.co/400x400/1a1a1a/00ff00?text=GORBAGIO+2",
+      "mint": "4ALd3MvPicSfmHcwRC5M2cpzKe7A6rwZFNyXm4z8rMry",
+      "name": "Gorbagio  #14",
+      "image": "https://plum-far-bobcat-940.mypinata.cloud/ipfs/bafybeihkdrontwttwgcaqlpifsav2pvyzyi2m4otl2jeklp4dbdzasdcu4/14.png",
       "traits": {
+        "backgrounds": "nuclear",
+        "binz": "box",
+        "eyes": "circuit",
+        "facez": "black",
         "hands": "gor-boy",
+        "mouth": "tooth",
+        "over head": "croc-hat"
+      },
+      "owner": "BCNfx3NTncb9f8kjxTGrkRNAZPnzKJDCRux56mS7wwXi",
+      "isListed": 0,
+      "price": null,
+      "magicEdenUrl": "https://magiceden.us/item-details/4ALd3MvPicSfmHcwRC5M2cpzKe7A6rwZFNyXm4z8rMry"
+    },
+    {
+      "mint": "77wmvU8NAGmtA4YG3Wp8k5BP8y4NsvrPxf4amhuYthM7",
+      "name": "Gorbagio  #23",
+      "image": "https://plum-far-bobcat-940.mypinata.cloud/ipfs/bafybeihkdrontwttwgcaqlpifsav2pvyzyi2m4otl2jeklp4dbdzasdcu4/23.png",
+      "traits": {
+        "backgrounds": "oval office",
+        "binz": "matress",
+        "eyes": "starry",
+        "facez": "white",
+        "hands": "gor-boy",
+        "mouth": "fishy",
+        "over head": "hackererman",
+        "stickers": "chill grouch"
+      },
+      "owner": "Fh99jKmCVZC5zwrq6MY73ZpDCmnZqDi8jY3RxU7HvsRz",
+      "isListed": 0,
+      "price": null,
+      "magicEdenUrl": "https://magiceden.us/item-details/77wmvU8NAGmtA4YG3Wp8k5BP8y4NsvrPxf4amhuYthM7"
+    },
+    {
+      "mint": "GUmHH6uYR9rQhKimgWFNg1UmTUFK8bm1vQrEXcMXgVQe",
+      "name": "Gorbagio  #52",
+      "image": "https://plum-far-bobcat-940.mypinata.cloud/ipfs/bafybeihkdrontwttwgcaqlpifsav2pvyzyi2m4otl2jeklp4dbdzasdcu4/52.png",
+      "traits": {
+        "backgrounds": "stall",
+        "binz": "digibin",
+        "eyes": "dark brown",
+        "facez": "black",
+        "hands": "gor-boy",
+        "mouth": "tooth"
+      },
+      "owner": "BzBaT5gZ9bZ2ibwm1KQCCDdtzxfXkWbnKMSrcgzydTMU",
+      "isListed": 0,
+      "price": null,
+      "magicEdenUrl": "https://magiceden.us/item-details/GUmHH6uYR9rQhKimgWFNg1UmTUFK8bm1vQrEXcMXgVQe"
+    },
+    {
+      "mint": "Ps3JPCb8k6tcAKt9eA6PVGYWtqe6gYpcGZ94oovGLh3",
+      "name": "Gorbagio  #93",
+      "image": "https://plum-far-bobcat-940.mypinata.cloud/ipfs/bafybeihkdrontwttwgcaqlpifsav2pvyzyi2m4otl2jeklp4dbdzasdcu4/93.png",
+      "traits": {
+        "backgrounds": "cardboard",
+        "binz": "dumpster",
+        "eyes": "heheh",
+        "facez": "oni",
+        "hands": "gor-boy",
+        "mouth": "smirk",
+        "over head": "oni-horns"
+      },
+      "owner": "A88Nb1uyU7i5ntJnbRU37mAjBYMWtfrKEhEmtHMZKLHF",
+      "isListed": 0,
+      "price": null,
+      "magicEdenUrl": "https://magiceden.us/item-details/Ps3JPCb8k6tcAKt9eA6PVGYWtqe6gYpcGZ94oovGLh3"
+    },
+    {
+      "mint": "E5AFjNemocY8H7BvQ87dwAGj35aZmoiMW5DS9LbhRCtr",
+      "name": "Gorbagio  #95",
+      "image": "https://plum-far-bobcat-940.mypinata.cloud/ipfs/bafybeihkdrontwttwgcaqlpifsav2pvyzyi2m4otl2jeklp4dbdzasdcu4/95.png",
+      "traits": {
+        "backgrounds": "dc pentragram",
+        "binz": "original",
+        "eyes": "anime",
+        "facez": "white",
+        "hands": "gor-boy",
+        "mouth": "tab",
+        "over head": "hackererman"
+      },
+      "owner": "5CYiAZG3ebzURjzii3UFGmw9XSLG3uskzo6AYoXpUuMk",
+      "isListed": 0,
+      "price": null,
+      "magicEdenUrl": "https://magiceden.us/item-details/E5AFjNemocY8H7BvQ87dwAGj35aZmoiMW5DS9LbhRCtr"
+    },
+    {
+      "mint": "7NiaG7cMjCT9LXzWzTfmocvhgoTJjf2usm1ef1h4h6aS",
+      "name": "Gorbagio  #156",
+      "image": "https://plum-far-bobcat-940.mypinata.cloud/ipfs/bafybeihkdrontwttwgcaqlpifsav2pvyzyi2m4otl2jeklp4dbdzasdcu4/156.png",
+      "traits": {
+        "backgrounds": "gorbage truck",
+        "binz": "recycle-bin",
+        "eyes": "oh, you",
+        "facez": "black",
+        "hands": "gor-boy",
+        "mouth": "heheh",
+        "over head": "fumo"
+      },
+      "owner": "96Fj2y91Xa8Z8x6vjbwPKhCMhxsH66pP1BsoCR1HFVU5",
+      "isListed": 0,
+      "price": null,
+      "magicEdenUrl": "https://magiceden.us/item-details/7NiaG7cMjCT9LXzWzTfmocvhgoTJjf2usm1ef1h4h6aS"
+    },
+    {
+      "mint": "6WqfNFCd8vXrMXiBPai3oA6SLo8b6Lwatsb7gioTZeE1",
+      "name": "Gorbagio  #164",
+      "image": "https://plum-far-bobcat-940.mypinata.cloud/ipfs/bafybeihkdrontwttwgcaqlpifsav2pvyzyi2m4otl2jeklp4dbdzasdcu4/164.png",
+      "traits": {
+        "backgrounds": "sesame",
+        "binz": "original",
+        "facez": "zombie",
+        "hands": "gor-boy",
+        "mouth": "smirk",
+        "over head": "croc-hat",
+        "stickers": "chibi oscar"
+      },
+      "owner": "CCJ3XKXDcUAxohZuvfHBLD1eNkML2mYjnHUtjFBfSy8N",
+      "isListed": 0,
+      "price": null,
+      "magicEdenUrl": "https://magiceden.us/item-details/6WqfNFCd8vXrMXiBPai3oA6SLo8b6Lwatsb7gioTZeE1"
+    },
+    {
+      "mint": "5s9ifUBVnJLVkXKWbzLfdwFX87fLHQGd2gm8q5WT9J2q",
+      "name": "Gorbagio  #173",
+      "image": "https://plum-far-bobcat-940.mypinata.cloud/ipfs/bafybeihkdrontwttwgcaqlpifsav2pvyzyi2m4otl2jeklp4dbdzasdcu4/173.png",
+      "traits": {
+        "backgrounds": "im coming to kill you",
+        "binz": "box",
+        "eyes": "starry",
+        "facez": "black",
+        "hands": "gor-boy",
+        "mouth": "u",
+        "over head": "hackererman",
+        "stickers": "garbagewave"
+      },
+      "owner": "DYGu8t2tsDBDv7i3RuMHKhyH9kUxWP2pB8Q4exKoH7iT",
+      "isListed": 0,
+      "price": null,
+      "magicEdenUrl": "https://magiceden.us/item-details/5s9ifUBVnJLVkXKWbzLfdwFX87fLHQGd2gm8q5WT9J2q"
+    },
+    {
+      "mint": "5ErRxsKQJyQrq4VWBcQ8Wv5Fd8ksYfXj7Y8AkFrosaDR",
+      "name": "Gorbagio  #214",
+      "image": "https://plum-far-bobcat-940.mypinata.cloud/ipfs/bafybeihkdrontwttwgcaqlpifsav2pvyzyi2m4otl2jeklp4dbdzasdcu4/214.png",
+      "traits": {
+        "backgrounds": "brave beautiful woman",
+        "binz": "matress",
+        "eyes": "oh, you",
+        "facez": "oni",
+        "hands": "gor-boy",
+        "mouth": "bubblegum",
+        "over head": "oni-horns",
+        "stickers": "chill grouch"
+      },
+      "owner": "Fmt7aVmxqPzU5UcpCLPi8mieYgoTWBDPTQ3XYzCAKT3P",
+      "isListed": 0,
+      "price": null,
+      "magicEdenUrl": "https://magiceden.us/item-details/5ErRxsKQJyQrq4VWBcQ8Wv5Fd8ksYfXj7Y8AkFrosaDR"
+    },
+    {
+      "mint": "BvAffeBB4hHTwKpAdY5wtSBm1MQp1MMi8SwuEtnYFdbY",
+      "name": "Gorbagio  #219",
+      "image": "https://plum-far-bobcat-940.mypinata.cloud/ipfs/bafybeihkdrontwttwgcaqlpifsav2pvyzyi2m4otl2jeklp4dbdzasdcu4/219.png",
+      "traits": {
+        "backgrounds": "cardboard",
+        "binz": "original",
+        "eyes": "heheh",
+        "facez": "black",
+        "hands": "gor-boy",
+        "mouth": "smirk",
+        "stickers": "gor father"
+      },
+      "owner": "BzBaT5gZ9bZ2ibwm1KQCCDdtzxfXkWbnKMSrcgzydTMU",
+      "isListed": 0,
+      "price": null,
+      "magicEdenUrl": "https://magiceden.us/item-details/BvAffeBB4hHTwKpAdY5wtSBm1MQp1MMi8SwuEtnYFdbY"
+    },
+    {
+      "mint": "8ebunbX9D4LwwDAQSRDZSgvCjf9kk9V3RKZ4KypLsrRi",
+      "name": "Gorbagio  #223",
+      "image": "https://plum-far-bobcat-940.mypinata.cloud/ipfs/bafybeihkdrontwttwgcaqlpifsav2pvyzyi2m4otl2jeklp4dbdzasdcu4/223.png",
+      "traits": {
+        "backgrounds": "cardboard",
+        "binz": "pump pill",
+        "eyes": "flora",
+        "facez": "white",
+        "hands": "gor-boy",
+        "mouth": "pouty",
+        "over head": "lol-hat"
+      },
+      "owner": "CYHs9waubQ8nsbPzsWMsuiM3FpbqQB1ceRUicaCuAd9b",
+      "isListed": 0,
+      "price": null,
+      "magicEdenUrl": "https://magiceden.us/item-details/8ebunbX9D4LwwDAQSRDZSgvCjf9kk9V3RKZ4KypLsrRi"
+    },
+    {
+      "mint": "GVkXc3XNrMuMTSijzjSKPJzUd9ZqWVLXh3BjW6BRkQFQ",
+      "name": "Gorbagio  #228",
+      "image": "https://plum-far-bobcat-940.mypinata.cloud/ipfs/bafybeihkdrontwttwgcaqlpifsav2pvyzyi2m4otl2jeklp4dbdzasdcu4/228.png",
+      "traits": {
+        "backgrounds": "cardboard",
+        "binz": "recycle-bin",
+        "eyes": "hazel",
+        "facez": "white",
+        "hands": "gor-boy",
+        "mouth": "smug",
+        "stickers": "chibi oscar"
+      },
+      "owner": "2QFdi1w6kyKLJk1YBasyg9KYyEPasGWswCZw8y2SXkT2",
+      "isListed": true,
+      "price": 1.2e-9,
+      "magicEdenUrl": "https://magiceden.us/item-details/GVkXc3XNrMuMTSijzjSKPJzUd9ZqWVLXh3BjW6BRkQFQ"
+    },
+    {
+      "mint": "8VGUVTcy9raNchV84xLLVQ28CSR9Qz62VqNw2ykYUQFx",
+      "name": "Gorbagio  #234",
+      "image": "https://plum-far-bobcat-940.mypinata.cloud/ipfs/bafybeihkdrontwttwgcaqlpifsav2pvyzyi2m4otl2jeklp4dbdzasdcu4/234.png",
+      "traits": {
+        "backgrounds": "dumpster",
+        "binz": "digibin",
+        "eyes": "hazel",
+        "facez": "white",
+        "hands": "gor-boy",
+        "mouth": "tooth",
+        "over head": "hackererman"
+      },
+      "owner": "A88Nb1uyU7i5ntJnbRU37mAjBYMWtfrKEhEmtHMZKLHF",
+      "isListed": 0,
+      "price": null,
+      "magicEdenUrl": "https://magiceden.us/item-details/8VGUVTcy9raNchV84xLLVQ28CSR9Qz62VqNw2ykYUQFx"
+    },
+    {
+      "mint": "A8BjfvGaZdLqDUDoBfHgrUYiCLoXevx1Ae9KsLbq9L1f",
+      "name": "Gorbagio  #261",
+      "image": "https://plum-far-bobcat-940.mypinata.cloud/ipfs/bafybeihkdrontwttwgcaqlpifsav2pvyzyi2m4otl2jeklp4dbdzasdcu4/261.png",
+      "traits": {
+        "backgrounds": "sesame",
+        "binz": "box",
+        "eyes": "oh, you",
+        "facez": "black",
+        "hands": "gor-boy",
+        "mouth": "remilio",
+        "stickers": "wolf of gor street"
+      },
+      "owner": "E4MNRP6zqgKQuoFmJEudtxwJN9f9y7gyQqi18TxmSSNK",
+      "isListed": 0,
+      "price": null,
+      "magicEdenUrl": "https://magiceden.us/item-details/A8BjfvGaZdLqDUDoBfHgrUYiCLoXevx1Ae9KsLbq9L1f"
+    },
+    {
+      "mint": "Hc1bomV48aAcF98afpv8CkoFFg8XpWCb6XhxP44d1Dhv",
+      "name": "Gorbagio  #264",
+      "image": "https://plum-far-bobcat-940.mypinata.cloud/ipfs/bafybeihkdrontwttwgcaqlpifsav2pvyzyi2m4otl2jeklp4dbdzasdcu4/264.png",
+      "traits": {
+        "backgrounds": "sesame",
+        "binz": "box",
+        "facez": "zombie",
+        "hands": "gor-boy",
+        "mouth": "tooth",
+        "stickers": "chill grouch"
+      },
+      "owner": "5zdWFbqUEA8geAwGfz55FTxR8PqYAFnCNCz52Dgzw87v",
+      "isListed": 0,
+      "price": null,
+      "magicEdenUrl": "https://magiceden.us/item-details/Hc1bomV48aAcF98afpv8CkoFFg8XpWCb6XhxP44d1Dhv"
+    },
+    {
+      "mint": "AQnbgFJp4Coc94bM1aN5joopCLDuC3ycyUoYcKJAEw7A",
+      "name": "Gorbagio  #268",
+      "image": "https://plum-far-bobcat-940.mypinata.cloud/ipfs/bafybeihkdrontwttwgcaqlpifsav2pvyzyi2m4otl2jeklp4dbdzasdcu4/268.png",
+      "traits": {
+        "backgrounds": "barone",
+        "binz": "original",
+        "eyes": "hazel",
+        "facez": "black",
+        "hands": "gor-boy",
+        "mouth": "bubblegum",
+        "over head": "beerhat"
+      },
+      "owner": "GQSsU24D3mDNWpTVc4m4wCqr6agiN8AXiLEWnQ54gezh",
+      "isListed": 0,
+      "price": null,
+      "magicEdenUrl": "https://magiceden.us/item-details/AQnbgFJp4Coc94bM1aN5joopCLDuC3ycyUoYcKJAEw7A"
+    },
+    {
+      "mint": "3ekUNB89bKCjHKipaKZRr5Urbi8QfDwnxuLpgAUKnRkB",
+      "name": "Gorbagio  #341",
+      "image": "https://plum-far-bobcat-940.mypinata.cloud/ipfs/bafybeihkdrontwttwgcaqlpifsav2pvyzyi2m4otl2jeklp4dbdzasdcu4/341.png",
+      "traits": {
+        "backgrounds": "girl dev",
+        "binz": "original",
+        "eyes": "dark brown",
+        "facez": "oni",
+        "hands": "gor-boy",
+        "mouth": "lollipop",
+        "over head": "oni-horns",
+        "stickers": "gorbagana street"
+      },
+      "owner": "GQSsU24D3mDNWpTVc4m4wCqr6agiN8AXiLEWnQ54gezh",
+      "isListed": 0,
+      "price": null,
+      "magicEdenUrl": "https://magiceden.us/item-details/3ekUNB89bKCjHKipaKZRr5Urbi8QfDwnxuLpgAUKnRkB"
+    },
+    {
+      "mint": "ELyoxidneNK5M6eEyRENBntkv7sTaL99WyTCxXvH8G5y",
+      "name": "Gorbagio  #350",
+      "image": "https://plum-far-bobcat-940.mypinata.cloud/ipfs/bafybeihkdrontwttwgcaqlpifsav2pvyzyi2m4otl2jeklp4dbdzasdcu4/350.png",
+      "traits": {
+        "backgrounds": "dumpster",
+        "binz": "futuristic",
+        "facez": "reptilian",
+        "hands": "gor-boy",
+        "mouth": "fishy",
+        "stickers": "pepe the grouch"
+      },
+      "owner": "25zePzXMwQsPeGGUJeZysu1UkkekSbbex1n6r4THFKQT",
+      "isListed": 0,
+      "price": null,
+      "magicEdenUrl": "https://magiceden.us/item-details/ELyoxidneNK5M6eEyRENBntkv7sTaL99WyTCxXvH8G5y"
+    },
+    {
+      "mint": "CwLq9aH7SB2bfp4Fpx56TUQRDgdGZyPiN2b9jWgPdeG3",
+      "name": "Gorbagio  #399",
+      "image": "https://plum-far-bobcat-940.mypinata.cloud/ipfs/bafybeihkdrontwttwgcaqlpifsav2pvyzyi2m4otl2jeklp4dbdzasdcu4/399.png",
+      "traits": {
+        "backgrounds": "dumpster",
+        "binz": "matress",
+        "eyes": "anime",
+        "facez": "white",
+        "hands": "gor-boy",
+        "mouth": "troll",
+        "over head": "beerhat",
+        "stickers": "oscar phone"
+      },
+      "owner": "5txxv1FLd6JsJoa5Jy9Sep9LoFSm2oNxNWS9TbmF9g7",
+      "isListed": 0,
+      "price": null,
+      "magicEdenUrl": "https://magiceden.us/item-details/CwLq9aH7SB2bfp4Fpx56TUQRDgdGZyPiN2b9jWgPdeG3"
+    },
+    {
+      "mint": "5mSRKSdJ4Pr8aPiS7ALz38AfHH3jySvMZabhRi1gd6yT",
+      "name": "Gorbagio  #413",
+      "image": "https://plum-far-bobcat-940.mypinata.cloud/ipfs/bafybeihkdrontwttwgcaqlpifsav2pvyzyi2m4otl2jeklp4dbdzasdcu4/413.png",
+      "traits": {
+        "backgrounds": "oval office",
+        "binz": "putty",
+        "facez": "reptilian",
+        "hands": "gor-boy",
+        "mouth": "remilio",
+        "over head": "minecraft",
+        "stickers": "wolf of gor street"
+      },
+      "owner": "4evha5y8StpSBqqAgdRVoQ3ANYm8X6Bf8vprpWLiApfd",
+      "isListed": 0,
+      "price": null,
+      "magicEdenUrl": "https://magiceden.us/item-details/5mSRKSdJ4Pr8aPiS7ALz38AfHH3jySvMZabhRi1gd6yT"
+    },
+    {
+      "mint": "9KtpQwEp6LYbNR2HEsoCzTBAwWDvRXPB57VwWc5Phkfc",
+      "name": "Gorbagio  #461",
+      "image": "https://plum-far-bobcat-940.mypinata.cloud/ipfs/bafybeihkdrontwttwgcaqlpifsav2pvyzyi2m4otl2jeklp4dbdzasdcu4/461.png",
+      "traits": {
+        "backgrounds": "snake eyes",
+        "binz": "box",
+        "eyes": "dark brown",
+        "facez": "white",
+        "hands": "gor-boy",
+        "mouth": "remilio",
+        "over head": "green phat",
+        "stickers": "luce"
+      },
+      "owner": "JA9LWtZTsnHzgXY9HMXW15UoZKB8qhSrpX21keCtdyUv",
+      "isListed": 0,
+      "price": null,
+      "magicEdenUrl": "https://magiceden.us/item-details/9KtpQwEp6LYbNR2HEsoCzTBAwWDvRXPB57VwWc5Phkfc"
+    },
+    {
+      "mint": "47k3im9RF7HU38qnP5KAazEpv2a8BCDXKN7EwmhW5dkU",
+      "name": "Gorbagio  #485",
+      "image": "https://plum-far-bobcat-940.mypinata.cloud/ipfs/bafybeihkdrontwttwgcaqlpifsav2pvyzyi2m4otl2jeklp4dbdzasdcu4/485.png",
+      "traits": {
+        "backgrounds": "vitalik",
+        "binz": "recycle-bin",
+        "eyes": "anime",
+        "facez": "white",
+        "hands": "gor-boy",
+        "mouth": "smirk",
+        "stickers": "george droyd"
+      },
+      "owner": "E5Fdp7qo9Unr4vg9nG1u4s8T4N5dx2JdhzzvM2FMymex",
+      "isListed": 0,
+      "price": null,
+      "magicEdenUrl": "https://magiceden.us/item-details/47k3im9RF7HU38qnP5KAazEpv2a8BCDXKN7EwmhW5dkU"
+    },
+    {
+      "mint": "6zyBjmM11JP3UKHJ73n2tAoM4Curbjd5PUYr812sBrke",
+      "name": "Gorbagio  #512",
+      "image": "https://plum-far-bobcat-940.mypinata.cloud/ipfs/bafybeihkdrontwttwgcaqlpifsav2pvyzyi2m4otl2jeklp4dbdzasdcu4/512.png",
+      "traits": {
+        "backgrounds": "cookies",
+        "binz": "recycle-bin",
+        "eyes": "starry",
+        "facez": "white",
+        "hands": "gor-boy",
+        "mouth": "smug",
+        "stickers": "garbage showzen"
+      },
+      "owner": "DhPovMCf53gyp6NYeqR3chFVPoZfVL2is6BUTDpqH1rg",
+      "isListed": 0,
+      "price": null,
+      "magicEdenUrl": "https://magiceden.us/item-details/6zyBjmM11JP3UKHJ73n2tAoM4Curbjd5PUYr812sBrke"
+    },
+    {
+      "mint": "4BZpj4NG2jMt7MfiXf7njTzNsjBamFLSu11iULYFBg67",
+      "name": "Gorbagio  #518",
+      "image": "https://plum-far-bobcat-940.mypinata.cloud/ipfs/bafybeihkdrontwttwgcaqlpifsav2pvyzyi2m4otl2jeklp4dbdzasdcu4/518.png",
+      "traits": {
+        "backgrounds": "gw freemason",
+        "binz": "matress",
+        "eyes": "heheh",
+        "facez": "white",
+        "hands": "gor-boy",
+        "mouth": "fishy"
+      },
+      "owner": "Ln1iEUYzXFsaNzsNyjMVTpKcNqQccz87LGhWU8fJBu1",
+      "isListed": 0,
+      "price": null,
+      "magicEdenUrl": "https://magiceden.us/item-details/4BZpj4NG2jMt7MfiXf7njTzNsjBamFLSu11iULYFBg67"
+    },
+    {
+      "mint": "5dHVrmuTcddD6CQ4ZaN65kG3SVVDwnh3wgx6NQRKHXaG",
+      "name": "Gorbagio  #545",
+      "image": "https://plum-far-bobcat-940.mypinata.cloud/ipfs/bafybeihkdrontwttwgcaqlpifsav2pvyzyi2m4otl2jeklp4dbdzasdcu4/545.png",
+      "traits": {
+        "backgrounds": "sesame",
+        "binz": "original",
+        "eyes": "smug eyes",
+        "facez": "white",
+        "hands": "gor-boy",
+        "mouth": "bubblegum",
+        "stickers": "restful cube"
+      },
+      "owner": "E5Fdp7qo9Unr4vg9nG1u4s8T4N5dx2JdhzzvM2FMymex",
+      "isListed": 0,
+      "price": null,
+      "magicEdenUrl": "https://magiceden.us/item-details/5dHVrmuTcddD6CQ4ZaN65kG3SVVDwnh3wgx6NQRKHXaG"
+    },
+    {
+      "mint": "yjxm9ybmy2NAtPH6G7oRGGexyPVo4GZ5WUHqX6k8JSA",
+      "name": "Gorbagio  #559",
+      "image": "https://plum-far-bobcat-940.mypinata.cloud/ipfs/bafybeihkdrontwttwgcaqlpifsav2pvyzyi2m4otl2jeklp4dbdzasdcu4/559.png",
+      "traits": {
+        "backgrounds": "im coming to kill you",
+        "binz": "matress",
+        "eyes": "smug eyes",
+        "facez": "white",
+        "hands": "gor-boy",
+        "mouth": "smirk",
+        "stickers": "gorbagana street"
+      },
+      "owner": "3spcyfzekfVPnV3SKXSdd2VcX2UzSwCLpyorxCFZz15p",
+      "isListed": true,
+      "price": 4.45e-9,
+      "magicEdenUrl": "https://magiceden.us/item-details/yjxm9ybmy2NAtPH6G7oRGGexyPVo4GZ5WUHqX6k8JSA"
+    },
+    {
+      "mint": "Bb3eRUnyGLBk4z13s4h5KLdDtdns4E4oKMf72yWjsnkv",
+      "name": "Gorbagio  #588",
+      "image": "https://plum-far-bobcat-940.mypinata.cloud/ipfs/bafybeihkdrontwttwgcaqlpifsav2pvyzyi2m4otl2jeklp4dbdzasdcu4/588.png",
+      "traits": {
+        "backgrounds": "casino",
+        "binz": "original",
+        "eyes": "smug eyes",
+        "facez": "black",
+        "hands": "gor-boy",
+        "mouth": "troll",
+        "over head": "lol-hat",
+        "stickers": "wolf of gor street"
+      },
+      "owner": "E5Fdp7qo9Unr4vg9nG1u4s8T4N5dx2JdhzzvM2FMymex",
+      "isListed": 0,
+      "price": null,
+      "magicEdenUrl": "https://magiceden.us/item-details/Bb3eRUnyGLBk4z13s4h5KLdDtdns4E4oKMf72yWjsnkv"
+    },
+    {
+      "mint": "8YGuDijn24TTmboiKLQCJ8qwj7gyzzb9Pj3iL7ThChwD",
+      "name": "Gorbagio  #589",
+      "image": "https://plum-far-bobcat-940.mypinata.cloud/ipfs/bafybeihkdrontwttwgcaqlpifsav2pvyzyi2m4otl2jeklp4dbdzasdcu4/589.png",
+      "traits": {
+        "backgrounds": "im coming to kill you",
+        "binz": "original",
+        "eyes": "dark brown",
+        "facez": "white",
+        "hands": "gor-boy",
+        "mouth": "cookie-crumbs",
+        "over head": "minecraft",
+        "stickers": "gorbagana street"
+      },
+      "owner": "5WvLjk7NgUDjQwJXuF24QNUSV6dJZXpG1ChJdEtS6aL4",
+      "isListed": 0,
+      "price": null,
+      "magicEdenUrl": "https://magiceden.us/item-details/8YGuDijn24TTmboiKLQCJ8qwj7gyzzb9Pj3iL7ThChwD"
+    },
+    {
+      "mint": "Cz92gSb8BaWcgr9vruNNGaJBoD2GZkN51sbR4yFFPjCt",
+      "name": "Gorbagio  #592",
+      "image": "https://plum-far-bobcat-940.mypinata.cloud/ipfs/bafybeihkdrontwttwgcaqlpifsav2pvyzyi2m4otl2jeklp4dbdzasdcu4/592.png",
+      "traits": {
+        "backgrounds": "cardboard",
+        "binz": "matress",
+        "eyes": "heheh",
+        "facez": "black",
+        "hands": "gor-boy",
+        "mouth": "troll"
+      },
+      "owner": "BLAnLyLVh55rctE2ATrHuCdhLuFHBU7suDiRAySjxWm6",
+      "isListed": 0,
+      "price": null,
+      "magicEdenUrl": "https://magiceden.us/item-details/Cz92gSb8BaWcgr9vruNNGaJBoD2GZkN51sbR4yFFPjCt"
+    },
+    {
+      "mint": "CzCyBk99bnENFchK6GEojNNJy76zVdWEkpofwUSokT6",
+      "name": "Gorbagio  #620",
+      "image": "https://plum-far-bobcat-940.mypinata.cloud/ipfs/bafybeihkdrontwttwgcaqlpifsav2pvyzyi2m4otl2jeklp4dbdzasdcu4/620.png",
+      "traits": {
+        "backgrounds": "casino",
+        "binz": "matress",
+        "eyes": "hazel",
+        "facez": "white",
+        "hands": "gor-boy",
+        "mouth": "smug",
+        "over head": "lol-hat"
+      },
+      "owner": "XPc3rhRriZd97VNADETZKruqCbjUoAb4ZDY8RJV4ByG",
+      "isListed": 0,
+      "price": null,
+      "magicEdenUrl": "https://magiceden.us/item-details/CzCyBk99bnENFchK6GEojNNJy76zVdWEkpofwUSokT6"
+    },
+    {
+      "mint": "Fx5hUUM1JZVWWg2Ao3HntY8EmQ8jbpMW6C8EpMBp8UMY",
+      "name": "Gorbagio  #629",
+      "image": "https://plum-far-bobcat-940.mypinata.cloud/ipfs/bafybeihkdrontwttwgcaqlpifsav2pvyzyi2m4otl2jeklp4dbdzasdcu4/629.png",
+      "traits": {
+        "backgrounds": "sesame",
+        "binz": "futuristic",
+        "facez": "zombie",
+        "hands": "gor-boy",
+        "mouth": "oh,-you-mouth",
+        "stickers": "oscar phone"
+      },
+      "owner": "4KDjnsmvuRprbcLDo7cMpG5RNRQhvcMryf81jvEariom",
+      "isListed": 0,
+      "price": null,
+      "magicEdenUrl": "https://magiceden.us/item-details/Fx5hUUM1JZVWWg2Ao3HntY8EmQ8jbpMW6C8EpMBp8UMY"
+    },
+    {
+      "mint": "2SyE2g5SxHbACo3qSFMzCw4kGhsyiPqWxkQnFk8JLF98",
+      "name": "Gorbagio  #630",
+      "image": "https://plum-far-bobcat-940.mypinata.cloud/ipfs/bafybeihkdrontwttwgcaqlpifsav2pvyzyi2m4otl2jeklp4dbdzasdcu4/630.png",
+      "traits": {
+        "backgrounds": "gorbatrix",
+        "binz": "matress",
+        "facez": "zombie",
+        "hands": "gor-boy",
+        "mouth": "oh,-you-mouth",
+        "stickers": "garbage showzen"
+      },
+      "owner": "5au4hsprsg7eyRg6KGeiRtHELJ2TBqfKwBTW3tZf8q5c",
+      "isListed": 0,
+      "price": null,
+      "magicEdenUrl": "https://magiceden.us/item-details/2SyE2g5SxHbACo3qSFMzCw4kGhsyiPqWxkQnFk8JLF98"
+    },
+    {
+      "mint": "bKyH4GpdN33VX3btiwwdFUvLX4L4PBQuLxJajBLhFgf",
+      "name": "Gorbagio  #671",
+      "image": "https://plum-far-bobcat-940.mypinata.cloud/ipfs/bafybeihkdrontwttwgcaqlpifsav2pvyzyi2m4otl2jeklp4dbdzasdcu4/671.png",
+      "traits": {
+        "backgrounds": "girl dev",
+        "binz": "matress",
+        "eyes": "oh, you",
+        "facez": "black",
+        "hands": "gor-boy",
+        "mouth": "tooth",
+        "stickers": "trash man"
+      },
+      "owner": "E179vzNQ2Ti2xKbJkwFYkFiL3VXnDQRNWEUHQNbFDdeJ",
+      "isListed": 0,
+      "price": null,
+      "magicEdenUrl": "https://magiceden.us/item-details/bKyH4GpdN33VX3btiwwdFUvLX4L4PBQuLxJajBLhFgf"
+    },
+    {
+      "mint": "44BHdgxW5sqzPytHykz7WbKaFGF6mV1jYYX6xyzb8y3j",
+      "name": "Gorbagio  #679",
+      "image": "https://plum-far-bobcat-940.mypinata.cloud/ipfs/bafybeihkdrontwttwgcaqlpifsav2pvyzyi2m4otl2jeklp4dbdzasdcu4/679.png",
+      "traits": {
+        "backgrounds": "mostly peaceful",
+        "binz": "matress",
+        "eyes": "hazel",
+        "facez": "white",
+        "hands": "gor-boy",
+        "mouth": "puppet",
+        "stickers": "trash man"
+      },
+      "owner": "2Ys2XXXngBaP4PxuXht8xgb8oYbPh5cn2sZHyjR16z4K",
+      "isListed": 0,
+      "price": null,
+      "magicEdenUrl": "https://magiceden.us/item-details/44BHdgxW5sqzPytHykz7WbKaFGF6mV1jYYX6xyzb8y3j"
+    },
+    {
+      "mint": "8G533mUtSbR6DFYEuLgHosNUwj1WKQG4Mt1JmHe48LwV",
+      "name": "Gorbagio  #697",
+      "image": "https://plum-far-bobcat-940.mypinata.cloud/ipfs/bafybeihkdrontwttwgcaqlpifsav2pvyzyi2m4otl2jeklp4dbdzasdcu4/697.png",
+      "traits": {
+        "backgrounds": "ily",
+        "binz": "box",
+        "facez": "reptilian",
+        "hands": "gor-boy",
+        "mouth": "tooth",
+        "over head": "green phat"
+      },
+      "owner": "FSBYwULyWwPhnjMNmj5HbLeDk7SXwGdBGt1hQRiVJXj",
+      "isListed": 0,
+      "price": null,
+      "magicEdenUrl": "https://magiceden.us/item-details/8G533mUtSbR6DFYEuLgHosNUwj1WKQG4Mt1JmHe48LwV"
+    },
+    {
+      "mint": "7yNEu8GYxcznuY9xtrRtaYiwKqNr2obbRCi7fooJZToJ",
+      "name": "Gorbagio  #713",
+      "image": "https://plum-far-bobcat-940.mypinata.cloud/ipfs/bafybeihkdrontwttwgcaqlpifsav2pvyzyi2m4otl2jeklp4dbdzasdcu4/713.png",
+      "traits": {
+        "backgrounds": "oval office",
+        "binz": "matress",
+        "eyes": "hazel",
+        "facez": "white",
+        "hands": "gor-boy",
+        "mouth": "troll",
+        "over head": "hackererman",
+        "stickers": "wheeler"
+      },
+      "owner": "14NfRBBhPiKcRg9MBWvgjHfuZ2QcZf4gj1iTTYXpBDo6",
+      "isListed": 0,
+      "price": null,
+      "magicEdenUrl": "https://magiceden.us/item-details/7yNEu8GYxcznuY9xtrRtaYiwKqNr2obbRCi7fooJZToJ"
+    },
+    {
+      "mint": "5RaFaF4JXnzQPDuE9vdTw13bvnAatfYnMqKWofSNMzAz",
+      "name": "Gorbagio  #714",
+      "image": "https://plum-far-bobcat-940.mypinata.cloud/ipfs/bafybeihkdrontwttwgcaqlpifsav2pvyzyi2m4otl2jeklp4dbdzasdcu4/714.png",
+      "traits": {
+        "backgrounds": "casino",
+        "binz": "original",
+        "eyes": "hazel",
+        "facez": "white",
+        "hands": "gor-boy",
+        "mouth": "smirk",
+        "stickers": "gor father"
+      },
+      "owner": "9XWrZe762MPV3Bste6LhE4Eym8Wnu2viwM5KxcXuCuFf",
+      "isListed": 0,
+      "price": null,
+      "magicEdenUrl": "https://magiceden.us/item-details/5RaFaF4JXnzQPDuE9vdTw13bvnAatfYnMqKWofSNMzAz"
+    },
+    {
+      "mint": "22sKR8soHg5LS8UbKqJhymETS75fZYREYDW6Ctr3zHC2",
+      "name": "Gorbagio  #729",
+      "image": "https://plum-far-bobcat-940.mypinata.cloud/ipfs/bafybeihkdrontwttwgcaqlpifsav2pvyzyi2m4otl2jeklp4dbdzasdcu4/729.png",
+      "traits": {
+        "backgrounds": "money",
+        "binz": "gorbi-o's",
+        "eyes": "starry",
+        "facez": "white",
+        "hands": "gor-boy",
+        "mouth": "pouty",
+        "stickers": "wolf of gor street"
+      },
+      "owner": "G6y3oSbEKcBF5zg8HuvrbDeCMm6zk2FxYw6MxMSBQ3oZ",
+      "isListed": 0,
+      "price": null,
+      "magicEdenUrl": "https://magiceden.us/item-details/22sKR8soHg5LS8UbKqJhymETS75fZYREYDW6Ctr3zHC2"
+    },
+    {
+      "mint": "E5peqD4KKaFsaM52AsMuTqvaFG6iPWoBQRsqN33hiamG",
+      "name": "Gorbagio  #731",
+      "image": "https://plum-far-bobcat-940.mypinata.cloud/ipfs/bafybeihkdrontwttwgcaqlpifsav2pvyzyi2m4otl2jeklp4dbdzasdcu4/731.png",
+      "traits": {
+        "backgrounds": "ily",
+        "binz": "futuristic",
+        "eyes": "dark brown",
+        "facez": "white",
+        "hands": "gor-boy",
+        "mouth": "fishy",
+        "stickers": "restful cube"
+      },
+      "owner": "DuQGGkHtfURxTWY26H7qfKYmRBAYaT54Z8EZX3zPpu8M",
+      "isListed": 0,
+      "price": null,
+      "magicEdenUrl": "https://magiceden.us/item-details/E5peqD4KKaFsaM52AsMuTqvaFG6iPWoBQRsqN33hiamG"
+    },
+    {
+      "mint": "89w2uKbFwKvyQJgEWapqw5Xit24LfyZT5Zwm1ehhwK6j",
+      "name": "Gorbagio  #753",
+      "image": "https://plum-far-bobcat-940.mypinata.cloud/ipfs/bafybeihkdrontwttwgcaqlpifsav2pvyzyi2m4otl2jeklp4dbdzasdcu4/753.png",
+      "traits": {
+        "backgrounds": "flat earth map",
+        "binz": "takeout",
+        "eyes": "heheh",
+        "facez": "candy",
+        "hands": "gor-boy",
+        "mouth": ":3",
+        "over head": "lol-hat",
+        "stickers": "chauncey"
+      },
+      "owner": "DuQGGkHtfURxTWY26H7qfKYmRBAYaT54Z8EZX3zPpu8M",
+      "isListed": 0,
+      "price": null,
+      "magicEdenUrl": "https://magiceden.us/item-details/89w2uKbFwKvyQJgEWapqw5Xit24LfyZT5Zwm1ehhwK6j"
+    },
+    {
+      "mint": "5vNhmioE4XFUAmH7iTkgyxygc79YqGpnBnAfw8YcZ6fQ",
+      "name": "Gorbagio  #767",
+      "image": "https://plum-far-bobcat-940.mypinata.cloud/ipfs/bafybeihkdrontwttwgcaqlpifsav2pvyzyi2m4otl2jeklp4dbdzasdcu4/767.png",
+      "traits": {
+        "backgrounds": "barone",
+        "binz": "putty",
+        "eyes": "hazel",
+        "facez": "black",
+        "hands": "gor-boy",
+        "mouth": "tooth"
+      },
+      "owner": "GQSsU24D3mDNWpTVc4m4wCqr6agiN8AXiLEWnQ54gezh",
+      "isListed": 0,
+      "price": null,
+      "magicEdenUrl": "https://magiceden.us/item-details/5vNhmioE4XFUAmH7iTkgyxygc79YqGpnBnAfw8YcZ6fQ"
+    },
+    {
+      "mint": "ANQRrncqCUCVoSBLQBNriE6i43pqutvCPPPiHwpD7xU9",
+      "name": "Gorbagio  #770",
+      "image": "https://plum-far-bobcat-940.mypinata.cloud/ipfs/bafybeihkdrontwttwgcaqlpifsav2pvyzyi2m4otl2jeklp4dbdzasdcu4/770.png",
+      "traits": {
+        "backgrounds": "casino",
+        "binz": "box",
+        "facez": "zombie",
+        "hands": "gor-boy",
+        "mouth": "remilio",
+        "over head": "fumo",
+        "stickers": "george droyd"
+      },
+      "owner": "5CYiAZG3ebzURjzii3UFGmw9XSLG3uskzo6AYoXpUuMk",
+      "isListed": 0,
+      "price": null,
+      "magicEdenUrl": "https://magiceden.us/item-details/ANQRrncqCUCVoSBLQBNriE6i43pqutvCPPPiHwpD7xU9"
+    },
+    {
+      "mint": "BWsHGz3iqpxZfABN1wrxNqRYcAs5vzfBrqttz9LF6odx",
+      "name": "Gorbagio  #775",
+      "image": "https://plum-far-bobcat-940.mypinata.cloud/ipfs/bafybeihkdrontwttwgcaqlpifsav2pvyzyi2m4otl2jeklp4dbdzasdcu4/775.png",
+      "traits": {
+        "backgrounds": "gorbage truck",
+        "binz": "matress",
+        "eyes": "hazel",
+        "facez": "white",
+        "hands": "gor-boy",
+        "mouth": "fishy",
+        "over head": "tinfoil",
+        "stickers": "gor father"
+      },
+      "owner": "AVi8HJEqZksYWoarp9JZiK1PRrbvjEvF3Qzv9UoP69MW",
+      "isListed": 0,
+      "price": null,
+      "magicEdenUrl": "https://magiceden.us/item-details/BWsHGz3iqpxZfABN1wrxNqRYcAs5vzfBrqttz9LF6odx"
+    },
+    {
+      "mint": "9qX1tMwqva256bHWZaiZ1HNhCcJmepnoX6i85BHA6Um1",
+      "name": "Gorbagio  #808",
+      "image": "https://plum-far-bobcat-940.mypinata.cloud/ipfs/bafybeihkdrontwttwgcaqlpifsav2pvyzyi2m4otl2jeklp4dbdzasdcu4/808.png",
+      "traits": {
+        "backgrounds": "gorhouse",
+        "binz": "digibin",
+        "facez": "zombie",
+        "hands": "gor-boy",
+        "mouth": "pouty",
+        "stickers": "gorbagana street"
+      },
+      "owner": "DuQGGkHtfURxTWY26H7qfKYmRBAYaT54Z8EZX3zPpu8M",
+      "isListed": 0,
+      "price": null,
+      "magicEdenUrl": "https://magiceden.us/item-details/9qX1tMwqva256bHWZaiZ1HNhCcJmepnoX6i85BHA6Um1"
+    },
+    {
+      "mint": "HhF1R6edYopoFYWYFLqUHRwb2fzSj9FgwxjSgCPgEkwz",
+      "name": "Gorbagio  #809",
+      "image": "https://plum-far-bobcat-940.mypinata.cloud/ipfs/bafybeihkdrontwttwgcaqlpifsav2pvyzyi2m4otl2jeklp4dbdzasdcu4/809.png",
+      "traits": {
+        "backgrounds": "dumpster",
+        "binz": "recycle-bin",
+        "eyes": "oh, you",
+        "facez": "white",
+        "hands": "gor-boy",
+        "mouth": "sbf",
+        "over head": "beerhat",
+        "stickers": "george droyd"
+      },
+      "owner": "6z4EfviEmGekCynz9H4drg3XxC8cPBTVcNwdNnqtweVn",
+      "isListed": 0,
+      "price": null,
+      "magicEdenUrl": "https://magiceden.us/item-details/HhF1R6edYopoFYWYFLqUHRwb2fzSj9FgwxjSgCPgEkwz"
+    },
+    {
+      "mint": "4iTv3ekywvksG3FyjZ96A4ajSK6wWEuxFj2rXCcWNbgQ",
+      "name": "Gorbagio  #818",
+      "image": "https://plum-far-bobcat-940.mypinata.cloud/ipfs/bafybeihkdrontwttwgcaqlpifsav2pvyzyi2m4otl2jeklp4dbdzasdcu4/818.png",
+      "traits": {
+        "backgrounds": "spacebg",
+        "binz": "matress",
+        "eyes": "starry",
+        "facez": "black",
+        "hands": "gor-boy",
+        "mouth": "remilio"
+      },
+      "owner": "8AofpAKtEmoLWmxcjPCQrRZDv24QmWNb25YKuhZtYTwi",
+      "isListed": 0,
+      "price": null,
+      "magicEdenUrl": "https://magiceden.us/item-details/4iTv3ekywvksG3FyjZ96A4ajSK6wWEuxFj2rXCcWNbgQ"
+    },
+    {
+      "mint": "4Vq5utn3fMcm2568HLRjnSNTtc9JF7UWmqNT5D2e5NGC",
+      "name": "Gorbagio  #819",
+      "image": "https://plum-far-bobcat-940.mypinata.cloud/ipfs/bafybeihkdrontwttwgcaqlpifsav2pvyzyi2m4otl2jeklp4dbdzasdcu4/819.png",
+      "traits": {
+        "backgrounds": "cookies",
+        "binz": "box",
+        "eyes": "hazel",
+        "facez": "white",
+        "hands": "gor-boy",
+        "mouth": "fishy",
+        "over head": "beerhat",
+        "stickers": "pepe the grouch"
+      },
+      "owner": "3pVUqNK1LGu7ctSh4avpDM9qDi1Zj8iojiYTy7kCCwpB",
+      "isListed": 0,
+      "price": null,
+      "magicEdenUrl": "https://magiceden.us/item-details/4Vq5utn3fMcm2568HLRjnSNTtc9JF7UWmqNT5D2e5NGC"
+    },
+    {
+      "mint": "3r9KKJ2NPcnUZszpRfSzw1pnQ7Xmb2c1cW6JWu5HFw6p",
+      "name": "Gorbagio  #826",
+      "image": "https://plum-far-bobcat-940.mypinata.cloud/ipfs/bafybeihkdrontwttwgcaqlpifsav2pvyzyi2m4otl2jeklp4dbdzasdcu4/826.png",
+      "traits": {
+        "backgrounds": "no dumping",
+        "binz": "box",
+        "eyes": "smug eyes",
+        "facez": "black",
+        "hands": "gor-boy",
+        "mouth": "pouty"
+      },
+      "owner": "9qHosv8vytAqwQQsaBNwUsvbJAxwF3sXhr9M6LXrP3LV",
+      "isListed": 0,
+      "price": null,
+      "magicEdenUrl": "https://magiceden.us/item-details/3r9KKJ2NPcnUZszpRfSzw1pnQ7Xmb2c1cW6JWu5HFw6p"
+    },
+    {
+      "mint": "7Xvj9B616dVLR1G4HDjEg7aGxGhfRMFEFCuLAJvPaECq",
+      "name": "Gorbagio  #828",
+      "image": "https://plum-far-bobcat-940.mypinata.cloud/ipfs/bafybeihkdrontwttwgcaqlpifsav2pvyzyi2m4otl2jeklp4dbdzasdcu4/828.png",
+      "traits": {
+        "backgrounds": "girl dev",
+        "binz": "box",
+        "eyes": "heheh",
+        "facez": "black",
+        "hands": "gor-boy",
+        "mouth": "oh,-you-mouth",
+        "over head": "neo"
+      },
+      "owner": "5JPmD1FC2dwh5G7CNo4gPVxRf5yUHFk6rqDUpnjA2UY",
+      "isListed": 0,
+      "price": null,
+      "magicEdenUrl": "https://magiceden.us/item-details/7Xvj9B616dVLR1G4HDjEg7aGxGhfRMFEFCuLAJvPaECq"
+    },
+    {
+      "mint": "HbMkYxqrkT1ppF9reuKZGEQwwPHQUXKLrJSrTrFWDeY7",
+      "name": "Gorbagio  #835",
+      "image": "https://plum-far-bobcat-940.mypinata.cloud/ipfs/bafybeihkdrontwttwgcaqlpifsav2pvyzyi2m4otl2jeklp4dbdzasdcu4/835.png",
+      "traits": {
+        "backgrounds": "dont fight",
+        "binz": "original",
+        "eyes": "hazel",
+        "facez": "white",
+        "hands": "gor-boy",
+        "mouth": "u",
+        "over head": "neo"
+      },
+      "owner": "5nS3UPZQRLM1ZH9ETyk77onw5mFSZNGDqzkFakBCLj3f",
+      "isListed": 0,
+      "price": null,
+      "magicEdenUrl": "https://magiceden.us/item-details/HbMkYxqrkT1ppF9reuKZGEQwwPHQUXKLrJSrTrFWDeY7"
+    },
+    {
+      "mint": "B4dKP9WuqBY4F68tPdSdbxUNLyvHR64PtdFnXtqx49z5",
+      "name": "Gorbagio  #844",
+      "image": "https://plum-far-bobcat-940.mypinata.cloud/ipfs/bafybeihkdrontwttwgcaqlpifsav2pvyzyi2m4otl2jeklp4dbdzasdcu4/844.png",
+      "traits": {
+        "backgrounds": "cookies",
+        "binz": "digibin",
+        "eyes": "hazel",
+        "facez": "black",
+        "hands": "gor-boy",
+        "mouth": "cookie-crumbs",
+        "over head": "hackererman",
+        "stickers": "chibi oscar"
+      },
+      "owner": "EXESxtDpZw6jgs5g4Jday4jGMbcqhxBocDzJciDMhjzC",
+      "isListed": 0,
+      "price": null,
+      "magicEdenUrl": "https://magiceden.us/item-details/B4dKP9WuqBY4F68tPdSdbxUNLyvHR64PtdFnXtqx49z5"
+    },
+    {
+      "mint": "HkLcR8MqSCRgdLpeX5LA7g7E4AKxbUHf84pPxU86Amhf",
+      "name": "Gorbagio  #853",
+      "image": "https://plum-far-bobcat-940.mypinata.cloud/ipfs/bafybeihkdrontwttwgcaqlpifsav2pvyzyi2m4otl2jeklp4dbdzasdcu4/853.png",
+      "traits": {
+        "backgrounds": "cookies",
+        "binz": "original",
+        "eyes": "hazel",
+        "facez": "oni",
+        "hands": "gor-boy",
+        "mouth": "heheh",
+        "over head": "oni-horns"
+      },
+      "owner": "9Wtj9SPc43p1dKYzSwKQ3hQKwi1cFDC7CTswJwDEzT8B",
+      "isListed": true,
+      "price": 2e-9,
+      "magicEdenUrl": "https://magiceden.us/item-details/HkLcR8MqSCRgdLpeX5LA7g7E4AKxbUHf84pPxU86Amhf"
+    },
+    {
+      "mint": "Bp8g1MPXCViLrE5Gv1WUy2BQCbVd2b4zevxro4Uoo1Ea",
+      "name": "Gorbagio  #859",
+      "image": "https://plum-far-bobcat-940.mypinata.cloud/ipfs/bafybeihkdrontwttwgcaqlpifsav2pvyzyi2m4otl2jeklp4dbdzasdcu4/859.png",
+      "traits": {
+        "backgrounds": "cardboard",
+        "binz": "futuristic",
+        "eyes": "oh, you",
+        "facez": "black",
+        "hands": "gor-boy",
+        "mouth": "sbf",
+        "over head": "neo",
+        "stickers": "oscar phone"
+      },
+      "owner": "9XWrZe762MPV3Bste6LhE4Eym8Wnu2viwM5KxcXuCuFf",
+      "isListed": 0,
+      "price": null,
+      "magicEdenUrl": "https://magiceden.us/item-details/Bp8g1MPXCViLrE5Gv1WUy2BQCbVd2b4zevxro4Uoo1Ea"
+    },
+    {
+      "mint": "Ga8KdPW2yABq14TDfjuT74QfrVKFgup2HWYggWRnyxLX",
+      "name": "Gorbagio  #870",
+      "image": "https://plum-far-bobcat-940.mypinata.cloud/ipfs/bafybeihkdrontwttwgcaqlpifsav2pvyzyi2m4otl2jeklp4dbdzasdcu4/870.png",
+      "traits": {
+        "backgrounds": "sesame",
+        "binz": "digibin",
+        "eyes": "flora",
+        "facez": "white",
+        "hands": "gor-boy",
+        "mouth": "pouty",
+        "stickers": "xavier"
+      },
+      "owner": "Eew3JZNLNLKbrZXzhxrwBBQt83Ma7JNBRdFRGyYsCcMq",
+      "isListed": true,
+      "price": 3e-9,
+      "magicEdenUrl": "https://magiceden.us/item-details/Ga8KdPW2yABq14TDfjuT74QfrVKFgup2HWYggWRnyxLX"
+    },
+    {
+      "mint": "3xKdr6KTg4Av8PkVq9fDN6u1EjSdtFFodNVdexUKGyqA",
+      "name": "Gorbagio  #872",
+      "image": "https://plum-far-bobcat-940.mypinata.cloud/ipfs/bafybeihkdrontwttwgcaqlpifsav2pvyzyi2m4otl2jeklp4dbdzasdcu4/872.png",
+      "traits": {
+        "backgrounds": "barone",
+        "binz": "box",
+        "eyes": "hazel",
+        "facez": "white",
+        "hands": "gor-boy",
+        "mouth": ":3",
+        "over head": "fumo",
+        "stickers": "radsnail"
+      },
+      "owner": "E179vzNQ2Ti2xKbJkwFYkFiL3VXnDQRNWEUHQNbFDdeJ",
+      "isListed": 0,
+      "price": null,
+      "magicEdenUrl": "https://magiceden.us/item-details/3xKdr6KTg4Av8PkVq9fDN6u1EjSdtFFodNVdexUKGyqA"
+    },
+    {
+      "mint": "2vGtkTcjhsy5of6VS8m9FUqeSK7Ye4Lw4upGhNNKepmG",
+      "name": "Gorbagio  #878",
+      "image": "https://plum-far-bobcat-940.mypinata.cloud/ipfs/bafybeihkdrontwttwgcaqlpifsav2pvyzyi2m4otl2jeklp4dbdzasdcu4/878.png",
+      "traits": {
+        "backgrounds": "oval office",
+        "binz": "dumpster",
+        "facez": "alien",
+        "hands": "gor-boy",
+        "mouth": "troll",
+        "over head": "neo"
+      },
+      "owner": "ESHy9cvUdc3p8Bv8XcFtFDCYdVWf9sAqZCMTaMa99hR3",
+      "isListed": 0,
+      "price": null,
+      "magicEdenUrl": "https://magiceden.us/item-details/2vGtkTcjhsy5of6VS8m9FUqeSK7Ye4Lw4upGhNNKepmG"
+    },
+    {
+      "mint": "3ypCfmo6dmuUhWi8ecyQfwsigNfJKFypm1yRGr7DREYH",
+      "name": "Gorbagio  #911",
+      "image": "https://plum-far-bobcat-940.mypinata.cloud/ipfs/bafybeihkdrontwttwgcaqlpifsav2pvyzyi2m4otl2jeklp4dbdzasdcu4/911.png",
+      "traits": {
+        "backgrounds": "hyperborea",
+        "binz": "matress",
+        "eyes": "hazel",
+        "facez": "oni",
+        "hands": "gor-boy",
+        "mouth": "pouty",
+        "over head": "oni-horns",
+        "stickers": "garbagewave"
+      },
+      "owner": "9dpTFB9cn44Mup7G7Ear6j7kqcjV1M2XjgmyHf9SqA62",
+      "isListed": 0,
+      "price": null,
+      "magicEdenUrl": "https://magiceden.us/item-details/3ypCfmo6dmuUhWi8ecyQfwsigNfJKFypm1yRGr7DREYH"
+    },
+    {
+      "mint": "CtTpURbSiti7PReb2c7eHGcJfqJLarBpTBMD6oWk66FS",
+      "name": "Gorbagio  #914",
+      "image": "https://plum-far-bobcat-940.mypinata.cloud/ipfs/bafybeihkdrontwttwgcaqlpifsav2pvyzyi2m4otl2jeklp4dbdzasdcu4/914.png",
+      "traits": {
+        "backgrounds": "hindenburg",
+        "binz": "pump pill",
+        "facez": "reptilian",
+        "hands": "gor-boy",
+        "mouth": "cookie-crumbs",
+        "over head": "croc-hat"
+      },
+      "owner": "5CYiAZG3ebzURjzii3UFGmw9XSLG3uskzo6AYoXpUuMk",
+      "isListed": 0,
+      "price": null,
+      "magicEdenUrl": "https://magiceden.us/item-details/CtTpURbSiti7PReb2c7eHGcJfqJLarBpTBMD6oWk66FS"
+    },
+    {
+      "mint": "HM4D4hPgNiAJr7cqLwX34nqoCxTFZ3f7k2no4QeEiCdQ",
+      "name": "Gorbagio  #931",
+      "image": "https://plum-far-bobcat-940.mypinata.cloud/ipfs/bafybeihkdrontwttwgcaqlpifsav2pvyzyi2m4otl2jeklp4dbdzasdcu4/931.png",
+      "traits": {
+        "backgrounds": "casino",
+        "binz": "dumpster",
+        "eyes": "oh, you",
+        "facez": "white",
+        "hands": "gor-boy",
+        "mouth": "fishy",
+        "stickers": "radsnail"
+      },
+      "owner": "3zTDuiF5eGbDMhwpkaHbk2y3ZuTVZZGvxZ6QudBk1v4z",
+      "isListed": 0,
+      "price": null,
+      "magicEdenUrl": "https://magiceden.us/item-details/HM4D4hPgNiAJr7cqLwX34nqoCxTFZ3f7k2no4QeEiCdQ"
+    },
+    {
+      "mint": "HavboayvJXJ5oQwTJokUDgujbNUYSN2xVntgTfkxJcRv",
+      "name": "Gorbagio  #940",
+      "image": "https://plum-far-bobcat-940.mypinata.cloud/ipfs/bafybeihkdrontwttwgcaqlpifsav2pvyzyi2m4otl2jeklp4dbdzasdcu4/940.png",
+      "traits": {
+        "backgrounds": "black eye club",
+        "binz": "pump pill",
+        "eyes": "flora",
+        "facez": "white",
+        "hands": "gor-boy",
+        "mouth": "remilio",
+        "over head": "green phat"
+      },
+      "owner": "65jT5wk8FQyUWcSjgBsBRLU5NiSYGVYwRSKRiopPNAQ3",
+      "isListed": 0,
+      "price": null,
+      "magicEdenUrl": "https://magiceden.us/item-details/HavboayvJXJ5oQwTJokUDgujbNUYSN2xVntgTfkxJcRv"
+    },
+    {
+      "mint": "7SqAayENz8BFkNdeagStDiDPuDP7TCXVmYCxaFXGaogn",
+      "name": "Gorbagio  #949",
+      "image": "https://plum-far-bobcat-940.mypinata.cloud/ipfs/bafybeihkdrontwttwgcaqlpifsav2pvyzyi2m4otl2jeklp4dbdzasdcu4/949.png",
+      "traits": {
+        "backgrounds": "cookies",
+        "binz": "recycle-bin",
+        "eyes": "dark brown",
+        "facez": "black",
+        "hands": "gor-boy",
+        "mouth": ":3",
+        "over head": "beerhat"
+      },
+      "owner": "FRhn3rKF4GgsXdLHLV66wxeEV6bvkQguTb6Utzrpt1NJ",
+      "isListed": 0,
+      "price": null,
+      "magicEdenUrl": "https://magiceden.us/item-details/7SqAayENz8BFkNdeagStDiDPuDP7TCXVmYCxaFXGaogn"
+    },
+    {
+      "mint": "BNiyKrK6BDTrmABB5p3eBaEbZXQLmxCsT4r6SaeDkPq1",
+      "name": "Gorbagio  #963",
+      "image": "https://plum-far-bobcat-940.mypinata.cloud/ipfs/bafybeihkdrontwttwgcaqlpifsav2pvyzyi2m4otl2jeklp4dbdzasdcu4/963.png",
+      "traits": {
+        "backgrounds": "fbi open up",
+        "binz": "pump pill",
+        "eyes": "hazel",
+        "facez": "black",
+        "hands": "gor-boy",
+        "mouth": "cookie-crumbs",
+        "over head": "beerhat",
+        "stickers": "garbage showzen"
+      },
+      "owner": "6Rcte9PWM61LwYqt6tTkmQuQt7o26fcS8HqtEtfd4QKW",
+      "isListed": 0,
+      "price": null,
+      "magicEdenUrl": "https://magiceden.us/item-details/BNiyKrK6BDTrmABB5p3eBaEbZXQLmxCsT4r6SaeDkPq1"
+    },
+    {
+      "mint": "Exntntm2LMQnThrzJcuRGWDFAi9xrkzTE3G6QdyRaE91",
+      "name": "Gorbagio  #980",
+      "image": "https://plum-far-bobcat-940.mypinata.cloud/ipfs/bafybeihkdrontwttwgcaqlpifsav2pvyzyi2m4otl2jeklp4dbdzasdcu4/980.png",
+      "traits": {
+        "backgrounds": "truck",
+        "binz": "recycle-bin",
+        "facez": "alien",
+        "hands": "gor-boy",
+        "mouth": ":3",
+        "stickers": "garbage showzen"
+      },
+      "owner": "ki9Z1FUdXQoDwnjcgGVMb2Xy1qdmjCZveSEcDwGKyvy",
+      "isListed": true,
+      "price": 8.505e-8,
+      "magicEdenUrl": "https://magiceden.us/item-details/Exntntm2LMQnThrzJcuRGWDFAi9xrkzTE3G6QdyRaE91"
+    },
+    {
+      "mint": "DPuP7V9GZMv8khPtE5G4d3XVqC4cWmScujMegaRPxVuQ",
+      "name": "Gorbagio  #1019",
+      "image": "https://plum-far-bobcat-940.mypinata.cloud/ipfs/bafybeihkdrontwttwgcaqlpifsav2pvyzyi2m4otl2jeklp4dbdzasdcu4/1019.png",
+      "traits": {
+        "backgrounds": "nuclear",
+        "binz": "futuristic",
         "eyes": "flora",
         "facez": "black",
-        "backgrounds": "casino",
-        "binz": "recycle-bin"
+        "hands": "gor-boy",
+        "mouth": "cookie-crumbs",
+        "stickers": "trash man"
       },
-      "owner": "OWNER0987654321FEDCBA",
-      "isListed": false,
+      "owner": "6nZoyY2sGQEpvTbT1GcKCbZNMMokAjWwJBZKSEimzERf",
+      "isListed": 0,
       "price": null,
-      "magicEdenUrl": "https://magiceden.us/item-details/SAMPLE0987654321FEDCBA"
+      "magicEdenUrl": "https://magiceden.us/item-details/DPuP7V9GZMv8khPtE5G4d3XVqC4cWmScujMegaRPxVuQ"
+    },
+    {
+      "mint": "4xZwd3q2Ag5g4rG6xsrPbg5jZALhzBX5YamohW6VyfBJ",
+      "name": "Gorbagio  #1046",
+      "image": "https://plum-far-bobcat-940.mypinata.cloud/ipfs/bafybeihkdrontwttwgcaqlpifsav2pvyzyi2m4otl2jeklp4dbdzasdcu4/1046.png",
+      "traits": {
+        "backgrounds": "cardboard",
+        "binz": "original",
+        "facez": "reptilian",
+        "hands": "gor-boy",
+        "mouth": "remilio",
+        "over head": "beerhat",
+        "stickers": "chill grouch"
+      },
+      "owner": "DuQGGkHtfURxTWY26H7qfKYmRBAYaT54Z8EZX3zPpu8M",
+      "isListed": 0,
+      "price": null,
+      "magicEdenUrl": "https://magiceden.us/item-details/4xZwd3q2Ag5g4rG6xsrPbg5jZALhzBX5YamohW6VyfBJ"
+    },
+    {
+      "mint": "CgsBAtAePuVjXPJtrBJFBpYj5BHwyLfH4wnSJvR2331S",
+      "name": "Gorbagio  #1079",
+      "image": "https://plum-far-bobcat-940.mypinata.cloud/ipfs/bafybeihkdrontwttwgcaqlpifsav2pvyzyi2m4otl2jeklp4dbdzasdcu4/1079.png",
+      "traits": {
+        "backgrounds": "mostly peaceful",
+        "binz": "original",
+        "eyes": "flora",
+        "facez": "white",
+        "hands": "gor-boy",
+        "mouth": "lollipop",
+        "over head": "hackererman"
+      },
+      "owner": "HXhXjVRbaKrNFyJdJztjSWYpyvH7gshpZbwEvfKrcanF",
+      "isListed": 0,
+      "price": null,
+      "magicEdenUrl": "https://magiceden.us/item-details/CgsBAtAePuVjXPJtrBJFBpYj5BHwyLfH4wnSJvR2331S"
+    },
+    {
+      "mint": "J48sFyqBBUXHbLYt6YP4RNrg8pUPVS1qf9mc6cPDV4Jk",
+      "name": "Gorbagio  #1084",
+      "image": "https://plum-far-bobcat-940.mypinata.cloud/ipfs/bafybeihkdrontwttwgcaqlpifsav2pvyzyi2m4otl2jeklp4dbdzasdcu4/1084.png",
+      "traits": {
+        "backgrounds": "casino",
+        "binz": "futuristic",
+        "eyes": "flora",
+        "facez": "white",
+        "hands": "gor-boy",
+        "mouth": "pouty",
+        "stickers": "wolf of gor street"
+      },
+      "owner": "2rEk8PDzH5s3Gb7F1ZJbFCeWGwHcVD8JfXWM37nM5nFA",
+      "isListed": 0,
+      "price": null,
+      "magicEdenUrl": "https://magiceden.us/item-details/J48sFyqBBUXHbLYt6YP4RNrg8pUPVS1qf9mc6cPDV4Jk"
+    },
+    {
+      "mint": "6U15t3MhMy52wzUgjrrg8WNdUg6Nxvxk8522GswBgeVP",
+      "name": "Gorbagio  #1095",
+      "image": "https://plum-far-bobcat-940.mypinata.cloud/ipfs/bafybeihkdrontwttwgcaqlpifsav2pvyzyi2m4otl2jeklp4dbdzasdcu4/1095.png",
+      "traits": {
+        "backgrounds": "dc pentragram",
+        "binz": "futuristic",
+        "eyes": "oh, you",
+        "facez": "white",
+        "hands": "gor-boy",
+        "mouth": "lollipop",
+        "stickers": "gorbagana street"
+      },
+      "owner": "FunfbaX7q13wkDgoU9i7oXEgJRK46khrogm8a9cHS2cn",
+      "isListed": 0,
+      "price": null,
+      "magicEdenUrl": "https://magiceden.us/item-details/6U15t3MhMy52wzUgjrrg8WNdUg6Nxvxk8522GswBgeVP"
+    },
+    {
+      "mint": "2zN5FtwryrB4taqdu6GZoDHuHvvAnfYAZ1Q6Md7iQEoN",
+      "name": "Gorbagio  #1125",
+      "image": "https://plum-far-bobcat-940.mypinata.cloud/ipfs/bafybeihkdrontwttwgcaqlpifsav2pvyzyi2m4otl2jeklp4dbdzasdcu4/1125.png",
+      "traits": {
+        "backgrounds": "casino",
+        "binz": "pump pill",
+        "eyes": "oh, you",
+        "facez": "white",
+        "hands": "gor-boy",
+        "mouth": "tooth",
+        "over head": "lol-hat",
+        "stickers": "trash man"
+      },
+      "owner": "8v9aDaDkD3BBdUb5FjbNQVW8jVU2cWBcaHZZu9PdW5e9",
+      "isListed": 0,
+      "price": null,
+      "magicEdenUrl": "https://magiceden.us/item-details/2zN5FtwryrB4taqdu6GZoDHuHvvAnfYAZ1Q6Md7iQEoN"
+    },
+    {
+      "mint": "DK62qgb7FjrgCZA7Csjc2fpvmCCn9TDJw8YEBWeRigPg",
+      "name": "Gorbagio  #1144",
+      "image": "https://plum-far-bobcat-940.mypinata.cloud/ipfs/bafybeihkdrontwttwgcaqlpifsav2pvyzyi2m4otl2jeklp4dbdzasdcu4/1144.png",
+      "traits": {
+        "backgrounds": "girl dev",
+        "binz": "recycle-bin",
+        "eyes": "hazel",
+        "facez": "oni",
+        "hands": "gor-boy",
+        "mouth": "cookie-crumbs",
+        "over head": "oni-horns",
+        "stickers": "trash man"
+      },
+      "owner": "9kcHwYxpFaxEwH9GnvCBZFxTkngJm2mP86mn49ubKBgu",
+      "isListed": true,
+      "price": 5.7400000000000004e-9,
+      "magicEdenUrl": "https://magiceden.us/item-details/DK62qgb7FjrgCZA7Csjc2fpvmCCn9TDJw8YEBWeRigPg"
+    },
+    {
+      "mint": "3Ru1BCmd5m8CbgnH8X8p3UHBYnBqiAG3P1PeXCmt3FQM",
+      "name": "Gorbagio  #1160",
+      "image": "https://plum-far-bobcat-940.mypinata.cloud/ipfs/bafybeihkdrontwttwgcaqlpifsav2pvyzyi2m4otl2jeklp4dbdzasdcu4/1160.png",
+      "traits": {
+        "backgrounds": "gw freemason",
+        "binz": "matress",
+        "facez": "reptilian",
+        "hands": "gor-boy",
+        "mouth": "fishy",
+        "over head": "croc-hat"
+      },
+      "owner": "5CYiAZG3ebzURjzii3UFGmw9XSLG3uskzo6AYoXpUuMk",
+      "isListed": 0,
+      "price": null,
+      "magicEdenUrl": "https://magiceden.us/item-details/3Ru1BCmd5m8CbgnH8X8p3UHBYnBqiAG3P1PeXCmt3FQM"
+    },
+    {
+      "mint": "FeHeggrGcNembwqfkgde3CLkvcurakoTDUghZiA4eUT8",
+      "name": "Gorbagio  #1179",
+      "image": "https://plum-far-bobcat-940.mypinata.cloud/ipfs/bafybeihkdrontwttwgcaqlpifsav2pvyzyi2m4otl2jeklp4dbdzasdcu4/1179.png",
+      "traits": {
+        "backgrounds": "ocean",
+        "binz": "matress",
+        "eyes": "dark brown",
+        "facez": "white",
+        "hands": "gor-boy",
+        "mouth": "remilio",
+        "stickers": "oscar phone"
+      },
+      "owner": "E5Fdp7qo9Unr4vg9nG1u4s8T4N5dx2JdhzzvM2FMymex",
+      "isListed": 0,
+      "price": null,
+      "magicEdenUrl": "https://magiceden.us/item-details/FeHeggrGcNembwqfkgde3CLkvcurakoTDUghZiA4eUT8"
+    },
+    {
+      "mint": "AiDyeSS8EZrQoMvC4kVZkQdkUYcvxUeHDLh9PzbaxWBR",
+      "name": "Gorbagio  #1269",
+      "image": "https://plum-far-bobcat-940.mypinata.cloud/ipfs/bafybeihkdrontwttwgcaqlpifsav2pvyzyi2m4otl2jeklp4dbdzasdcu4/1269.png",
+      "traits": {
+        "backgrounds": "hindenburg",
+        "binz": "original",
+        "eyes": "starry",
+        "facez": "white",
+        "hands": "gor-boy",
+        "mouth": "puppet",
+        "stickers": "garbage showzen"
+      },
+      "owner": "DuQGGkHtfURxTWY26H7qfKYmRBAYaT54Z8EZX3zPpu8M",
+      "isListed": 0,
+      "price": null,
+      "magicEdenUrl": "https://magiceden.us/item-details/AiDyeSS8EZrQoMvC4kVZkQdkUYcvxUeHDLh9PzbaxWBR"
+    },
+    {
+      "mint": "EPa48njQKLq7Vtt3RgRAQxdCZSajGCeQr1KYot3mxsqU",
+      "name": "Gorbagio  #1274",
+      "image": "https://plum-far-bobcat-940.mypinata.cloud/ipfs/bafybeihkdrontwttwgcaqlpifsav2pvyzyi2m4otl2jeklp4dbdzasdcu4/1274.png",
+      "traits": {
+        "backgrounds": "oval office",
+        "binz": "box",
+        "eyes": "flora",
+        "facez": "black",
+        "hands": "gor-boy",
+        "mouth": "pouty",
+        "over head": "lol-hat",
+        "stickers": "pepe the grouch"
+      },
+      "owner": "4tJJ6Dv5tMuUXfqzjitYwVtyfqXNTRumZLzL3uJTdD6q",
+      "isListed": 0,
+      "price": null,
+      "magicEdenUrl": "https://magiceden.us/item-details/EPa48njQKLq7Vtt3RgRAQxdCZSajGCeQr1KYot3mxsqU"
+    },
+    {
+      "mint": "8freCpeQEySfKaJxLyZtVWhAuhqC6Wsbz5fa8pAi9Axo",
+      "name": "Gorbagio  #1276",
+      "image": "https://plum-far-bobcat-940.mypinata.cloud/ipfs/bafybeihkdrontwttwgcaqlpifsav2pvyzyi2m4otl2jeklp4dbdzasdcu4/1276.png",
+      "traits": {
+        "backgrounds": "ocean",
+        "binz": "matress",
+        "eyes": "heheh",
+        "facez": "white",
+        "hands": "gor-boy",
+        "mouth": "u",
+        "stickers": "chill grouch"
+      },
+      "owner": "AehiDH6t8ymCM98FeKWztY3En4do6eBfxDp9oy48Gijq",
+      "isListed": 0,
+      "price": null,
+      "magicEdenUrl": "https://magiceden.us/item-details/8freCpeQEySfKaJxLyZtVWhAuhqC6Wsbz5fa8pAi9Axo"
+    },
+    {
+      "mint": "8npoa37q3vML2F4mGnuqqXoCrdkvM2vJvH3bqtqYuN5c",
+      "name": "Gorbagio  #1303",
+      "image": "https://plum-far-bobcat-940.mypinata.cloud/ipfs/bafybeihkdrontwttwgcaqlpifsav2pvyzyi2m4otl2jeklp4dbdzasdcu4/1303.png",
+      "traits": {
+        "backgrounds": "casino",
+        "binz": "box",
+        "eyes": "hazel",
+        "facez": "white",
+        "hands": "gor-boy",
+        "mouth": "pouty",
+        "stickers": "pepe the grouch"
+      },
+      "owner": "3pVUqNK1LGu7ctSh4avpDM9qDi1Zj8iojiYTy7kCCwpB",
+      "isListed": 0,
+      "price": null,
+      "magicEdenUrl": "https://magiceden.us/item-details/8npoa37q3vML2F4mGnuqqXoCrdkvM2vJvH3bqtqYuN5c"
+    },
+    {
+      "mint": "F9Wvc3PDwStFany1FLyq7i3ubHvqgu7Bcdio2gWQgVnc",
+      "name": "Gorbagio  #1348",
+      "image": "https://plum-far-bobcat-940.mypinata.cloud/ipfs/bafybeihkdrontwttwgcaqlpifsav2pvyzyi2m4otl2jeklp4dbdzasdcu4/1348.png",
+      "traits": {
+        "backgrounds": "cookies",
+        "binz": "shredder",
+        "eyes": "heheh",
+        "facez": "black",
+        "hands": "gor-boy",
+        "mouth": "pouty",
+        "stickers": "george droyd"
+      },
+      "owner": "55tNs1gYQvYk6kHy8Y72TcM3qW1X5NGJ6hKdrJFEKZV9",
+      "isListed": 0,
+      "price": null,
+      "magicEdenUrl": "https://magiceden.us/item-details/F9Wvc3PDwStFany1FLyq7i3ubHvqgu7Bcdio2gWQgVnc"
+    },
+    {
+      "mint": "3MFzVvUKqUwWUN1VPmwsZfBYcAVnTmXftfLcb4sdkddo",
+      "name": "Gorbagio  #1365",
+      "image": "https://plum-far-bobcat-940.mypinata.cloud/ipfs/bafybeihkdrontwttwgcaqlpifsav2pvyzyi2m4otl2jeklp4dbdzasdcu4/1365.png",
+      "traits": {
+        "backgrounds": "dont fight",
+        "binz": "putty",
+        "eyes": "dark brown",
+        "facez": "black",
+        "hands": "gor-boy",
+        "mouth": "u",
+        "stickers": "radsnail"
+      },
+      "owner": "GX6KFMFS6yZGJzuZ28Q5Cbk9RN8Wv8UmNP2abcC4kcM2",
+      "isListed": 0,
+      "price": null,
+      "magicEdenUrl": "https://magiceden.us/item-details/3MFzVvUKqUwWUN1VPmwsZfBYcAVnTmXftfLcb4sdkddo"
+    },
+    {
+      "mint": "CeuZhjsWiw4GUoPbcCiCo7JM8AUPdNBpEXPdFUj8Gjf4",
+      "name": "Gorbagio  #1386",
+      "image": "https://plum-far-bobcat-940.mypinata.cloud/ipfs/bafybeihkdrontwttwgcaqlpifsav2pvyzyi2m4otl2jeklp4dbdzasdcu4/1386.png",
+      "traits": {
+        "backgrounds": "nuclear",
+        "binz": "dumpster",
+        "eyes": "heheh",
+        "facez": "black",
+        "hands": "gor-boy",
+        "mouth": "smirk",
+        "over head": "beerhat"
+      },
+      "owner": "Hn8x9h3RZWSPSe7aESDhEFY3wYDob3G57BhuunVkBnhJ",
+      "isListed": 0,
+      "price": null,
+      "magicEdenUrl": "https://magiceden.us/item-details/CeuZhjsWiw4GUoPbcCiCo7JM8AUPdNBpEXPdFUj8Gjf4"
+    },
+    {
+      "mint": "EAx1SDfmAWF9cu8HkaqCFLobcdnaVrAsCebL2C2eY5jp",
+      "name": "Gorbagio  #1405",
+      "image": "https://plum-far-bobcat-940.mypinata.cloud/ipfs/bafybeihkdrontwttwgcaqlpifsav2pvyzyi2m4otl2jeklp4dbdzasdcu4/1405.png",
+      "traits": {
+        "backgrounds": "sesame",
+        "binz": "matress",
+        "eyes": "anime",
+        "facez": "white",
+        "hands": "gor-boy",
+        "mouth": "lollipop",
+        "over head": "beerhat",
+        "stickers": "chill grouch"
+      },
+      "owner": "DuQGGkHtfURxTWY26H7qfKYmRBAYaT54Z8EZX3zPpu8M",
+      "isListed": 0,
+      "price": null,
+      "magicEdenUrl": "https://magiceden.us/item-details/EAx1SDfmAWF9cu8HkaqCFLobcdnaVrAsCebL2C2eY5jp"
+    },
+    {
+      "mint": "Ac8R4SwGwQUTjvkS7AGwbmpt6T7dxdGxJu4kNsFLpe5U",
+      "name": "Gorbagio  #1420",
+      "image": "https://plum-far-bobcat-940.mypinata.cloud/ipfs/bafybeihkdrontwttwgcaqlpifsav2pvyzyi2m4otl2jeklp4dbdzasdcu4/1420.png",
+      "traits": {
+        "backgrounds": "casino",
+        "binz": "dumpster",
+        "eyes": "flora",
+        "facez": "white",
+        "hands": "gor-boy",
+        "mouth": "remilio",
+        "over head": "sbf-hair"
+      },
+      "owner": "CoFkDYhNRQFkhzb8MA1UwdTL61ePtHtMJxvBBmP5mRMi",
+      "isListed": true,
+      "price": 7.8e-8,
+      "magicEdenUrl": "https://magiceden.us/item-details/Ac8R4SwGwQUTjvkS7AGwbmpt6T7dxdGxJu4kNsFLpe5U"
+    },
+    {
+      "mint": "EFWn7L5yYz9VU1AQrKJ9N29Bbwz3H1ptKE8RVXhGFrxA",
+      "name": "Gorbagio  #1470",
+      "image": "https://plum-far-bobcat-940.mypinata.cloud/ipfs/bafybeihkdrontwttwgcaqlpifsav2pvyzyi2m4otl2jeklp4dbdzasdcu4/1470.png",
+      "traits": {
+        "backgrounds": "flat earth map",
+        "binz": "pump pill",
+        "eyes": "hazel",
+        "facez": "black",
+        "hands": "gor-boy",
+        "mouth": ":3",
+        "over head": "croc-hat",
+        "stickers": "moggers"
+      },
+      "owner": "68biPCy88FiBtUNaujnNyVnVtHxCkLvoPLFyN24vn4vi",
+      "isListed": 0,
+      "price": null,
+      "magicEdenUrl": "https://magiceden.us/item-details/EFWn7L5yYz9VU1AQrKJ9N29Bbwz3H1ptKE8RVXhGFrxA"
+    },
+    {
+      "mint": "FKQcLJhTnZHbUNhXt8DPEuLxjurbmvy17AEARE6mtYJy",
+      "name": "Gorbagio  #1475",
+      "image": "https://plum-far-bobcat-940.mypinata.cloud/ipfs/bafybeihkdrontwttwgcaqlpifsav2pvyzyi2m4otl2jeklp4dbdzasdcu4/1475.png",
+      "traits": {
+        "backgrounds": "flat earth map",
+        "binz": "original",
+        "eyes": "hazel",
+        "facez": "white",
+        "hands": "gor-boy",
+        "mouth": "pouty"
+      },
+      "owner": "5txxv1FLd6JsJoa5Jy9Sep9LoFSm2oNxNWS9TbmF9g7",
+      "isListed": 0,
+      "price": null,
+      "magicEdenUrl": "https://magiceden.us/item-details/FKQcLJhTnZHbUNhXt8DPEuLxjurbmvy17AEARE6mtYJy"
+    },
+    {
+      "mint": "9KXhBSYzDJ2cPzfGQQ3wifCXAp4Wga8bkkGce1KuAd9N",
+      "name": "Gorbagio  #1526",
+      "image": "https://plum-far-bobcat-940.mypinata.cloud/ipfs/bafybeihkdrontwttwgcaqlpifsav2pvyzyi2m4otl2jeklp4dbdzasdcu4/1526.png",
+      "traits": {
+        "backgrounds": "dont fight",
+        "binz": "matress",
+        "eyes": "oh, you",
+        "facez": "white",
+        "hands": "gor-boy",
+        "mouth": "pouty",
+        "stickers": "chill grouch"
+      },
+      "owner": "AehiDH6t8ymCM98FeKWztY3En4do6eBfxDp9oy48Gijq",
+      "isListed": 0,
+      "price": null,
+      "magicEdenUrl": "https://magiceden.us/item-details/9KXhBSYzDJ2cPzfGQQ3wifCXAp4Wga8bkkGce1KuAd9N"
+    },
+    {
+      "mint": "5JWptSszMEzpFt1xfuodqwiGajvDzcjd8rWXWwJSV5M7",
+      "name": "Gorbagio  #1529",
+      "image": "https://plum-far-bobcat-940.mypinata.cloud/ipfs/bafybeihkdrontwttwgcaqlpifsav2pvyzyi2m4otl2jeklp4dbdzasdcu4/1529.png",
+      "traits": {
+        "backgrounds": "gorbage truck",
+        "binz": "futuristic",
+        "eyes": "dark brown",
+        "facez": "white",
+        "hands": "gor-boy",
+        "mouth": ":3",
+        "stickers": "garbage showzen"
+      },
+      "owner": "3f5Egzjy2voJ4FfqRYN1fcVxTeSemBpveNqhVFXMVA8r",
+      "isListed": 0,
+      "price": null,
+      "magicEdenUrl": "https://magiceden.us/item-details/5JWptSszMEzpFt1xfuodqwiGajvDzcjd8rWXWwJSV5M7"
+    },
+    {
+      "mint": "Ajicoo8r7M1MqYP4bwRSf4FxQdQ6Qju9oCEsapBxRqtu",
+      "name": "Gorbagio  #1537",
+      "image": "https://plum-far-bobcat-940.mypinata.cloud/ipfs/bafybeihkdrontwttwgcaqlpifsav2pvyzyi2m4otl2jeklp4dbdzasdcu4/1537.png",
+      "traits": {
+        "backgrounds": "hyperborea",
+        "binz": "matress",
+        "eyes": "dark brown",
+        "facez": "cookie",
+        "hands": "gor-boy",
+        "mouth": "sbf"
+      },
+      "owner": "4dfATfHSxwRPqL9iJgyejDRjHWozPB5UwNNodmmKaR2U",
+      "isListed": 0,
+      "price": null,
+      "magicEdenUrl": "https://magiceden.us/item-details/Ajicoo8r7M1MqYP4bwRSf4FxQdQ6Qju9oCEsapBxRqtu"
+    },
+    {
+      "mint": "F15FbvjEaxLxRXmMiGsA2L8XfLJz1SDc5aTY68iRNkTn",
+      "name": "Gorbagio  #1550",
+      "image": "https://plum-far-bobcat-940.mypinata.cloud/ipfs/bafybeihkdrontwttwgcaqlpifsav2pvyzyi2m4otl2jeklp4dbdzasdcu4/1550.png",
+      "traits": {
+        "backgrounds": "no second best",
+        "binz": "dumpster",
+        "eyes": "hazel",
+        "facez": "black",
+        "hands": "gor-boy",
+        "mouth": "sbf"
+      },
+      "owner": "5ZmYXP27nRMkWM5B4BRMzWEzmLSZ8ETRKFcdJDsnBWr2",
+      "isListed": 0,
+      "price": null,
+      "magicEdenUrl": "https://magiceden.us/item-details/F15FbvjEaxLxRXmMiGsA2L8XfLJz1SDc5aTY68iRNkTn"
+    },
+    {
+      "mint": "2X2u79TAQdx6kbYHV9XynS1FT3tGPL2rPfXG7GHUrEyi",
+      "name": "Gorbagio  #1585",
+      "image": "https://plum-far-bobcat-940.mypinata.cloud/ipfs/bafybeihkdrontwttwgcaqlpifsav2pvyzyi2m4otl2jeklp4dbdzasdcu4/1585.png",
+      "traits": {
+        "backgrounds": "sesame",
+        "binz": "digibin",
+        "eyes": "hazel",
+        "facez": "white",
+        "hands": "gor-boy",
+        "mouth": "remilio",
+        "stickers": "chibi oscar"
+      },
+      "owner": "FYyV6QvraJA9Yyj5vRzjCkVy2yYjhhRironvCtXvWEcy",
+      "isListed": 0,
+      "price": null,
+      "magicEdenUrl": "https://magiceden.us/item-details/2X2u79TAQdx6kbYHV9XynS1FT3tGPL2rPfXG7GHUrEyi"
+    },
+    {
+      "mint": "CJmD4Fo8hUX1SpeESmhiu2PJTJqKeau1ckvt6efWiXAb",
+      "name": "Gorbagio  #1627",
+      "image": "https://plum-far-bobcat-940.mypinata.cloud/ipfs/bafybeihkdrontwttwgcaqlpifsav2pvyzyi2m4otl2jeklp4dbdzasdcu4/1627.png",
+      "traits": {
+        "backgrounds": "no dumping",
+        "binz": "digibin",
+        "eyes": "oh, you",
+        "facez": "black",
+        "hands": "gor-boy",
+        "mouth": "bubblegum",
+        "stickers": "oscar phone"
+      },
+      "owner": "GAXnT4RyWnde7JtaobEjL5UXh1eedTTXuzoo6hdQ8YQ9",
+      "isListed": true,
+      "price": 4e-9,
+      "magicEdenUrl": "https://magiceden.us/item-details/CJmD4Fo8hUX1SpeESmhiu2PJTJqKeau1ckvt6efWiXAb"
+    },
+    {
+      "mint": "5Skiho2QsqWkq6sEVJA3oRTa4mY1ZCskpmFYAXMd8z2n",
+      "name": "Gorbagio  #1663",
+      "image": "https://plum-far-bobcat-940.mypinata.cloud/ipfs/bafybeihkdrontwttwgcaqlpifsav2pvyzyi2m4otl2jeklp4dbdzasdcu4/1663.png",
+      "traits": {
+        "backgrounds": "girl dev",
+        "binz": "sky-garbage",
+        "facez": "reptilian",
+        "hands": "gor-boy",
+        "mouth": "heheh",
+        "over head": "hackererman",
+        "stickers": "garbage showzen"
+      },
+      "owner": "GsaZdYyBfKemRyz8reSD5v1fx2xWCFpHGRBJ1mFr5Uju",
+      "isListed": 0,
+      "price": null,
+      "magicEdenUrl": "https://magiceden.us/item-details/5Skiho2QsqWkq6sEVJA3oRTa4mY1ZCskpmFYAXMd8z2n"
+    },
+    {
+      "mint": "9Ug9CM7advaQH5ugtXj8Mz1HpmwPfuRpb6LqRGU9MM27",
+      "name": "Gorbagio  #1674",
+      "image": "https://plum-far-bobcat-940.mypinata.cloud/ipfs/bafybeihkdrontwttwgcaqlpifsav2pvyzyi2m4otl2jeklp4dbdzasdcu4/1674.png",
+      "traits": {
+        "backgrounds": "dont fight",
+        "binz": "original",
+        "eyes": "heheh",
+        "facez": "white",
+        "hands": "gor-boy",
+        "mouth": "tooth",
+        "stickers": "chill grouch"
+      },
+      "owner": "NrnKjCKsPMVyyx6yH7oVL8zFciRiBRuxFjdkSm6DR3x",
+      "isListed": 0,
+      "price": null,
+      "magicEdenUrl": "https://magiceden.us/item-details/9Ug9CM7advaQH5ugtXj8Mz1HpmwPfuRpb6LqRGU9MM27"
+    },
+    {
+      "mint": "92tBQRcWYFVmruyHHnd9cqsvNi3f8KwuTbShMjk7siHN",
+      "name": "Gorbagio  #1712",
+      "image": "https://plum-far-bobcat-940.mypinata.cloud/ipfs/bafybeihkdrontwttwgcaqlpifsav2pvyzyi2m4otl2jeklp4dbdzasdcu4/1712.png",
+      "traits": {
+        "backgrounds": "im coming to kill you",
+        "binz": "pump pill",
+        "eyes": "dark brown",
+        "facez": "black",
+        "hands": "gor-boy",
+        "mouth": "pouty",
+        "stickers": "gor father"
+      },
+      "owner": "GQSsU24D3mDNWpTVc4m4wCqr6agiN8AXiLEWnQ54gezh",
+      "isListed": 0,
+      "price": null,
+      "magicEdenUrl": "https://magiceden.us/item-details/92tBQRcWYFVmruyHHnd9cqsvNi3f8KwuTbShMjk7siHN"
+    },
+    {
+      "mint": "J46TpSEc5kZF49QQPsj4Dhbu6AJ4KmD8YiDmu5HMcGNC",
+      "name": "Gorbagio  #1749",
+      "image": "https://plum-far-bobcat-940.mypinata.cloud/ipfs/bafybeihkdrontwttwgcaqlpifsav2pvyzyi2m4otl2jeklp4dbdzasdcu4/1749.png",
+      "traits": {
+        "backgrounds": "cookies",
+        "binz": "original",
+        "eyes": "heheh",
+        "facez": "white",
+        "hands": "gor-boy",
+        "mouth": "u"
+      },
+      "owner": "5kibczx3GFoksR7UHhwGGWR1NfpVL51Wu9QJqP8s7c8a",
+      "isListed": 0,
+      "price": null,
+      "magicEdenUrl": "https://magiceden.us/item-details/J46TpSEc5kZF49QQPsj4Dhbu6AJ4KmD8YiDmu5HMcGNC"
+    },
+    {
+      "mint": "8Li1zco7DsMyV117i6b1N918VhXvwhEpvDjDxxi1sHfA",
+      "name": "Gorbagio  #1750",
+      "image": "https://plum-far-bobcat-940.mypinata.cloud/ipfs/bafybeihkdrontwttwgcaqlpifsav2pvyzyi2m4otl2jeklp4dbdzasdcu4/1750.png",
+      "traits": {
+        "backgrounds": "gorbage truck",
+        "binz": "recycle-bin",
+        "facez": "alien",
+        "hands": "gor-boy",
+        "mouth": "troll",
+        "over head": "fumo"
+      },
+      "owner": "HrYrqJoPg56TqAmBvdtrM2R97LiCTYZZR21afg42ha3T",
+      "isListed": 0,
+      "price": null,
+      "magicEdenUrl": "https://magiceden.us/item-details/8Li1zco7DsMyV117i6b1N918VhXvwhEpvDjDxxi1sHfA"
+    },
+    {
+      "mint": "HwhuvDCMzZsKCU87f2zzdRTv3VHo4UH6GGGXnGjF8YVv",
+      "name": "Gorbagio  #1754",
+      "image": "https://plum-far-bobcat-940.mypinata.cloud/ipfs/bafybeihkdrontwttwgcaqlpifsav2pvyzyi2m4otl2jeklp4dbdzasdcu4/1754.png",
+      "traits": {
+        "backgrounds": "gorhouse",
+        "binz": "digibin",
+        "eyes": "oh, you",
+        "facez": "white",
+        "hands": "gor-boy",
+        "mouth": "smirk",
+        "stickers": "george droyd"
+      },
+      "owner": "H5DJfre6MiP3AVj3oWCxeqTBRrd9onY3XeDTbDYcqzaG",
+      "isListed": 0,
+      "price": null,
+      "magicEdenUrl": "https://magiceden.us/item-details/HwhuvDCMzZsKCU87f2zzdRTv3VHo4UH6GGGXnGjF8YVv"
+    },
+    {
+      "mint": "GjBJ7d2NQQNiwAPBxpXGdv4efxMs3DHkzHahBjTRnmuK",
+      "name": "Gorbagio  #1805",
+      "image": "https://plum-far-bobcat-940.mypinata.cloud/ipfs/bafybeihkdrontwttwgcaqlpifsav2pvyzyi2m4otl2jeklp4dbdzasdcu4/1805.png",
+      "traits": {
+        "backgrounds": "cardboard",
+        "binz": "putty",
+        "eyes": "flora",
+        "facez": "oni",
+        "hands": "gor-boy",
+        "mouth": "tab",
+        "over head": "oni-horns"
+      },
+      "owner": "BXTJWvaVAL9BrkNKdkdEoFBPzURMMpRrcTe5SiqZeoBr",
+      "isListed": 0,
+      "price": null,
+      "magicEdenUrl": "https://magiceden.us/item-details/GjBJ7d2NQQNiwAPBxpXGdv4efxMs3DHkzHahBjTRnmuK"
+    },
+    {
+      "mint": "DvzyVWybxMB7sCBEZFFPqZmtw7mz7bTnFsccSoAQCNca",
+      "name": "Gorbagio  #1852",
+      "image": "https://plum-far-bobcat-940.mypinata.cloud/ipfs/bafybeihkdrontwttwgcaqlpifsav2pvyzyi2m4otl2jeklp4dbdzasdcu4/1852.png",
+      "traits": {
+        "backgrounds": "im coming to kill you",
+        "binz": "recycle-bin",
+        "eyes": "heheh",
+        "facez": "white",
+        "hands": "gor-boy",
+        "mouth": "remilio"
+      },
+      "owner": "39WB8p9N34wb1zLZjFWqHZx6U8T4hCaZv3ySqsu1Qfi5",
+      "isListed": 0,
+      "price": null,
+      "magicEdenUrl": "https://magiceden.us/item-details/DvzyVWybxMB7sCBEZFFPqZmtw7mz7bTnFsccSoAQCNca"
+    },
+    {
+      "mint": "Cu364FTVkVSjQmhJEbt8ba9FCJb8u5VB2MnCNdbvYTub",
+      "name": "Gorbagio  #1887",
+      "image": "https://plum-far-bobcat-940.mypinata.cloud/ipfs/bafybeihkdrontwttwgcaqlpifsav2pvyzyi2m4otl2jeklp4dbdzasdcu4/1887.png",
+      "traits": {
+        "backgrounds": "fbi open up",
+        "binz": "pump pill",
+        "eyes": "hazel",
+        "facez": "black",
+        "hands": "gor-boy",
+        "mouth": "oh,-you-mouth",
+        "over head": "sbf-hair",
+        "stickers": "chill grouch"
+      },
+      "owner": "ACqAXCmhcsjUGsFoy6nkqyRaEFMiCeyVL17XtMJXoqJ",
+      "isListed": 0,
+      "price": null,
+      "magicEdenUrl": "https://magiceden.us/item-details/Cu364FTVkVSjQmhJEbt8ba9FCJb8u5VB2MnCNdbvYTub"
+    },
+    {
+      "mint": "AFBgQQbALAc5KYYtR5HqVTpXSBN8NVzYXnpUQKE5SWD",
+      "name": "Gorbagio  #1896",
+      "image": "https://plum-far-bobcat-940.mypinata.cloud/ipfs/bafybeihkdrontwttwgcaqlpifsav2pvyzyi2m4otl2jeklp4dbdzasdcu4/1896.png",
+      "traits": {
+        "backgrounds": "casino",
+        "binz": "original",
+        "eyes": "heheh",
+        "facez": "black",
+        "hands": "gor-boy",
+        "mouth": "pouty"
+      },
+      "owner": "HpBGDwg287PhHxgTPCTeeRLtFeiMTCY76Rq2Mxnm16KM",
+      "isListed": 0,
+      "price": null,
+      "magicEdenUrl": "https://magiceden.us/item-details/AFBgQQbALAc5KYYtR5HqVTpXSBN8NVzYXnpUQKE5SWD"
+    },
+    {
+      "mint": "CtESmiS75M9aMKuvJKEw8CRFUABpSTkaSmcgBbdeGNp5",
+      "name": "Gorbagio  #1900",
+      "image": "https://plum-far-bobcat-940.mypinata.cloud/ipfs/bafybeihkdrontwttwgcaqlpifsav2pvyzyi2m4otl2jeklp4dbdzasdcu4/1900.png",
+      "traits": {
+        "backgrounds": "gw freemason",
+        "binz": "digibin",
+        "eyes": "starry",
+        "facez": "black",
+        "hands": "gor-boy",
+        "mouth": "cookie-crumbs",
+        "over head": "beerhat",
+        "stickers": "garbagewave"
+      },
+      "owner": "BYsbtgdade3aLQUyEaMjFVzbBMcAjo4wzdxhLnowCCJ6",
+      "isListed": true,
+      "price": 1e-8,
+      "magicEdenUrl": "https://magiceden.us/item-details/CtESmiS75M9aMKuvJKEw8CRFUABpSTkaSmcgBbdeGNp5"
+    },
+    {
+      "mint": "9GqAWNR9r5fKBfEYmbNq5gJCDRVuPNTaGgf1GEfqVeS8",
+      "name": "Gorbagio  #1918",
+      "image": "https://plum-far-bobcat-940.mypinata.cloud/ipfs/bafybeihkdrontwttwgcaqlpifsav2pvyzyi2m4otl2jeklp4dbdzasdcu4/1918.png",
+      "traits": {
+        "backgrounds": "gorbage truck",
+        "binz": "futuristic",
+        "eyes": "hazel",
+        "facez": "black",
+        "hands": "gor-boy",
+        "mouth": "smirk",
+        "over head": "beerhat",
+        "stickers": "restful cube"
+      },
+      "owner": "HXUnhRqssXKfLmRwF7dv3RvBcEkCdfFVRTg4EVFnbwzs",
+      "isListed": 0,
+      "price": null,
+      "magicEdenUrl": "https://magiceden.us/item-details/9GqAWNR9r5fKBfEYmbNq5gJCDRVuPNTaGgf1GEfqVeS8"
+    },
+    {
+      "mint": "3Ju45EnZsBq7Zo11FyzVpUaNseaiTFBgirmGFaz2vyzA",
+      "name": "Gorbagio  #1934",
+      "image": "https://plum-far-bobcat-940.mypinata.cloud/ipfs/bafybeihkdrontwttwgcaqlpifsav2pvyzyi2m4otl2jeklp4dbdzasdcu4/1934.png",
+      "traits": {
+        "backgrounds": "fast food",
+        "binz": "digibin",
+        "eyes": "starry",
+        "facez": "black",
+        "hands": "gor-boy",
+        "mouth": "u",
+        "stickers": "chibi oscar"
+      },
+      "owner": "EwgtT2qwNsVw135wyDnFtLc7G7fbUrZqT4oP5QGVdxRG",
+      "isListed": 0,
+      "price": null,
+      "magicEdenUrl": "https://magiceden.us/item-details/3Ju45EnZsBq7Zo11FyzVpUaNseaiTFBgirmGFaz2vyzA"
+    },
+    {
+      "mint": "6BK8EecQ5bHiKW4R4jsUTqtmrJfu8ULSjFt5AyiprDAp",
+      "name": "Gorbagio  #1940",
+      "image": "https://plum-far-bobcat-940.mypinata.cloud/ipfs/bafybeihkdrontwttwgcaqlpifsav2pvyzyi2m4otl2jeklp4dbdzasdcu4/1940.png",
+      "traits": {
+        "backgrounds": "dumpster",
+        "binz": "futuristic",
+        "eyes": "flora",
+        "facez": "black",
+        "hands": "gor-boy",
+        "mouth": "lollipop"
+      },
+      "owner": "A39m9NdpnXHPciJMJhUCffNMcju2NeQeM9w4MHNym2DX",
+      "isListed": 0,
+      "price": null,
+      "magicEdenUrl": "https://magiceden.us/item-details/6BK8EecQ5bHiKW4R4jsUTqtmrJfu8ULSjFt5AyiprDAp"
+    },
+    {
+      "mint": "ArTC2eCWCXePvA6rbwHe6KtAyhQFvDvd5R3inKma9rkn",
+      "name": "Gorbagio  #2035",
+      "image": "https://plum-far-bobcat-940.mypinata.cloud/ipfs/bafybeihkdrontwttwgcaqlpifsav2pvyzyi2m4otl2jeklp4dbdzasdcu4/2035.png",
+      "traits": {
+        "backgrounds": "sesame",
+        "binz": "dumpster",
+        "eyes": "smug eyes",
+        "facez": "cookie",
+        "hands": "gor-boy",
+        "mouth": "lollipop",
+        "stickers": "george droyd"
+      },
+      "owner": "EdbbmWh7jNGf7zyuGGxmZt5KLiuSe558NPMDYTjcc7qv",
+      "isListed": 0,
+      "price": null,
+      "magicEdenUrl": "https://magiceden.us/item-details/ArTC2eCWCXePvA6rbwHe6KtAyhQFvDvd5R3inKma9rkn"
+    },
+    {
+      "mint": "7WkUtr2rq29hXcHaANMC1KcrKXEUiKYzmPBg9wLS3KqH",
+      "name": "Gorbagio  #2070",
+      "image": "https://plum-far-bobcat-940.mypinata.cloud/ipfs/bafybeihkdrontwttwgcaqlpifsav2pvyzyi2m4otl2jeklp4dbdzasdcu4/2070.png",
+      "traits": {
+        "backgrounds": "gw freemason",
+        "binz": "matress",
+        "eyes": "flora",
+        "facez": "white",
+        "hands": "gor-boy",
+        "mouth": ":3",
+        "stickers": "chibi oscar"
+      },
+      "owner": "GQSsU24D3mDNWpTVc4m4wCqr6agiN8AXiLEWnQ54gezh",
+      "isListed": 0,
+      "price": null,
+      "magicEdenUrl": "https://magiceden.us/item-details/7WkUtr2rq29hXcHaANMC1KcrKXEUiKYzmPBg9wLS3KqH"
+    },
+    {
+      "mint": "G7ytYD8JkZv3oJPkFTHjQJHeo5qEKtvTxCqCLzS5XAW",
+      "name": "Gorbagio  #2101",
+      "image": "https://plum-far-bobcat-940.mypinata.cloud/ipfs/bafybeihkdrontwttwgcaqlpifsav2pvyzyi2m4otl2jeklp4dbdzasdcu4/2101.png",
+      "traits": {
+        "backgrounds": "girl dev",
+        "binz": "recycle-bin",
+        "facez": "zombie",
+        "hands": "gor-boy",
+        "mouth": "pouty",
+        "over head": "lol-hat",
+        "stickers": "chill grouch"
+      },
+      "owner": "BYsbtgdade3aLQUyEaMjFVzbBMcAjo4wzdxhLnowCCJ6",
+      "isListed": true,
+      "price": 1e-8,
+      "magicEdenUrl": "https://magiceden.us/item-details/G7ytYD8JkZv3oJPkFTHjQJHeo5qEKtvTxCqCLzS5XAW"
+    },
+    {
+      "mint": "BNbrhmkTjLjtRtP8K4ykX5YpRZhLcV5PWCFjKZcJWhVW",
+      "name": "Gorbagio  #2102",
+      "image": "https://plum-far-bobcat-940.mypinata.cloud/ipfs/bafybeihkdrontwttwgcaqlpifsav2pvyzyi2m4otl2jeklp4dbdzasdcu4/2102.png",
+      "traits": {
+        "backgrounds": "sesame",
+        "binz": "dumpster",
+        "eyes": "dark brown",
+        "facez": "black",
+        "hands": "gor-boy",
+        "mouth": "remilio",
+        "over head": "hackererman"
+      },
+      "owner": "2LgFvh1FiRrtqonNAUC35TX9QMMYhibUU9Jn4kupWftA",
+      "isListed": 0,
+      "price": null,
+      "magicEdenUrl": "https://magiceden.us/item-details/BNbrhmkTjLjtRtP8K4ykX5YpRZhLcV5PWCFjKZcJWhVW"
+    },
+    {
+      "mint": "AZDjRkp7B2NDM9ed3DB8aLRdaCBXYYERJEcmKSkj55xr",
+      "name": "Gorbagio  #2130",
+      "image": "https://plum-far-bobcat-940.mypinata.cloud/ipfs/bafybeihkdrontwttwgcaqlpifsav2pvyzyi2m4otl2jeklp4dbdzasdcu4/2130.png",
+      "traits": {
+        "backgrounds": "ocean",
+        "binz": "pump pill",
+        "eyes": "hazel",
+        "facez": "white",
+        "hands": "gor-boy",
+        "mouth": "cookie-crumbs",
+        "over head": "tinfoil"
+      },
+      "owner": "9L5thM48kmuhe8gS2LTy2ea7hTjB9aCQjPb1KaPpm73N",
+      "isListed": 0,
+      "price": null,
+      "magicEdenUrl": "https://magiceden.us/item-details/AZDjRkp7B2NDM9ed3DB8aLRdaCBXYYERJEcmKSkj55xr"
+    },
+    {
+      "mint": "Bs27etN9SBsaDLTkEtGtUPvcy3F1HBzNU9UwSTuUyVCP",
+      "name": "Gorbagio  #2132",
+      "image": "https://plum-far-bobcat-940.mypinata.cloud/ipfs/bafybeihkdrontwttwgcaqlpifsav2pvyzyi2m4otl2jeklp4dbdzasdcu4/2132.png",
+      "traits": {
+        "backgrounds": "sesame",
+        "binz": "recycle-bin",
+        "eyes": "starry",
+        "facez": "oni",
+        "hands": "gor-boy",
+        "mouth": "cookie-crumbs",
+        "over head": "oni-horns",
+        "stickers": "trash man"
+      },
+      "owner": "CQruAEA5AYshxefUZknzpCGxPHkP3MhQVN6DfGH2fJcd",
+      "isListed": true,
+      "price": 4.0189999999999997e-7,
+      "magicEdenUrl": "https://magiceden.us/item-details/Bs27etN9SBsaDLTkEtGtUPvcy3F1HBzNU9UwSTuUyVCP"
+    },
+    {
+      "mint": "ATHJt4vZvPde5LSjfiCQtfuQhffesXevtaMej4eCLdo2",
+      "name": "Gorbagio  #2155",
+      "image": "https://plum-far-bobcat-940.mypinata.cloud/ipfs/bafybeihkdrontwttwgcaqlpifsav2pvyzyi2m4otl2jeklp4dbdzasdcu4/2155.png",
+      "traits": {
+        "backgrounds": "no dumping",
+        "binz": "original",
+        "eyes": "flora",
+        "facez": "white",
+        "hands": "gor-boy",
+        "mouth": "lollipop",
+        "over head": "beerhat"
+      },
+      "owner": "39WB8p9N34wb1zLZjFWqHZx6U8T4hCaZv3ySqsu1Qfi5",
+      "isListed": 0,
+      "price": null,
+      "magicEdenUrl": "https://magiceden.us/item-details/ATHJt4vZvPde5LSjfiCQtfuQhffesXevtaMej4eCLdo2"
+    },
+    {
+      "mint": "8DhQVtEdiSBqMMDf1YWirbiAJsCN7vqs6GjXEfRJccer",
+      "name": "Gorbagio  #2162",
+      "image": "https://plum-far-bobcat-940.mypinata.cloud/ipfs/bafybeihkdrontwttwgcaqlpifsav2pvyzyi2m4otl2jeklp4dbdzasdcu4/2162.png",
+      "traits": {
+        "backgrounds": "oval office",
+        "binz": "digibin",
+        "eyes": "oh, you",
+        "facez": "white",
+        "hands": "gor-boy",
+        "mouth": "smirk",
+        "over head": "hackererman"
+      },
+      "owner": "6SBQXWGjAoPeRPNc4BQTNWE4ttv966DwoAzBTyPp5rFV",
+      "isListed": 0,
+      "price": null,
+      "magicEdenUrl": "https://magiceden.us/item-details/8DhQVtEdiSBqMMDf1YWirbiAJsCN7vqs6GjXEfRJccer"
+    },
+    {
+      "mint": "Ag8fXdqJ2BCRt8q87FUY6XnYyim8b5QkvuAY1CwincFz",
+      "name": "Gorbagio  #2164",
+      "image": "https://plum-far-bobcat-940.mypinata.cloud/ipfs/bafybeihkdrontwttwgcaqlpifsav2pvyzyi2m4otl2jeklp4dbdzasdcu4/2164.png",
+      "traits": {
+        "backgrounds": "we love letter",
+        "binz": "futuristic",
+        "eyes": "starry",
+        "facez": "black",
+        "hands": "gor-boy",
+        "mouth": "cookie-crumbs",
+        "stickers": "trash man"
+      },
+      "owner": "B8g2Gz9GdjWESxE2EgySUuCqLjWJsVN2NvRaAkBXogNJ",
+      "isListed": 0,
+      "price": null,
+      "magicEdenUrl": "https://magiceden.us/item-details/Ag8fXdqJ2BCRt8q87FUY6XnYyim8b5QkvuAY1CwincFz"
+    },
+    {
+      "mint": "GtxVSYpLDZ42szTqmT9Y47VF1rJ4byDd57ufwgA7QFB9",
+      "name": "Gorbagio  #2177",
+      "image": "https://plum-far-bobcat-940.mypinata.cloud/ipfs/bafybeihkdrontwttwgcaqlpifsav2pvyzyi2m4otl2jeklp4dbdzasdcu4/2177.png",
+      "traits": {
+        "backgrounds": "skibidi",
+        "binz": "box",
+        "eyes": "hazel",
+        "facez": "black",
+        "hands": "gor-boy",
+        "mouth": "lollipop",
+        "over head": "neo",
+        "stickers": "ansem shitpost"
+      },
+      "owner": "BHK1dk5wMghj7ZThNEggARhzsmRcsr712wfQrVNoRZmd",
+      "isListed": true,
+      "price": 6.603e-9,
+      "magicEdenUrl": "https://magiceden.us/item-details/GtxVSYpLDZ42szTqmT9Y47VF1rJ4byDd57ufwgA7QFB9"
+    },
+    {
+      "mint": "EhMCAvAQX8D7fKDF6HE2brr4gVvBUzjUjYzemFSyDG5S",
+      "name": "Gorbagio  #2223",
+      "image": "https://plum-far-bobcat-940.mypinata.cloud/ipfs/bafybeihkdrontwttwgcaqlpifsav2pvyzyi2m4otl2jeklp4dbdzasdcu4/2223.png",
+      "traits": {
+        "backgrounds": "ily",
+        "binz": "original",
+        "eyes": "starry",
+        "facez": "oni",
+        "hands": "gor-boy",
+        "mouth": "remilio",
+        "over head": "oni-horns"
+      },
+      "owner": "AAgSGvs94M6g2n81hc7gaMry8rKN26AoogbyESFgKQa5",
+      "isListed": 0,
+      "price": null,
+      "magicEdenUrl": "https://magiceden.us/item-details/EhMCAvAQX8D7fKDF6HE2brr4gVvBUzjUjYzemFSyDG5S"
+    },
+    {
+      "mint": "7XE54QU2dhYFHHS3zVYqE2bBSb7Jexx3vHC4tkptyBFp",
+      "name": "Gorbagio  #2234",
+      "image": "https://plum-far-bobcat-940.mypinata.cloud/ipfs/bafybeihkdrontwttwgcaqlpifsav2pvyzyi2m4otl2jeklp4dbdzasdcu4/2234.png",
+      "traits": {
+        "backgrounds": "cardboard",
+        "binz": "matress",
+        "eyes": "oh, you",
+        "facez": "white",
+        "hands": "gor-boy",
+        "mouth": "fishy"
+      },
+      "owner": "ERAXyrrPkqRujLqKUsXA2HHH4tvg7rnrUSUh1fovBJoM",
+      "isListed": 0,
+      "price": null,
+      "magicEdenUrl": "https://magiceden.us/item-details/7XE54QU2dhYFHHS3zVYqE2bBSb7Jexx3vHC4tkptyBFp"
+    },
+    {
+      "mint": "EXvdhVY1dN2U5YNyC2ETwKoJGQN52yRSWPnKt7wNgdr1",
+      "name": "Gorbagio  #2311",
+      "image": "https://plum-far-bobcat-940.mypinata.cloud/ipfs/bafybeihkdrontwttwgcaqlpifsav2pvyzyi2m4otl2jeklp4dbdzasdcu4/2311.png",
+      "traits": {
+        "backgrounds": "ily",
+        "binz": "digibin",
+        "eyes": "heheh",
+        "facez": "black",
+        "hands": "gor-boy",
+        "mouth": ":3",
+        "over head": "green phat",
+        "stickers": "garbage showzen"
+      },
+      "owner": "6REgAEv67tLwQZ5MbZ1YxXPxKwb71us7htKroALudvL",
+      "isListed": 0,
+      "price": null,
+      "magicEdenUrl": "https://magiceden.us/item-details/EXvdhVY1dN2U5YNyC2ETwKoJGQN52yRSWPnKt7wNgdr1"
+    },
+    {
+      "mint": "783RQa1gyzaxNeGKL1jxC4Js6m9u3j2DjRWcBhUjPn78",
+      "name": "Gorbagio  #2355",
+      "image": "https://plum-far-bobcat-940.mypinata.cloud/ipfs/bafybeihkdrontwttwgcaqlpifsav2pvyzyi2m4otl2jeklp4dbdzasdcu4/2355.png",
+      "traits": {
+        "backgrounds": "gw freemason",
+        "binz": "rags",
+        "eyes": "oh, you",
+        "facez": "white",
+        "hands": "gor-boy",
+        "mouth": "fishy"
+      },
+      "owner": "3TsRAE3Pdx4eJAcxbiwi9NY8mNYChEkjV5DbAwazFKSq",
+      "isListed": 0,
+      "price": null,
+      "magicEdenUrl": "https://magiceden.us/item-details/783RQa1gyzaxNeGKL1jxC4Js6m9u3j2DjRWcBhUjPn78"
+    },
+    {
+      "mint": "DQLVjwkndAEssNyS22CMkASmUwrCes1xjw4iq9gi2n56",
+      "name": "Gorbagio  #2365",
+      "image": "https://plum-far-bobcat-940.mypinata.cloud/ipfs/bafybeihkdrontwttwgcaqlpifsav2pvyzyi2m4otl2jeklp4dbdzasdcu4/2365.png",
+      "traits": {
+        "backgrounds": "nuclear",
+        "binz": "original",
+        "eyes": "oh, you",
+        "facez": "white",
+        "hands": "gor-boy",
+        "mouth": "cookie-crumbs"
+      },
+      "owner": "5W5vnVSX7NjaghpfMf1jyvtcQNyRffk7hDZS67rKXQpW",
+      "isListed": 0,
+      "price": null,
+      "magicEdenUrl": "https://magiceden.us/item-details/DQLVjwkndAEssNyS22CMkASmUwrCes1xjw4iq9gi2n56"
+    },
+    {
+      "mint": "4Rtih4aRUDvbEubEEYmmzgfKWpBAZGiwJW8m6h2kGYkE",
+      "name": "Gorbagio  #2367",
+      "image": "https://plum-far-bobcat-940.mypinata.cloud/ipfs/bafybeihkdrontwttwgcaqlpifsav2pvyzyi2m4otl2jeklp4dbdzasdcu4/2367.png",
+      "traits": {
+        "backgrounds": "fast food",
+        "binz": "digibin",
+        "eyes": "oh, you",
+        "facez": "white",
+        "hands": "gor-boy",
+        "mouth": "smirk",
+        "over head": "green phat",
+        "stickers": "oscar phone"
+      },
+      "owner": "Aqp596NyXn9YvPQMKRZf8TSmQXqASLGSQbC7kGcZfh9g",
+      "isListed": 0,
+      "price": null,
+      "magicEdenUrl": "https://magiceden.us/item-details/4Rtih4aRUDvbEubEEYmmzgfKWpBAZGiwJW8m6h2kGYkE"
+    },
+    {
+      "mint": "ApYbGZXGJni6CcY4k8mQ8odZxGkVTizbnEgFAn3GRxsV",
+      "name": "Gorbagio  #2373",
+      "image": "https://plum-far-bobcat-940.mypinata.cloud/ipfs/bafybeihkdrontwttwgcaqlpifsav2pvyzyi2m4otl2jeklp4dbdzasdcu4/2373.png",
+      "traits": {
+        "backgrounds": "brave beautiful woman",
+        "binz": "digibin",
+        "eyes": "oh, you",
+        "facez": "white",
+        "hands": "gor-boy",
+        "mouth": "remilio",
+        "over head": "lol-hat",
+        "stickers": "gorbagana street"
+      },
+      "owner": "w2tBVpG3qGV5mwqyWvHjVq11zkhUX8mg3UQqfLqvz6y",
+      "isListed": true,
+      "price": 1.3e-9,
+      "magicEdenUrl": "https://magiceden.us/item-details/ApYbGZXGJni6CcY4k8mQ8odZxGkVTizbnEgFAn3GRxsV"
+    },
+    {
+      "mint": "BfgzfLGxPNsC8pncT37mGjrCMswW4ZkPHwrNWhVTXKst",
+      "name": "Gorbagio  #2398",
+      "image": "https://plum-far-bobcat-940.mypinata.cloud/ipfs/bafybeihkdrontwttwgcaqlpifsav2pvyzyi2m4otl2jeklp4dbdzasdcu4/2398.png",
+      "traits": {
+        "backgrounds": "sesame",
+        "binz": "digibin",
+        "eyes": "oh, you",
+        "facez": "black",
+        "hands": "gor-boy",
+        "mouth": "lollipop",
+        "over head": "green phat"
+      },
+      "owner": "TeDek9aMSTN6uX2mt1YS9kED9LZwNwPubrayWs7EfvV",
+      "isListed": 0,
+      "price": null,
+      "magicEdenUrl": "https://magiceden.us/item-details/BfgzfLGxPNsC8pncT37mGjrCMswW4ZkPHwrNWhVTXKst"
+    },
+    {
+      "mint": "GkGVyJzPBk1Ar5UCFdu4EySUD21PKrNWq4NSibxipa9B",
+      "name": "Gorbagio  #2423",
+      "image": "https://plum-far-bobcat-940.mypinata.cloud/ipfs/bafybeihkdrontwttwgcaqlpifsav2pvyzyi2m4otl2jeklp4dbdzasdcu4/2423.png",
+      "traits": {
+        "backgrounds": "trvth nvke",
+        "binz": "matress",
+        "eyes": "heheh",
+        "facez": "oni",
+        "hands": "gor-boy",
+        "mouth": ":3",
+        "over head": "oni-horns"
+      },
+      "owner": "AAgSGvs94M6g2n81hc7gaMry8rKN26AoogbyESFgKQa5",
+      "isListed": 0,
+      "price": null,
+      "magicEdenUrl": "https://magiceden.us/item-details/GkGVyJzPBk1Ar5UCFdu4EySUD21PKrNWq4NSibxipa9B"
+    },
+    {
+      "mint": "4naYjry4gdBKDeQVMfrdq6mZsT4on5Y49VfWbzwCUhUo",
+      "name": "Gorbagio  #2442",
+      "image": "https://plum-far-bobcat-940.mypinata.cloud/ipfs/bafybeihkdrontwttwgcaqlpifsav2pvyzyi2m4otl2jeklp4dbdzasdcu4/2442.png",
+      "traits": {
+        "backgrounds": "stall",
+        "binz": "matress",
+        "eyes": "anime",
+        "facez": "white",
+        "hands": "gor-boy",
+        "mouth": "fishy",
+        "over head": "green phat"
+      },
+      "owner": "FPhfFUnXvKQNKT2RPoWTSK2JHytueSzZcU11DsTLumMQ",
+      "isListed": 0,
+      "price": null,
+      "magicEdenUrl": "https://magiceden.us/item-details/4naYjry4gdBKDeQVMfrdq6mZsT4on5Y49VfWbzwCUhUo"
+    },
+    {
+      "mint": "FWkpfLod6pdRi2xQ8m6tuX34WbEvKyzFCVgKP7GtSKQf",
+      "name": "Gorbagio  #2504",
+      "image": "https://plum-far-bobcat-940.mypinata.cloud/ipfs/bafybeihkdrontwttwgcaqlpifsav2pvyzyi2m4otl2jeklp4dbdzasdcu4/2504.png",
+      "traits": {
+        "backgrounds": "hyperborea",
+        "binz": "futuristic",
+        "eyes": "flora",
+        "facez": "white",
+        "hands": "gor-boy",
+        "mouth": "tooth",
+        "over head": "hackererman",
+        "stickers": "gorbagana street"
+      },
+      "owner": "59JDyWiPMfTmk9Pf9EPk7kkp8WT4DUH9g1H2J5wT4dLU",
+      "isListed": 0,
+      "price": null,
+      "magicEdenUrl": "https://magiceden.us/item-details/FWkpfLod6pdRi2xQ8m6tuX34WbEvKyzFCVgKP7GtSKQf"
+    },
+    {
+      "mint": "CrHzPYQBmtXc8FmtFwZWfN2xGzEg3q7VuvmikwAU9Tyd",
+      "name": "Gorbagio  #2509",
+      "image": "https://plum-far-bobcat-940.mypinata.cloud/ipfs/bafybeihkdrontwttwgcaqlpifsav2pvyzyi2m4otl2jeklp4dbdzasdcu4/2509.png",
+      "traits": {
+        "backgrounds": "no dumping",
+        "binz": "box",
+        "facez": "zombie",
+        "hands": "gor-boy",
+        "mouth": "pouty",
+        "stickers": "wheeler"
+      },
+      "owner": "CHwhStKajyxoKzB16Xtn1rqZLYQzAJbBrnyDE2Tjvkqd",
+      "isListed": 0,
+      "price": null,
+      "magicEdenUrl": "https://magiceden.us/item-details/CrHzPYQBmtXc8FmtFwZWfN2xGzEg3q7VuvmikwAU9Tyd"
+    },
+    {
+      "mint": "9iXxXFqVUmwT7BPmS1MBBraeUJNRadbH2sTCR7E14eLy",
+      "name": "Gorbagio  #2512",
+      "image": "https://plum-far-bobcat-940.mypinata.cloud/ipfs/bafybeihkdrontwttwgcaqlpifsav2pvyzyi2m4otl2jeklp4dbdzasdcu4/2512.png",
+      "traits": {
+        "backgrounds": "mostly peaceful",
+        "binz": "recycle-bin",
+        "eyes": "dark brown",
+        "facez": "black",
+        "hands": "gor-boy",
+        "mouth": "smug"
+      },
+      "owner": "6RQsAB9G8fw4MikAXk8Tw3FXwjiRw3F36dFvsnKUcpva",
+      "isListed": 0,
+      "price": null,
+      "magicEdenUrl": "https://magiceden.us/item-details/9iXxXFqVUmwT7BPmS1MBBraeUJNRadbH2sTCR7E14eLy"
+    },
+    {
+      "mint": "4WWPDTneAxt7mZaJYSk8EhTdL6HPkWVfxrfjWVBmmp1c",
+      "name": "Gorbagio  #2519",
+      "image": "https://plum-far-bobcat-940.mypinata.cloud/ipfs/bafybeihkdrontwttwgcaqlpifsav2pvyzyi2m4otl2jeklp4dbdzasdcu4/2519.png",
+      "traits": {
+        "backgrounds": "fbi open up",
+        "binz": "digibin",
+        "eyes": "flora",
+        "facez": "white",
+        "hands": "gor-boy",
+        "mouth": "pouty",
+        "over head": "fumo"
+      },
+      "owner": "DuQGGkHtfURxTWY26H7qfKYmRBAYaT54Z8EZX3zPpu8M",
+      "isListed": 0,
+      "price": null,
+      "magicEdenUrl": "https://magiceden.us/item-details/4WWPDTneAxt7mZaJYSk8EhTdL6HPkWVfxrfjWVBmmp1c"
+    },
+    {
+      "mint": "FEtmkYpcgXoRPyr5eDScV6JxS9wrR2cDQ2oEnAArhyRY",
+      "name": "Gorbagio  #2567",
+      "image": "https://plum-far-bobcat-940.mypinata.cloud/ipfs/bafybeihkdrontwttwgcaqlpifsav2pvyzyi2m4otl2jeklp4dbdzasdcu4/2567.png",
+      "traits": {
+        "backgrounds": "brave beautiful woman",
+        "binz": "box",
+        "facez": "zombie",
+        "hands": "gor-boy",
+        "mouth": "bubblegum",
+        "over head": "green phat",
+        "stickers": "gorbagana street"
+      },
+      "owner": "CxSJ6ht2CfA5RaGujyH7WKi6mV3BeCK7twKUriZUejGC",
+      "isListed": 0,
+      "price": null,
+      "magicEdenUrl": "https://magiceden.us/item-details/FEtmkYpcgXoRPyr5eDScV6JxS9wrR2cDQ2oEnAArhyRY"
+    },
+    {
+      "mint": "BQuaRk3Wfdtj1j4YWuPZqor3JkngG5dEEAee6skLx72y",
+      "name": "Gorbagio  #2595",
+      "image": "https://plum-far-bobcat-940.mypinata.cloud/ipfs/bafybeihkdrontwttwgcaqlpifsav2pvyzyi2m4otl2jeklp4dbdzasdcu4/2595.png",
+      "traits": {
+        "backgrounds": "barone",
+        "binz": "recycle-bin",
+        "eyes": "flora",
+        "facez": "oni",
+        "hands": "gor-boy",
+        "mouth": "smirk",
+        "over head": "oni-horns",
+        "stickers": "garbage showzen"
+      },
+      "owner": "DVbmvMQ8U9udPFf3qCRnSdytU6CgNvnjMYis7dL1PPMP",
+      "isListed": 0,
+      "price": null,
+      "magicEdenUrl": "https://magiceden.us/item-details/BQuaRk3Wfdtj1j4YWuPZqor3JkngG5dEEAee6skLx72y"
+    },
+    {
+      "mint": "YN2x4nUqi6kpqSyoYwWXyDwp3mxk1WtQ6bDeFgZQtzx",
+      "name": "Gorbagio  #2657",
+      "image": "https://plum-far-bobcat-940.mypinata.cloud/ipfs/bafybeihkdrontwttwgcaqlpifsav2pvyzyi2m4otl2jeklp4dbdzasdcu4/2657.png",
+      "traits": {
+        "backgrounds": "no dumping",
+        "binz": "original",
+        "eyes": "flora",
+        "facez": "black",
+        "hands": "gor-boy",
+        "mouth": "bubblegum"
+      },
+      "owner": "Eo3doVC8ecSJ6WMkG1gdXEPRaZgvxiNbzFgiMb2YFW28",
+      "isListed": 0,
+      "price": null,
+      "magicEdenUrl": "https://magiceden.us/item-details/YN2x4nUqi6kpqSyoYwWXyDwp3mxk1WtQ6bDeFgZQtzx"
+    },
+    {
+      "mint": "EbJ6YJzgbUTXHB5YjQ7RdcTJ8B3f2g9QgWsgumEjqofV",
+      "name": "Gorbagio  #2666",
+      "image": "https://plum-far-bobcat-940.mypinata.cloud/ipfs/bafybeihkdrontwttwgcaqlpifsav2pvyzyi2m4otl2jeklp4dbdzasdcu4/2666.png",
+      "traits": {
+        "backgrounds": "my founder",
+        "binz": "dumpster",
+        "eyes": "oh, you",
+        "facez": "black",
+        "hands": "gor-boy",
+        "mouth": "cookie-crumbs"
+      },
+      "owner": "BrjQoy9btvctG3ifVKzQXKifQK4vePMstwTCNcxe7Ue7",
+      "isListed": 0,
+      "price": null,
+      "magicEdenUrl": "https://magiceden.us/item-details/EbJ6YJzgbUTXHB5YjQ7RdcTJ8B3f2g9QgWsgumEjqofV"
+    },
+    {
+      "mint": "CbM8oo6CxhyUJjvS1WeF6RnU4sbitkTd92KmbcrpfKrn",
+      "name": "Gorbagio  #2669",
+      "image": "https://plum-far-bobcat-940.mypinata.cloud/ipfs/bafybeihkdrontwttwgcaqlpifsav2pvyzyi2m4otl2jeklp4dbdzasdcu4/2669.png",
+      "traits": {
+        "backgrounds": "barone",
+        "binz": "original",
+        "eyes": "dark brown",
+        "facez": "white",
+        "hands": "gor-boy",
+        "mouth": "smirk"
+      },
+      "owner": "HpCZPikYAkmDfY4rHLGmJupzzvYGs3ogo6BqMpNCm65P",
+      "isListed": 0,
+      "price": null,
+      "magicEdenUrl": "https://magiceden.us/item-details/CbM8oo6CxhyUJjvS1WeF6RnU4sbitkTd92KmbcrpfKrn"
+    },
+    {
+      "mint": "3sVxtcgDMtWNkiu48Pbv3KaNqwS5it3kjJQtG4jQfaKb",
+      "name": "Gorbagio  #2691",
+      "image": "https://plum-far-bobcat-940.mypinata.cloud/ipfs/bafybeihkdrontwttwgcaqlpifsav2pvyzyi2m4otl2jeklp4dbdzasdcu4/2691.png",
+      "traits": {
+        "backgrounds": "sesame",
+        "binz": "recycle-bin",
+        "eyes": "heheh",
+        "facez": "black",
+        "hands": "gor-boy",
+        "mouth": "tooth",
+        "over head": "hackererman"
+      },
+      "owner": "H7MyRmmGifZhMsBCyKiHZqeSou9tZeN3f9ocqXi1792n",
+      "isListed": 0,
+      "price": null,
+      "magicEdenUrl": "https://magiceden.us/item-details/3sVxtcgDMtWNkiu48Pbv3KaNqwS5it3kjJQtG4jQfaKb"
+    },
+    {
+      "mint": "72SoiRwowas5s89LJyGTrGuw9rUfxshVN2EaGGRsxixT",
+      "name": "Gorbagio  #2707",
+      "image": "https://plum-far-bobcat-940.mypinata.cloud/ipfs/bafybeihkdrontwttwgcaqlpifsav2pvyzyi2m4otl2jeklp4dbdzasdcu4/2707.png",
+      "traits": {
+        "backgrounds": "no second best",
+        "binz": "recycle-bin",
+        "eyes": "oh, you",
+        "facez": "black",
+        "hands": "gor-boy",
+        "mouth": "smirk",
+        "over head": "green phat",
+        "stickers": "chauncey"
+      },
+      "owner": "DuQGGkHtfURxTWY26H7qfKYmRBAYaT54Z8EZX3zPpu8M",
+      "isListed": 0,
+      "price": null,
+      "magicEdenUrl": "https://magiceden.us/item-details/72SoiRwowas5s89LJyGTrGuw9rUfxshVN2EaGGRsxixT"
+    },
+    {
+      "mint": "8ZAniYgn7D1sqLYYnAhyDGvW8v4RiyTT7jZfc3eiwr2f",
+      "name": "Gorbagio  #2723",
+      "image": "https://plum-far-bobcat-940.mypinata.cloud/ipfs/bafybeihkdrontwttwgcaqlpifsav2pvyzyi2m4otl2jeklp4dbdzasdcu4/2723.png",
+      "traits": {
+        "backgrounds": "brave beautiful woman",
+        "binz": "matress",
+        "eyes": "anime",
+        "facez": "cookie",
+        "hands": "gor-boy",
+        "mouth": "heheh",
+        "over head": "beerhat"
+      },
+      "owner": "E5Fdp7qo9Unr4vg9nG1u4s8T4N5dx2JdhzzvM2FMymex",
+      "isListed": 0,
+      "price": null,
+      "magicEdenUrl": "https://magiceden.us/item-details/8ZAniYgn7D1sqLYYnAhyDGvW8v4RiyTT7jZfc3eiwr2f"
+    },
+    {
+      "mint": "2F5aQ7MjVNmx6Sbg8Qn8dSE2hDCNvKmL1AAad4udAUpt",
+      "name": "Gorbagio  #2752",
+      "image": "https://plum-far-bobcat-940.mypinata.cloud/ipfs/bafybeihkdrontwttwgcaqlpifsav2pvyzyi2m4otl2jeklp4dbdzasdcu4/2752.png",
+      "traits": {
+        "backgrounds": "dumpster",
+        "binz": "pump pill",
+        "eyes": "flora",
+        "facez": "black",
+        "hands": "gor-boy",
+        "mouth": ":3",
+        "stickers": "chibi oscar"
+      },
+      "owner": "Fmt7aVmxqPzU5UcpCLPi8mieYgoTWBDPTQ3XYzCAKT3P",
+      "isListed": 0,
+      "price": null,
+      "magicEdenUrl": "https://magiceden.us/item-details/2F5aQ7MjVNmx6Sbg8Qn8dSE2hDCNvKmL1AAad4udAUpt"
+    },
+    {
+      "mint": "E3KqEuVCLpVoCwP7RnTNeN474W3XXvsJ7g2QyR4oiuzk",
+      "name": "Gorbagio  #2811",
+      "image": "https://plum-far-bobcat-940.mypinata.cloud/ipfs/bafybeihkdrontwttwgcaqlpifsav2pvyzyi2m4otl2jeklp4dbdzasdcu4/2811.png",
+      "traits": {
+        "backgrounds": "dumpster",
+        "binz": "recycle-bin",
+        "eyes": "anime",
+        "facez": "black",
+        "hands": "gor-boy",
+        "mouth": "tab"
+      },
+      "owner": "2fa4drSciHD7kBNkjeBok4LMV8SuyrtBtD4hhVHSZAqK",
+      "isListed": true,
+      "price": 2.86e-7,
+      "magicEdenUrl": "https://magiceden.us/item-details/E3KqEuVCLpVoCwP7RnTNeN474W3XXvsJ7g2QyR4oiuzk"
+    },
+    {
+      "mint": "3MtUUPBN6DBMJgPZGRWY1XFod5PyDPkX2XzzUX1mAhLt",
+      "name": "Gorbagio  #2842",
+      "image": "https://plum-far-bobcat-940.mypinata.cloud/ipfs/bafybeihkdrontwttwgcaqlpifsav2pvyzyi2m4otl2jeklp4dbdzasdcu4/2842.png",
+      "traits": {
+        "backgrounds": "money",
+        "binz": "digibin",
+        "facez": "zombie",
+        "hands": "gor-boy",
+        "mouth": ":3",
+        "over head": "tinfoil"
+      },
+      "owner": "Aqp596NyXn9YvPQMKRZf8TSmQXqASLGSQbC7kGcZfh9g",
+      "isListed": 0,
+      "price": null,
+      "magicEdenUrl": "https://magiceden.us/item-details/3MtUUPBN6DBMJgPZGRWY1XFod5PyDPkX2XzzUX1mAhLt"
+    },
+    {
+      "mint": "8LA5DCtsJNXyVqSE6ptdEJA3F7gQskm4azmu986n2NHM",
+      "name": "Gorbagio  #2875",
+      "image": "https://plum-far-bobcat-940.mypinata.cloud/ipfs/bafybeihkdrontwttwgcaqlpifsav2pvyzyi2m4otl2jeklp4dbdzasdcu4/2875.png",
+      "traits": {
+        "backgrounds": "im coming to kill you",
+        "binz": "original",
+        "eyes": "putty",
+        "facez": "white",
+        "hands": "gor-boy",
+        "mouth": "heheh",
+        "over head": "neo"
+      },
+      "owner": "FunfbaX7q13wkDgoU9i7oXEgJRK46khrogm8a9cHS2cn",
+      "isListed": 0,
+      "price": null,
+      "magicEdenUrl": "https://magiceden.us/item-details/8LA5DCtsJNXyVqSE6ptdEJA3F7gQskm4azmu986n2NHM"
+    },
+    {
+      "mint": "97XfWNwrKpbawvcbCeyV6JHXd1HWJLgmC4VbxKcwF6d7",
+      "name": "Gorbagio  #2889",
+      "image": "https://plum-far-bobcat-940.mypinata.cloud/ipfs/bafybeihkdrontwttwgcaqlpifsav2pvyzyi2m4otl2jeklp4dbdzasdcu4/2889.png",
+      "traits": {
+        "backgrounds": "barone",
+        "binz": "matress",
+        "eyes": "dark brown",
+        "facez": "black",
+        "hands": "gor-boy",
+        "mouth": "cookie-crumbs",
+        "over head": "hackererman",
+        "stickers": "metalex"
+      },
+      "owner": "AxdQsYpxLp9spH6VCLAzr32ydFmUzTGas8hEHJgn2dAK",
+      "isListed": 0,
+      "price": null,
+      "magicEdenUrl": "https://magiceden.us/item-details/97XfWNwrKpbawvcbCeyV6JHXd1HWJLgmC4VbxKcwF6d7"
+    },
+    {
+      "mint": "ECJCUeGdcKjwx9cxL4PNa4PM55qk4bCReXL84PMmK7P8",
+      "name": "Gorbagio  #2938",
+      "image": "https://plum-far-bobcat-940.mypinata.cloud/ipfs/bafybeihkdrontwttwgcaqlpifsav2pvyzyi2m4otl2jeklp4dbdzasdcu4/2938.png",
+      "traits": {
+        "backgrounds": "fbi open up",
+        "binz": "matress",
+        "eyes": "oh, you",
+        "facez": "black",
+        "hands": "gor-boy",
+        "mouth": "smug",
+        "stickers": "trash man"
+      },
+      "owner": "7n96VTAzBJ9oHecjq29GU5EV2LvGLGyHLRVwn9Ybyr29",
+      "isListed": true,
+      "price": 2e-9,
+      "magicEdenUrl": "https://magiceden.us/item-details/ECJCUeGdcKjwx9cxL4PNa4PM55qk4bCReXL84PMmK7P8"
+    },
+    {
+      "mint": "4jgj2W1UV1XKDdrTck8DCxyE5G2yj9U6S878qurdRoxD",
+      "name": "Gorbagio  #2961",
+      "image": "https://plum-far-bobcat-940.mypinata.cloud/ipfs/bafybeihkdrontwttwgcaqlpifsav2pvyzyi2m4otl2jeklp4dbdzasdcu4/2961.png",
+      "traits": {
+        "backgrounds": "dc pentragram",
+        "binz": "matress",
+        "eyes": "dark brown",
+        "facez": "white",
+        "hands": "gor-boy",
+        "mouth": "bubblegum",
+        "stickers": "sarv"
+      },
+      "owner": "A4NNS1WRfiNpenPEgzbCCEzi3Frk6smPmKw9ZQ6ybjHg",
+      "isListed": 0,
+      "price": null,
+      "magicEdenUrl": "https://magiceden.us/item-details/4jgj2W1UV1XKDdrTck8DCxyE5G2yj9U6S878qurdRoxD"
+    },
+    {
+      "mint": "CeVXHSZ3fdqxAgrmrhqUNGtJJES8hB9Cn6Qs45Hgx2f9",
+      "name": "Gorbagio  #2967",
+      "image": "https://plum-far-bobcat-940.mypinata.cloud/ipfs/bafybeihkdrontwttwgcaqlpifsav2pvyzyi2m4otl2jeklp4dbdzasdcu4/2967.png",
+      "traits": {
+        "backgrounds": "barone",
+        "binz": "putty",
+        "eyes": "flora",
+        "facez": "white",
+        "hands": "gor-boy",
+        "mouth": "u",
+        "over head": "lol-hat",
+        "stickers": "chill grouch"
+      },
+      "owner": "GsaZdYyBfKemRyz8reSD5v1fx2xWCFpHGRBJ1mFr5Uju",
+      "isListed": 0,
+      "price": null,
+      "magicEdenUrl": "https://magiceden.us/item-details/CeVXHSZ3fdqxAgrmrhqUNGtJJES8hB9Cn6Qs45Hgx2f9"
+    },
+    {
+      "mint": "7zfnjyNHWgEb5Vshd4kHbxmxJSZdWFwWd8awPhWqM8Kp",
+      "name": "Gorbagio  #2972",
+      "image": "https://plum-far-bobcat-940.mypinata.cloud/ipfs/bafybeihkdrontwttwgcaqlpifsav2pvyzyi2m4otl2jeklp4dbdzasdcu4/2972.png",
+      "traits": {
+        "backgrounds": "mostly peaceful",
+        "binz": "digibin",
+        "eyes": "flora",
+        "facez": "black",
+        "hands": "gor-boy",
+        "mouth": "u",
+        "stickers": "gor father"
+      },
+      "owner": "6i3d1nfeX9kEnFWbWmo83L26ueJjLUxRX367TaB3W3Kf",
+      "isListed": 0,
+      "price": null,
+      "magicEdenUrl": "https://magiceden.us/item-details/7zfnjyNHWgEb5Vshd4kHbxmxJSZdWFwWd8awPhWqM8Kp"
+    },
+    {
+      "mint": "37mFUJoFfNA9aKKVRgFBtRJWXVEaw6uo9PiHqNrQbiaV",
+      "name": "Gorbagio  #2987",
+      "image": "https://plum-far-bobcat-940.mypinata.cloud/ipfs/bafybeihkdrontwttwgcaqlpifsav2pvyzyi2m4otl2jeklp4dbdzasdcu4/2987.png",
+      "traits": {
+        "backgrounds": "gorhouse",
+        "binz": "original",
+        "eyes": "heheh",
+        "facez": "white",
+        "hands": "gor-boy",
+        "mouth": "pouty",
+        "over head": "lol-hat"
+      },
+      "owner": "Bfy9eJ2iNMBexmMpWWN68US6gfot1WdiZXpwSfUhmGvH",
+      "isListed": 0,
+      "price": null,
+      "magicEdenUrl": "https://magiceden.us/item-details/37mFUJoFfNA9aKKVRgFBtRJWXVEaw6uo9PiHqNrQbiaV"
+    },
+    {
+      "mint": "DyTsg8n3hhLX17EYJ69Q2XVeit7a1aUGNUe4zPQoeVH",
+      "name": "Gorbagio  #2992",
+      "image": "https://plum-far-bobcat-940.mypinata.cloud/ipfs/bafybeihkdrontwttwgcaqlpifsav2pvyzyi2m4otl2jeklp4dbdzasdcu4/2992.png",
+      "traits": {
+        "backgrounds": "hyperborea",
+        "binz": "shredder",
+        "eyes": "hazel",
+        "facez": "black",
+        "hands": "gor-boy",
+        "mouth": "pouty"
+      },
+      "owner": "EvnRcuuaw6Ak6CWLQj3QFYUif6aSVwUpDrxYfJPXyRpt",
+      "isListed": 0,
+      "price": null,
+      "magicEdenUrl": "https://magiceden.us/item-details/DyTsg8n3hhLX17EYJ69Q2XVeit7a1aUGNUe4zPQoeVH"
+    },
+    {
+      "mint": "DE3dAADyxQyVdVA571QfJVeN14xhvPEXuHTV1MY8VDpy",
+      "name": "Gorbagio  #3033",
+      "image": "https://plum-far-bobcat-940.mypinata.cloud/ipfs/bafybeihkdrontwttwgcaqlpifsav2pvyzyi2m4otl2jeklp4dbdzasdcu4/3033.png",
+      "traits": {
+        "backgrounds": "oval office",
+        "binz": "original",
+        "facez": "reptilian",
+        "hands": "gor-boy",
+        "mouth": "lollipop"
+      },
+      "owner": "83fwCBbcwSzp7soxvBrXgZBeGkBV4jUioQxUWa9ozqpg",
+      "isListed": 0,
+      "price": null,
+      "magicEdenUrl": "https://magiceden.us/item-details/DE3dAADyxQyVdVA571QfJVeN14xhvPEXuHTV1MY8VDpy"
+    },
+    {
+      "mint": "5AgpqdwhXrmpfcA6tMSEfc8Zq4epaCXeL64EkHZQSt6o",
+      "name": "Gorbagio  #3039",
+      "image": "https://plum-far-bobcat-940.mypinata.cloud/ipfs/bafybeihkdrontwttwgcaqlpifsav2pvyzyi2m4otl2jeklp4dbdzasdcu4/3039.png",
+      "traits": {
+        "backgrounds": "gorbage truck",
+        "binz": "recycle-bin",
+        "eyes": "dark brown",
+        "facez": "black",
+        "hands": "gor-boy",
+        "mouth": "fishy"
+      },
+      "owner": "HhFCKaf3XedNEFyW458MBuDBSBmH3BRbXjeVW8yt1qMY",
+      "isListed": 0,
+      "price": null,
+      "magicEdenUrl": "https://magiceden.us/item-details/5AgpqdwhXrmpfcA6tMSEfc8Zq4epaCXeL64EkHZQSt6o"
+    },
+    {
+      "mint": "FGZr3oiwNwqEidLkjUfyto4RHGeWv8q49n1ZQ3e2htCE",
+      "name": "Gorbagio  #3046",
+      "image": "https://plum-far-bobcat-940.mypinata.cloud/ipfs/bafybeihkdrontwttwgcaqlpifsav2pvyzyi2m4otl2jeklp4dbdzasdcu4/3046.png",
+      "traits": {
+        "backgrounds": "cardboard",
+        "binz": "original",
+        "eyes": "heheh",
+        "facez": "white",
+        "hands": "gor-boy",
+        "mouth": "u",
+        "over head": "green phat",
+        "stickers": "george droyd"
+      },
+      "owner": "9dpTFB9cn44Mup7G7Ear6j7kqcjV1M2XjgmyHf9SqA62",
+      "isListed": 0,
+      "price": null,
+      "magicEdenUrl": "https://magiceden.us/item-details/FGZr3oiwNwqEidLkjUfyto4RHGeWv8q49n1ZQ3e2htCE"
+    },
+    {
+      "mint": "89wH8JQPqRG1kYu39R9s5ga1oh9LDvb4MogEBCPw1Ld2",
+      "name": "Gorbagio  #3053",
+      "image": "https://plum-far-bobcat-940.mypinata.cloud/ipfs/bafybeihkdrontwttwgcaqlpifsav2pvyzyi2m4otl2jeklp4dbdzasdcu4/3053.png",
+      "traits": {
+        "backgrounds": "im coming to kill you",
+        "binz": "box",
+        "eyes": "hazel",
+        "facez": "candy",
+        "hands": "gor-boy",
+        "mouth": "tab",
+        "stickers": "trash man"
+      },
+      "owner": "5SjbJKZjB4XmwKCoAUKHF3jCQbZsgw8JXKS8xoTtcvVH",
+      "isListed": 0,
+      "price": null,
+      "magicEdenUrl": "https://magiceden.us/item-details/89wH8JQPqRG1kYu39R9s5ga1oh9LDvb4MogEBCPw1Ld2"
+    },
+    {
+      "mint": "394bdupds8JYhGTfBQhRv4ktUr75UHj9ak5EZibEW1nT",
+      "name": "Gorbagio  #3060",
+      "image": "https://plum-far-bobcat-940.mypinata.cloud/ipfs/bafybeihkdrontwttwgcaqlpifsav2pvyzyi2m4otl2jeklp4dbdzasdcu4/3060.png",
+      "traits": {
+        "backgrounds": "sesame",
+        "binz": "original",
+        "eyes": "flora",
+        "facez": "white",
+        "hands": "gor-boy",
+        "mouth": ":3"
+      },
+      "owner": "9nw3ttmaBn3kC24ojyLgbTLUKDZVeCZP8CCg74QzAyqP",
+      "isListed": 0,
+      "price": null,
+      "magicEdenUrl": "https://magiceden.us/item-details/394bdupds8JYhGTfBQhRv4ktUr75UHj9ak5EZibEW1nT"
+    },
+    {
+      "mint": "DmaXeBSPywRRAd33hasB6MMM2VDhYWMDS5mZw3rV5b1K",
+      "name": "Gorbagio  #3074",
+      "image": "https://plum-far-bobcat-940.mypinata.cloud/ipfs/bafybeihkdrontwttwgcaqlpifsav2pvyzyi2m4otl2jeklp4dbdzasdcu4/3074.png",
+      "traits": {
+        "backgrounds": "fast food",
+        "binz": "putty",
+        "eyes": "hazel",
+        "facez": "white",
+        "hands": "gor-boy",
+        "mouth": "remilio",
+        "over head": "lol-hat"
+      },
+      "owner": "124X5MrnXMNRpjNq47A4zdFSKZFwrBcCqVYQ5v7uBf5s",
+      "isListed": 0,
+      "price": null,
+      "magicEdenUrl": "https://magiceden.us/item-details/DmaXeBSPywRRAd33hasB6MMM2VDhYWMDS5mZw3rV5b1K"
+    },
+    {
+      "mint": "5RWmDALwqmMkn8VcaM7dQ2HUBzKt8U4GTwuj2dQTA2Pc",
+      "name": "Gorbagio  #3091",
+      "image": "https://plum-far-bobcat-940.mypinata.cloud/ipfs/bafybeihkdrontwttwgcaqlpifsav2pvyzyi2m4otl2jeklp4dbdzasdcu4/3091.png",
+      "traits": {
+        "backgrounds": "fbi open up",
+        "binz": "pump pill",
+        "eyes": "hazel",
+        "facez": "black",
+        "hands": "gor-boy",
+        "mouth": "smirk",
+        "stickers": "gorbagana street"
+      },
+      "owner": "9oVmieQkFBivvBibrNeHoBFpdcjVY4sefr1Z1z4tkTks",
+      "isListed": 0,
+      "price": null,
+      "magicEdenUrl": "https://magiceden.us/item-details/5RWmDALwqmMkn8VcaM7dQ2HUBzKt8U4GTwuj2dQTA2Pc"
+    },
+    {
+      "mint": "6brKorJEhGoDR8oqcqxm5UGS6yEuek44uy7P63FYeXjf",
+      "name": "Gorbagio  #3105",
+      "image": "https://plum-far-bobcat-940.mypinata.cloud/ipfs/bafybeihkdrontwttwgcaqlpifsav2pvyzyi2m4otl2jeklp4dbdzasdcu4/3105.png",
+      "traits": {
+        "backgrounds": "girl dev",
+        "binz": "original",
+        "facez": "reptilian",
+        "hands": "gor-boy",
+        "mouth": "smirk"
+      },
+      "owner": "66fDGgR3ssjXMeFbuFoLhDCUiJZFi7jTfwdTiAid4mPR",
+      "isListed": 0,
+      "price": null,
+      "magicEdenUrl": "https://magiceden.us/item-details/6brKorJEhGoDR8oqcqxm5UGS6yEuek44uy7P63FYeXjf"
+    },
+    {
+      "mint": "EdmNfutuNEQPqZtztc9SY6RzGyQZux6VLcWsG4UjTsMy",
+      "name": "Gorbagio  #3107",
+      "image": "https://plum-far-bobcat-940.mypinata.cloud/ipfs/bafybeihkdrontwttwgcaqlpifsav2pvyzyi2m4otl2jeklp4dbdzasdcu4/3107.png",
+      "traits": {
+        "backgrounds": "mostly peaceful",
+        "binz": "dumpster",
+        "facez": "zombie",
+        "hands": "gor-boy",
+        "mouth": "pouty"
+      },
+      "owner": "CtuFhk9XYJ7inp2axJ86fF7rvkSAi1DcUsigSstduEYh",
+      "isListed": 0,
+      "price": null,
+      "magicEdenUrl": "https://magiceden.us/item-details/EdmNfutuNEQPqZtztc9SY6RzGyQZux6VLcWsG4UjTsMy"
+    },
+    {
+      "mint": "2bUZgUrvscgXSRYeQrYg88NGiaUGR94CVQM3bDdSbaBh",
+      "name": "Gorbagio  #3128",
+      "image": "https://plum-far-bobcat-940.mypinata.cloud/ipfs/bafybeihkdrontwttwgcaqlpifsav2pvyzyi2m4otl2jeklp4dbdzasdcu4/3128.png",
+      "traits": {
+        "backgrounds": "sesame",
+        "binz": "original",
+        "facez": "reptilian",
+        "hands": "gor-boy",
+        "mouth": "smug",
+        "over head": "beerhat",
+        "stickers": "garbage showzen"
+      },
+      "owner": "2Ys2XXXngBaP4PxuXht8xgb8oYbPh5cn2sZHyjR16z4K",
+      "isListed": 0,
+      "price": null,
+      "magicEdenUrl": "https://magiceden.us/item-details/2bUZgUrvscgXSRYeQrYg88NGiaUGR94CVQM3bDdSbaBh"
+    },
+    {
+      "mint": "CC6DTpAwppxdAGC2KYe3TBjcUmiDDMxvae7EFdpNMMah",
+      "name": "Gorbagio  #3143",
+      "image": "https://plum-far-bobcat-940.mypinata.cloud/ipfs/bafybeihkdrontwttwgcaqlpifsav2pvyzyi2m4otl2jeklp4dbdzasdcu4/3143.png",
+      "traits": {
+        "backgrounds": "cookies",
+        "binz": "futuristic",
+        "eyes": "starry",
+        "facez": "white",
+        "hands": "gor-boy",
+        "mouth": "tooth",
+        "stickers": "luce"
+      },
+      "owner": "AehiDH6t8ymCM98FeKWztY3En4do6eBfxDp9oy48Gijq",
+      "isListed": 0,
+      "price": null,
+      "magicEdenUrl": "https://magiceden.us/item-details/CC6DTpAwppxdAGC2KYe3TBjcUmiDDMxvae7EFdpNMMah"
+    },
+    {
+      "mint": "43FaWsddVPPnuEhYQx8VY5DFWcfX7QgkSTZ9d5X2T3xu",
+      "name": "Gorbagio  #3147",
+      "image": "https://plum-far-bobcat-940.mypinata.cloud/ipfs/bafybeihkdrontwttwgcaqlpifsav2pvyzyi2m4otl2jeklp4dbdzasdcu4/3147.png",
+      "traits": {
+        "backgrounds": "casino",
+        "binz": "futuristic",
+        "eyes": "heheh",
+        "facez": "white",
+        "hands": "gor-boy",
+        "mouth": "lollipop",
+        "stickers": "luce"
+      },
+      "owner": "5W5vnVSX7NjaghpfMf1jyvtcQNyRffk7hDZS67rKXQpW",
+      "isListed": 0,
+      "price": null,
+      "magicEdenUrl": "https://magiceden.us/item-details/43FaWsddVPPnuEhYQx8VY5DFWcfX7QgkSTZ9d5X2T3xu"
+    },
+    {
+      "mint": "F23xLFM7wg3fZrcLKMa11QnGbbGqXxPJAaYxyJbEytjD",
+      "name": "Gorbagio  #3155",
+      "image": "https://plum-far-bobcat-940.mypinata.cloud/ipfs/bafybeihkdrontwttwgcaqlpifsav2pvyzyi2m4otl2jeklp4dbdzasdcu4/3155.png",
+      "traits": {
+        "backgrounds": "spacebg",
+        "binz": "futuristic",
+        "eyes": "heheh",
+        "facez": "black",
+        "hands": "gor-boy",
+        "mouth": "troll",
+        "over head": "croc-hat"
+      },
+      "owner": "Dj1htkf6rp9Wk5W9ze5nVT9AdVJ1yGSaphEWtE1KiVtn",
+      "isListed": 0,
+      "price": null,
+      "magicEdenUrl": "https://magiceden.us/item-details/F23xLFM7wg3fZrcLKMa11QnGbbGqXxPJAaYxyJbEytjD"
+    },
+    {
+      "mint": "8xaLCDxYDtSXy4zj1kps6hckZtmqtbKEFHvgJkf8K9RP",
+      "name": "Gorbagio  #3172",
+      "image": "https://plum-far-bobcat-940.mypinata.cloud/ipfs/bafybeihkdrontwttwgcaqlpifsav2pvyzyi2m4otl2jeklp4dbdzasdcu4/3172.png",
+      "traits": {
+        "backgrounds": "dc pentragram",
+        "binz": "original",
+        "eyes": "hazel",
+        "facez": "black",
+        "hands": "gor-boy",
+        "mouth": "cookie-crumbs",
+        "stickers": "wheeler"
+      },
+      "owner": "5ZmYXP27nRMkWM5B4BRMzWEzmLSZ8ETRKFcdJDsnBWr2",
+      "isListed": 0,
+      "price": null,
+      "magicEdenUrl": "https://magiceden.us/item-details/8xaLCDxYDtSXy4zj1kps6hckZtmqtbKEFHvgJkf8K9RP"
+    },
+    {
+      "mint": "Dwn3WoM7UjSmLdqaq3U45cPzT9DhuQ5guTF7HCYU7wH9",
+      "name": "Gorbagio  #3190",
+      "image": "https://plum-far-bobcat-940.mypinata.cloud/ipfs/bafybeihkdrontwttwgcaqlpifsav2pvyzyi2m4otl2jeklp4dbdzasdcu4/3190.png",
+      "traits": {
+        "backgrounds": "no dumping",
+        "binz": "original",
+        "eyes": "oh, you",
+        "facez": "white",
+        "hands": "gor-boy",
+        "mouth": "smirk",
+        "over head": "fumo",
+        "stickers": "pepe the grouch"
+      },
+      "owner": "SSSAn93Hcs7ubcmLw2H7PR7UZPjmvmDahfF5bZcJW41",
+      "isListed": 0,
+      "price": null,
+      "magicEdenUrl": "https://magiceden.us/item-details/Dwn3WoM7UjSmLdqaq3U45cPzT9DhuQ5guTF7HCYU7wH9"
+    },
+    {
+      "mint": "HNNdmLTDvzXc72jxhAUiQnGRpB3VxtZVQS4zrDpPswuX",
+      "name": "Gorbagio  #3205",
+      "image": "https://plum-far-bobcat-940.mypinata.cloud/ipfs/bafybeihkdrontwttwgcaqlpifsav2pvyzyi2m4otl2jeklp4dbdzasdcu4/3205.png",
+      "traits": {
+        "backgrounds": "gorbage truck",
+        "binz": "matress",
+        "eyes": "heheh",
+        "facez": "black",
+        "hands": "gor-boy",
+        "mouth": "u",
+        "over head": "fumo",
+        "stickers": "radsnail"
+      },
+      "owner": "FiNucnErvRr7Kf88qCrbtL1zgA4TEYsyz6aViQw5dHRY",
+      "isListed": 0,
+      "price": null,
+      "magicEdenUrl": "https://magiceden.us/item-details/HNNdmLTDvzXc72jxhAUiQnGRpB3VxtZVQS4zrDpPswuX"
+    },
+    {
+      "mint": "D6RL9GaW6fPL58RsyRwtJMyzexkfvTuu3Vs6BWRkV35f",
+      "name": "Gorbagio  #3206",
+      "image": "https://plum-far-bobcat-940.mypinata.cloud/ipfs/bafybeihkdrontwttwgcaqlpifsav2pvyzyi2m4otl2jeklp4dbdzasdcu4/3206.png",
+      "traits": {
+        "backgrounds": "gw freemason",
+        "binz": "shredder",
+        "eyes": "smug eyes",
+        "facez": "white",
+        "hands": "gor-boy",
+        "mouth": "heheh",
+        "stickers": "wheeler"
+      },
+      "owner": "XPc3rhRriZd97VNADETZKruqCbjUoAb4ZDY8RJV4ByG",
+      "isListed": 0,
+      "price": null,
+      "magicEdenUrl": "https://magiceden.us/item-details/D6RL9GaW6fPL58RsyRwtJMyzexkfvTuu3Vs6BWRkV35f"
+    },
+    {
+      "mint": "HYLfiDBTokX6z3gMwnW2nJRQ6u4Q7mFHSAFENtq4EtYT",
+      "name": "Gorbagio  #3212",
+      "image": "https://plum-far-bobcat-940.mypinata.cloud/ipfs/bafybeihkdrontwttwgcaqlpifsav2pvyzyi2m4otl2jeklp4dbdzasdcu4/3212.png",
+      "traits": {
+        "backgrounds": "barone",
+        "binz": "matress",
+        "facez": "zombie",
+        "hands": "gor-boy",
+        "mouth": "cookie-crumbs",
+        "stickers": "radsnail"
+      },
+      "owner": "6uB2Fq7WLwYcExTys47RPX2cfYTJPEQ9b4YhgzyFVMBV",
+      "isListed": 0,
+      "price": null,
+      "magicEdenUrl": "https://magiceden.us/item-details/HYLfiDBTokX6z3gMwnW2nJRQ6u4Q7mFHSAFENtq4EtYT"
+    },
+    {
+      "mint": "B6q8hkNQnxkZjyTWoLT3Ra7vcqoNmSuTytR172qRKQMR",
+      "name": "Gorbagio  #3215",
+      "image": "https://plum-far-bobcat-940.mypinata.cloud/ipfs/bafybeihkdrontwttwgcaqlpifsav2pvyzyi2m4otl2jeklp4dbdzasdcu4/3215.png",
+      "traits": {
+        "backgrounds": "sesame",
+        "binz": "digibin",
+        "eyes": "smug eyes",
+        "facez": "white",
+        "hands": "gor-boy",
+        "mouth": "troll"
+      },
+      "owner": "4w1s9cviQLgXQ2y4dkj1JTDE1nkgj4J49bLiCMQb17tY",
+      "isListed": 0,
+      "price": null,
+      "magicEdenUrl": "https://magiceden.us/item-details/B6q8hkNQnxkZjyTWoLT3Ra7vcqoNmSuTytR172qRKQMR"
+    },
+    {
+      "mint": "FMRWX1xKBoktAe8XTg6VYr8diNGguYpDLMHzwTJwBKJo",
+      "name": "Gorbagio  #3222",
+      "image": "https://plum-far-bobcat-940.mypinata.cloud/ipfs/bafybeihkdrontwttwgcaqlpifsav2pvyzyi2m4otl2jeklp4dbdzasdcu4/3222.png",
+      "traits": {
+        "backgrounds": "hyperborea",
+        "binz": "digibin",
+        "eyes": "heheh",
+        "facez": "white",
+        "hands": "gor-boy",
+        "mouth": "lollipop",
+        "over head": "fumo"
+      },
+      "owner": "7BxSdg3JP9rxZ4rgTSGv7ayJtGjxM4ka5uobXpstP2pH",
+      "isListed": 0,
+      "price": null,
+      "magicEdenUrl": "https://magiceden.us/item-details/FMRWX1xKBoktAe8XTg6VYr8diNGguYpDLMHzwTJwBKJo"
+    },
+    {
+      "mint": "GtcoTjFBJRbD7X1bwnSoRPpb4cKrZXi7xNPConcPL9FD",
+      "name": "Gorbagio  #3231",
+      "image": "https://plum-far-bobcat-940.mypinata.cloud/ipfs/bafybeihkdrontwttwgcaqlpifsav2pvyzyi2m4otl2jeklp4dbdzasdcu4/3231.png",
+      "traits": {
+        "backgrounds": "sesame",
+        "binz": "matress",
+        "eyes": "dark brown",
+        "facez": "white",
+        "hands": "gor-boy",
+        "mouth": "u"
+      },
+      "owner": "HbxDxu2jLTbyMEfxF1RyBYHUmw9jG3agao4cvNPF3xM2",
+      "isListed": 0,
+      "price": null,
+      "magicEdenUrl": "https://magiceden.us/item-details/GtcoTjFBJRbD7X1bwnSoRPpb4cKrZXi7xNPConcPL9FD"
+    },
+    {
+      "mint": "DN86i5NnmbesDUJnEJnEeezuiLkqs1hsc4ALpyuENwfN",
+      "name": "Gorbagio  #3232",
+      "image": "https://plum-far-bobcat-940.mypinata.cloud/ipfs/bafybeihkdrontwttwgcaqlpifsav2pvyzyi2m4otl2jeklp4dbdzasdcu4/3232.png",
+      "traits": {
+        "backgrounds": "gorbatrix",
+        "binz": "original",
+        "eyes": "heheh",
+        "facez": "black",
+        "hands": "gor-boy",
+        "mouth": "lollipop",
+        "over head": "neo"
+      },
+      "owner": "2PY693vdYDpDubrTtVFJqQtjJaVpbUDKAxMRkCkBQeAD",
+      "isListed": true,
+      "price": 2.2e-8,
+      "magicEdenUrl": "https://magiceden.us/item-details/DN86i5NnmbesDUJnEJnEeezuiLkqs1hsc4ALpyuENwfN"
+    },
+    {
+      "mint": "44Pkks5sNHnaAVq8AoupZotXxA73RHQShwMYFhTFJiV4",
+      "name": "Gorbagio  #3245",
+      "image": "https://plum-far-bobcat-940.mypinata.cloud/ipfs/bafybeihkdrontwttwgcaqlpifsav2pvyzyi2m4otl2jeklp4dbdzasdcu4/3245.png",
+      "traits": {
+        "backgrounds": "dumpster",
+        "binz": "original",
+        "eyes": "putty",
+        "facez": "white",
+        "hands": "gor-boy",
+        "mouth": "lollipop",
+        "stickers": "restful cube"
+      },
+      "owner": "3N4SH9kBuVH8BKKQRVZgERnmFFA2xarnpfxVNnSx7o21",
+      "isListed": 0,
+      "price": null,
+      "magicEdenUrl": "https://magiceden.us/item-details/44Pkks5sNHnaAVq8AoupZotXxA73RHQShwMYFhTFJiV4"
+    },
+    {
+      "mint": "HjZcyHMyzm9ofXgf3ZuyW1Mo37uMrnUrMv3at4y3vhzk",
+      "name": "Gorbagio  #3265",
+      "image": "https://plum-far-bobcat-940.mypinata.cloud/ipfs/bafybeihkdrontwttwgcaqlpifsav2pvyzyi2m4otl2jeklp4dbdzasdcu4/3265.png",
+      "traits": {
+        "backgrounds": "cookies",
+        "binz": "pump pill",
+        "eyes": "oh, you",
+        "facez": "white",
+        "hands": "gor-boy",
+        "mouth": "oh,-you-mouth",
+        "stickers": "garbage showzen"
+      },
+      "owner": "v4AGwDnQGR9EUzA8GB2QMNiAawWWP9MCb9kvyzybes6",
+      "isListed": 0,
+      "price": null,
+      "magicEdenUrl": "https://magiceden.us/item-details/HjZcyHMyzm9ofXgf3ZuyW1Mo37uMrnUrMv3at4y3vhzk"
+    },
+    {
+      "mint": "CzK3ZSE1Q58hvX8S1YcDJxCrb5CUMXZm1bWbUYhqJuH5",
+      "name": "Gorbagio  #3305",
+      "image": "https://plum-far-bobcat-940.mypinata.cloud/ipfs/bafybeihkdrontwttwgcaqlpifsav2pvyzyi2m4otl2jeklp4dbdzasdcu4/3305.png",
+      "traits": {
+        "backgrounds": "gorbage truck",
+        "binz": "sky-garbage",
+        "eyes": "oh, you",
+        "facez": "black",
+        "hands": "gor-boy",
+        "mouth": "sbf",
+        "over head": "croc-hat",
+        "stickers": "george droyd"
+      },
+      "owner": "DxH2PK5yrFt7xavE6KXXViM4phQaPz6FEmzXVKQ85R1J",
+      "isListed": 0,
+      "price": null,
+      "magicEdenUrl": "https://magiceden.us/item-details/CzK3ZSE1Q58hvX8S1YcDJxCrb5CUMXZm1bWbUYhqJuH5"
+    },
+    {
+      "mint": "WRpTGito2uT9r78dtHosQofDwRgTxWAjnnXUZBrYVRr",
+      "name": "Gorbagio  #3335",
+      "image": "https://plum-far-bobcat-940.mypinata.cloud/ipfs/bafybeihkdrontwttwgcaqlpifsav2pvyzyi2m4otl2jeklp4dbdzasdcu4/3335.png",
+      "traits": {
+        "backgrounds": "gw freemason",
+        "binz": "recycle-bin",
+        "eyes": "anime",
+        "facez": "oni",
+        "hands": "gor-boy",
+        "mouth": "oh,-you-mouth",
+        "over head": "oni-horns"
+      },
+      "owner": "B4hf2oiNDSmvXa47nkgi2ypzhfH8ppWf5Xaz7wBcT2dc",
+      "isListed": 0,
+      "price": null,
+      "magicEdenUrl": "https://magiceden.us/item-details/WRpTGito2uT9r78dtHosQofDwRgTxWAjnnXUZBrYVRr"
+    },
+    {
+      "mint": "8wyFyuEnxbZgrb4VVf9igiHkrp7yWHuZEB874L2vebdF",
+      "name": "Gorbagio  #3342",
+      "image": "https://plum-far-bobcat-940.mypinata.cloud/ipfs/bafybeihkdrontwttwgcaqlpifsav2pvyzyi2m4otl2jeklp4dbdzasdcu4/3342.png",
+      "traits": {
+        "backgrounds": "im coming to kill you",
+        "binz": "dumpster",
+        "eyes": "starry",
+        "facez": "white",
+        "hands": "gor-boy",
+        "mouth": "puppet",
+        "stickers": "gorbagana street"
+      },
+      "owner": "8MzJLs3GPpYEUYQk91SPLnNW2hHzLMYcr9LK6Zm53afL",
+      "isListed": 0,
+      "price": null,
+      "magicEdenUrl": "https://magiceden.us/item-details/8wyFyuEnxbZgrb4VVf9igiHkrp7yWHuZEB874L2vebdF"
+    },
+    {
+      "mint": "EmtLbncVQDzXKzv7gyQL97CxeMRPi5aK2aZ7KKaU29fA",
+      "name": "Gorbagio  #3354",
+      "image": "https://plum-far-bobcat-940.mypinata.cloud/ipfs/bafybeihkdrontwttwgcaqlpifsav2pvyzyi2m4otl2jeklp4dbdzasdcu4/3354.png",
+      "traits": {
+        "backgrounds": "oval office",
+        "binz": "recycle-bin",
+        "eyes": "heheh",
+        "facez": "white",
+        "hands": "gor-boy",
+        "mouth": "smirk",
+        "over head": "green phat"
+      },
+      "owner": "FS67X3CwYPFt8w8s9U1J2KqUq9BmDSg3QuEtz9U9HMMs",
+      "isListed": 0,
+      "price": null,
+      "magicEdenUrl": "https://magiceden.us/item-details/EmtLbncVQDzXKzv7gyQL97CxeMRPi5aK2aZ7KKaU29fA"
+    },
+    {
+      "mint": "EAJrF2pRWXnTv68JzKBJrJmmjKYRj1PVjFUv5AQA4WEz",
+      "name": "Gorbagio  #3355",
+      "image": "https://plum-far-bobcat-940.mypinata.cloud/ipfs/bafybeihkdrontwttwgcaqlpifsav2pvyzyi2m4otl2jeklp4dbdzasdcu4/3355.png",
+      "traits": {
+        "backgrounds": "cardboard",
+        "binz": "digibin",
+        "facez": "zombie",
+        "hands": "gor-boy",
+        "mouth": "fishy",
+        "stickers": "george droyd"
+      },
+      "owner": "8T1ynzoyxeSF2Qq3MjwNHjofoAkxSDwJBmp4pFfVriSR",
+      "isListed": 0,
+      "price": null,
+      "magicEdenUrl": "https://magiceden.us/item-details/EAJrF2pRWXnTv68JzKBJrJmmjKYRj1PVjFUv5AQA4WEz"
+    },
+    {
+      "mint": "BAPzYv3LXw77K57q1sAeziVcDqJSXJdVCvnC59Swag7r",
+      "name": "Gorbagio  #3375",
+      "image": "https://plum-far-bobcat-940.mypinata.cloud/ipfs/bafybeihkdrontwttwgcaqlpifsav2pvyzyi2m4otl2jeklp4dbdzasdcu4/3375.png",
+      "traits": {
+        "backgrounds": "dc pentragram",
+        "binz": "dumpster",
+        "facez": "zombie",
+        "hands": "gor-boy",
+        "mouth": "smirk",
+        "stickers": "trash man"
+      },
+      "owner": "DSyWAYB1hmV2sGiha4Wui6ALGti4UsPgPjp7n7sFU3kb",
+      "isListed": 0,
+      "price": null,
+      "magicEdenUrl": "https://magiceden.us/item-details/BAPzYv3LXw77K57q1sAeziVcDqJSXJdVCvnC59Swag7r"
+    },
+    {
+      "mint": "8UJCCSJG2hfizsfBnYrWrTR7cFPxrG42JEwFUUJJ2nNA",
+      "name": "Gorbagio  #3399",
+      "image": "https://plum-far-bobcat-940.mypinata.cloud/ipfs/bafybeihkdrontwttwgcaqlpifsav2pvyzyi2m4otl2jeklp4dbdzasdcu4/3399.png",
+      "traits": {
+        "backgrounds": "fast food",
+        "binz": "recycle-bin",
+        "eyes": "starry",
+        "facez": "cookie",
+        "hands": "gor-boy",
+        "mouth": "sbf",
+        "stickers": "oscar phone"
+      },
+      "owner": "AmTF9CmcSQke2zbszPgiGGQhY3NS3JYw2sJU8pMjVbot",
+      "isListed": 0,
+      "price": null,
+      "magicEdenUrl": "https://magiceden.us/item-details/8UJCCSJG2hfizsfBnYrWrTR7cFPxrG42JEwFUUJJ2nNA"
+    },
+    {
+      "mint": "Gp6K53KuM1aEtX28jJ3j3KBGaLpBeFdsRfjdy1tCVapE",
+      "name": "Gorbagio  #3422",
+      "image": "https://plum-far-bobcat-940.mypinata.cloud/ipfs/bafybeihkdrontwttwgcaqlpifsav2pvyzyi2m4otl2jeklp4dbdzasdcu4/3422.png",
+      "traits": {
+        "backgrounds": "sesame",
+        "binz": "futuristic",
+        "eyes": "oh, you",
+        "facez": "white",
+        "hands": "gor-boy",
+        "mouth": "remilio",
+        "over head": "green phat"
+      },
+      "owner": "6yE81nF9HkMUnFrh5f57RxkKUi5EAniSxQd6ekZ9qxxN",
+      "isListed": 0,
+      "price": null,
+      "magicEdenUrl": "https://magiceden.us/item-details/Gp6K53KuM1aEtX28jJ3j3KBGaLpBeFdsRfjdy1tCVapE"
+    },
+    {
+      "mint": "5or57o6zbFzEtRzyLfC3f51EFAhn8hjfGehWpP4yZHjW",
+      "name": "Gorbagio  #3456",
+      "image": "https://plum-far-bobcat-940.mypinata.cloud/ipfs/bafybeihkdrontwttwgcaqlpifsav2pvyzyi2m4otl2jeklp4dbdzasdcu4/3456.png",
+      "traits": {
+        "backgrounds": "hyperborea",
+        "binz": "original",
+        "eyes": "hazel",
+        "facez": "white",
+        "hands": "gor-boy",
+        "mouth": "sbf",
+        "over head": "hackererman",
+        "stickers": "oscar phone"
+      },
+      "owner": "4BfcJUGwcNPTt15kNY4Gw4LfJ27sxibHip2zsRqg4bFs",
+      "isListed": 0,
+      "price": null,
+      "magicEdenUrl": "https://magiceden.us/item-details/5or57o6zbFzEtRzyLfC3f51EFAhn8hjfGehWpP4yZHjW"
+    },
+    {
+      "mint": "BMbmhWVbCt8KCUeMBa1hz4qpLYkmZ9m2Grdu6pBNKYWk",
+      "name": "Gorbagio  #3465",
+      "image": "https://plum-far-bobcat-940.mypinata.cloud/ipfs/bafybeihkdrontwttwgcaqlpifsav2pvyzyi2m4otl2jeklp4dbdzasdcu4/3465.png",
+      "traits": {
+        "backgrounds": "gorbatrix",
+        "binz": "box",
+        "eyes": "dark brown",
+        "facez": "black",
+        "hands": "gor-boy",
+        "mouth": "heheh",
+        "over head": "minecraft",
+        "stickers": "moggers"
+      },
+      "owner": "FRhn3rKF4GgsXdLHLV66wxeEV6bvkQguTb6Utzrpt1NJ",
+      "isListed": 0,
+      "price": null,
+      "magicEdenUrl": "https://magiceden.us/item-details/BMbmhWVbCt8KCUeMBa1hz4qpLYkmZ9m2Grdu6pBNKYWk"
+    },
+    {
+      "mint": "65ePWmHDrvAMcPMQLYNfgyxEmHABW1gSYj5wLX44c1rF",
+      "name": "Gorbagio  #3536",
+      "image": "https://plum-far-bobcat-940.mypinata.cloud/ipfs/bafybeihkdrontwttwgcaqlpifsav2pvyzyi2m4otl2jeklp4dbdzasdcu4/3536.png",
+      "traits": {
+        "backgrounds": "ily",
+        "binz": "dumpster",
+        "eyes": "hazel",
+        "facez": "black",
+        "hands": "gor-boy",
+        "mouth": "puppet",
+        "over head": "green phat"
+      },
+      "owner": "2Ys2XXXngBaP4PxuXht8xgb8oYbPh5cn2sZHyjR16z4K",
+      "isListed": 0,
+      "price": null,
+      "magicEdenUrl": "https://magiceden.us/item-details/65ePWmHDrvAMcPMQLYNfgyxEmHABW1gSYj5wLX44c1rF"
+    },
+    {
+      "mint": "6zw1GEivb3FatZhQJKp1c8e7qwmjePstKaST8EUHovmC",
+      "name": "Gorbagio  #3543",
+      "image": "https://plum-far-bobcat-940.mypinata.cloud/ipfs/bafybeihkdrontwttwgcaqlpifsav2pvyzyi2m4otl2jeklp4dbdzasdcu4/3543.png",
+      "traits": {
+        "backgrounds": "ocean",
+        "binz": "putty",
+        "eyes": "oh, you",
+        "facez": "white",
+        "hands": "gor-boy",
+        "mouth": "remilio",
+        "over head": "green phat"
+      },
+      "owner": "7rhBY2Ydw8h1pME8TdEUPeUwD8SjEih3RW6sYaEMN2m4",
+      "isListed": true,
+      "price": 2.975e-9,
+      "magicEdenUrl": "https://magiceden.us/item-details/6zw1GEivb3FatZhQJKp1c8e7qwmjePstKaST8EUHovmC"
+    },
+    {
+      "mint": "EW1UJo5VcodrxAJMCzqSp1ZU1ZJvLFLs55FXicVywa9E",
+      "name": "Gorbagio  #3554",
+      "image": "https://plum-far-bobcat-940.mypinata.cloud/ipfs/bafybeihkdrontwttwgcaqlpifsav2pvyzyi2m4otl2jeklp4dbdzasdcu4/3554.png",
+      "traits": {
+        "backgrounds": "barone",
+        "binz": "recycle-bin",
+        "eyes": "smug eyes",
+        "facez": "white",
+        "hands": "gor-boy",
+        "mouth": "u",
+        "stickers": "radsnail"
+      },
+      "owner": "4Pp7w6AFz3kWZfAQdqu3v45PwiB8URtjVRQhXkxFf8T4",
+      "isListed": 0,
+      "price": null,
+      "magicEdenUrl": "https://magiceden.us/item-details/EW1UJo5VcodrxAJMCzqSp1ZU1ZJvLFLs55FXicVywa9E"
+    },
+    {
+      "mint": "5KhTQBaKXRugm4LSiAhb2E6HDUGEmpv8TyK3VvxagZgP",
+      "name": "Gorbagio  #3557",
+      "image": "https://plum-far-bobcat-940.mypinata.cloud/ipfs/bafybeihkdrontwttwgcaqlpifsav2pvyzyi2m4otl2jeklp4dbdzasdcu4/3557.png",
+      "traits": {
+        "backgrounds": "fbi open up",
+        "binz": "digibin",
+        "eyes": "hazel",
+        "facez": "black",
+        "hands": "gor-boy",
+        "mouth": "cookie-crumbs"
+      },
+      "owner": "CQyCeeDNyLuwoHziak2cD5oqYwPKbPdQradWigzQZniM",
+      "isListed": 0,
+      "price": null,
+      "magicEdenUrl": "https://magiceden.us/item-details/5KhTQBaKXRugm4LSiAhb2E6HDUGEmpv8TyK3VvxagZgP"
+    },
+    {
+      "mint": "AmJFvBuzLeLvhL639RUhqtQ2xjdEtM1YsoCGVNoLtEEN",
+      "name": "Gorbagio  #3584",
+      "image": "https://plum-far-bobcat-940.mypinata.cloud/ipfs/bafybeihkdrontwttwgcaqlpifsav2pvyzyi2m4otl2jeklp4dbdzasdcu4/3584.png",
+      "traits": {
+        "backgrounds": "cardboard",
+        "binz": "sky-garbage",
+        "eyes": "flora",
+        "facez": "black",
+        "hands": "gor-boy",
+        "mouth": "tooth",
+        "over head": "fumo",
+        "stickers": "financial advice"
+      },
+      "owner": "FPhfFUnXvKQNKT2RPoWTSK2JHytueSzZcU11DsTLumMQ",
+      "isListed": 0,
+      "price": null,
+      "magicEdenUrl": "https://magiceden.us/item-details/AmJFvBuzLeLvhL639RUhqtQ2xjdEtM1YsoCGVNoLtEEN"
+    },
+    {
+      "mint": "Cib4v7hMkhebtg3MJScuFqKhYMVqPXqshmkNbyt8akUe",
+      "name": "Gorbagio  #3600",
+      "image": "https://plum-far-bobcat-940.mypinata.cloud/ipfs/bafybeihkdrontwttwgcaqlpifsav2pvyzyi2m4otl2jeklp4dbdzasdcu4/3600.png",
+      "traits": {
+        "backgrounds": "im coming to kill you",
+        "binz": "recycle-bin",
+        "eyes": "flora",
+        "facez": "black",
+        "hands": "gor-boy",
+        "mouth": "pouty",
+        "over head": "beerhat",
+        "stickers": "garbagewave"
+      },
+      "owner": "B3V78wFLo8X62z7aUqXmmX2eitg4GFpduyEeyVLMv1n8",
+      "isListed": 0,
+      "price": null,
+      "magicEdenUrl": "https://magiceden.us/item-details/Cib4v7hMkhebtg3MJScuFqKhYMVqPXqshmkNbyt8akUe"
+    },
+    {
+      "mint": "Dym7FW5wGCtqrVx7whCYjiYUzbAhssTWqjZNSCSswAKG",
+      "name": "Gorbagio  #3646",
+      "image": "https://plum-far-bobcat-940.mypinata.cloud/ipfs/bafybeihkdrontwttwgcaqlpifsav2pvyzyi2m4otl2jeklp4dbdzasdcu4/3646.png",
+      "traits": {
+        "backgrounds": "we love letter",
+        "binz": "futuristic",
+        "eyes": "dark brown",
+        "facez": "black",
+        "hands": "gor-boy",
+        "mouth": ":3",
+        "over head": "minecraft"
+      },
+      "owner": "78Lk9Ae6c3XBQjgyT2e8Abx4YW7aBgAyenT3z2c82Ggz",
+      "isListed": 0,
+      "price": null,
+      "magicEdenUrl": "https://magiceden.us/item-details/Dym7FW5wGCtqrVx7whCYjiYUzbAhssTWqjZNSCSswAKG"
+    },
+    {
+      "mint": "Ea7eAEk1yTNoasAqWpaqf8dmjQXXFa1Po28amS41cWe",
+      "name": "Gorbagio  #3651",
+      "image": "https://plum-far-bobcat-940.mypinata.cloud/ipfs/bafybeihkdrontwttwgcaqlpifsav2pvyzyi2m4otl2jeklp4dbdzasdcu4/3651.png",
+      "traits": {
+        "backgrounds": "skibidi",
+        "binz": "pump pill",
+        "eyes": "flora",
+        "facez": "white",
+        "hands": "gor-boy",
+        "mouth": "oh,-you-mouth",
+        "stickers": "garbagewave"
+      },
+      "owner": "6nQAngwzvJVXEETPERxb7mFGsMEbzHBLmYhGxJRzp625",
+      "isListed": 0,
+      "price": null,
+      "magicEdenUrl": "https://magiceden.us/item-details/Ea7eAEk1yTNoasAqWpaqf8dmjQXXFa1Po28amS41cWe"
+    },
+    {
+      "mint": "95eAzAJNQZz1e3PvJjk8LNJH8Rnc1KF8ErRsExQH8q67",
+      "name": "Gorbagio  #3663",
+      "image": "https://plum-far-bobcat-940.mypinata.cloud/ipfs/bafybeihkdrontwttwgcaqlpifsav2pvyzyi2m4otl2jeklp4dbdzasdcu4/3663.png",
+      "traits": {
+        "backgrounds": "ily",
+        "binz": "putty",
+        "eyes": "stained glass",
+        "facez": "white",
+        "hands": "gor-boy",
+        "mouth": "heheh",
+        "stickers": "wolf of gor street"
+      },
+      "owner": "EK9S8R2agYF3H9s5KzxviZvKpW14cnSDvsREmypNqcvy",
+      "isListed": 0,
+      "price": null,
+      "magicEdenUrl": "https://magiceden.us/item-details/95eAzAJNQZz1e3PvJjk8LNJH8Rnc1KF8ErRsExQH8q67"
+    },
+    {
+      "mint": "9qoonQsT2dwUxbAZtsN5QuY7JfszfgaCoKTP4JGLqcPn",
+      "name": "Gorbagio  #3689",
+      "image": "https://plum-far-bobcat-940.mypinata.cloud/ipfs/bafybeihkdrontwttwgcaqlpifsav2pvyzyi2m4otl2jeklp4dbdzasdcu4/3689.png",
+      "traits": {
+        "backgrounds": "no dumping",
+        "binz": "recycle-bin",
+        "eyes": "heheh",
+        "facez": "white",
+        "hands": "gor-boy",
+        "mouth": "tab",
+        "over head": "hackererman",
+        "stickers": "xavier"
+      },
+      "owner": "D9GtoQD6d7zFyMQpVP1VakYQSdmoBExAtTJGo6Xx7f4p",
+      "isListed": 0,
+      "price": null,
+      "magicEdenUrl": "https://magiceden.us/item-details/9qoonQsT2dwUxbAZtsN5QuY7JfszfgaCoKTP4JGLqcPn"
+    },
+    {
+      "mint": "BjmooyNV72RNjn2DCi3LJvmcmHzeBYww28ievqTUmkc9",
+      "name": "Gorbagio  #3701",
+      "image": "https://plum-far-bobcat-940.mypinata.cloud/ipfs/bafybeihkdrontwttwgcaqlpifsav2pvyzyi2m4otl2jeklp4dbdzasdcu4/3701.png",
+      "traits": {
+        "backgrounds": "ily",
+        "binz": "recycle-bin",
+        "eyes": "hazel",
+        "facez": "white",
+        "hands": "gor-boy",
+        "mouth": "lollipop"
+      },
+      "owner": "2Ys2XXXngBaP4PxuXht8xgb8oYbPh5cn2sZHyjR16z4K",
+      "isListed": 0,
+      "price": null,
+      "magicEdenUrl": "https://magiceden.us/item-details/BjmooyNV72RNjn2DCi3LJvmcmHzeBYww28ievqTUmkc9"
+    },
+    {
+      "mint": "BeEUg7CV5w6EvTKTu88faqVcvjNWBagNEAkpuJ9sZhD",
+      "name": "Gorbagio  #3705",
+      "image": "https://plum-far-bobcat-940.mypinata.cloud/ipfs/bafybeihkdrontwttwgcaqlpifsav2pvyzyi2m4otl2jeklp4dbdzasdcu4/3705.png",
+      "traits": {
+        "backgrounds": "gorbage truck",
+        "binz": "digibin",
+        "eyes": "dark brown",
+        "facez": "black",
+        "hands": "gor-boy",
+        "mouth": "u",
+        "over head": "minecraft"
+      },
+      "owner": "89MoMY5KYjjTzjvzq6WUp3Ag4gscgMkHH2nP1tMHKRTx",
+      "isListed": 0,
+      "price": null,
+      "magicEdenUrl": "https://magiceden.us/item-details/BeEUg7CV5w6EvTKTu88faqVcvjNWBagNEAkpuJ9sZhD"
+    },
+    {
+      "mint": "Aq9s6P33MduwRPwQMw99A2R9LnJznkwRRUfEbwpJzqMS",
+      "name": "Gorbagio  #3717",
+      "image": "https://plum-far-bobcat-940.mypinata.cloud/ipfs/bafybeihkdrontwttwgcaqlpifsav2pvyzyi2m4otl2jeklp4dbdzasdcu4/3717.png",
+      "traits": {
+        "backgrounds": "snake eyes",
+        "binz": "matress",
+        "eyes": "smug eyes",
+        "facez": "black",
+        "hands": "gor-boy",
+        "mouth": "tab"
+      },
+      "owner": "H32SasuT9bQFQU9wQCMx4wJiXxMW3mZWJVpYhWj7mUHc",
+      "isListed": 0,
+      "price": null,
+      "magicEdenUrl": "https://magiceden.us/item-details/Aq9s6P33MduwRPwQMw99A2R9LnJznkwRRUfEbwpJzqMS"
+    },
+    {
+      "mint": "26nK6SiFHTa7mMcv37crsFooQ4YcFrM9VP6Mo9bHVmti",
+      "name": "Gorbagio  #3741",
+      "image": "https://plum-far-bobcat-940.mypinata.cloud/ipfs/bafybeihkdrontwttwgcaqlpifsav2pvyzyi2m4otl2jeklp4dbdzasdcu4/3741.png",
+      "traits": {
+        "backgrounds": "girl dev",
+        "binz": "digibin",
+        "eyes": "dark brown",
+        "facez": "white",
+        "hands": "gor-boy",
+        "mouth": "u",
+        "over head": "hackererman"
+      },
+      "owner": "6yE81nF9HkMUnFrh5f57RxkKUi5EAniSxQd6ekZ9qxxN",
+      "isListed": 0,
+      "price": null,
+      "magicEdenUrl": "https://magiceden.us/item-details/26nK6SiFHTa7mMcv37crsFooQ4YcFrM9VP6Mo9bHVmti"
+    },
+    {
+      "mint": "3Aa4NxXMkqwixW7jdGcgWbcifZVrhyVq63z6ByMeGSrh",
+      "name": "Gorbagio  #3762",
+      "image": "https://plum-far-bobcat-940.mypinata.cloud/ipfs/bafybeihkdrontwttwgcaqlpifsav2pvyzyi2m4otl2jeklp4dbdzasdcu4/3762.png",
+      "traits": {
+        "backgrounds": "mostly peaceful",
+        "binz": "futuristic",
+        "eyes": "dark brown",
+        "facez": "black",
+        "hands": "gor-boy",
+        "mouth": "smug",
+        "over head": "hackererman",
+        "stickers": "sarv"
+      },
+      "owner": "7gQrnrWnLnFoDwdvWZp2p5diiSZfz7xcR96MMprfZSxE",
+      "isListed": 0,
+      "price": null,
+      "magicEdenUrl": "https://magiceden.us/item-details/3Aa4NxXMkqwixW7jdGcgWbcifZVrhyVq63z6ByMeGSrh"
+    },
+    {
+      "mint": "nTBrrKiW3xZvXyVcRgRtedjUjvg5fN5zqpjtZHrjPw6",
+      "name": "Gorbagio  #3776",
+      "image": "https://plum-far-bobcat-940.mypinata.cloud/ipfs/bafybeihkdrontwttwgcaqlpifsav2pvyzyi2m4otl2jeklp4dbdzasdcu4/3776.png",
+      "traits": {
+        "backgrounds": "casino",
+        "binz": "sky-garbage",
+        "facez": "zombie",
+        "hands": "gor-boy",
+        "mouth": "tooth",
+        "stickers": "wolf of gor street"
+      },
+      "owner": "8T1ynzoyxeSF2Qq3MjwNHjofoAkxSDwJBmp4pFfVriSR",
+      "isListed": 0,
+      "price": null,
+      "magicEdenUrl": "https://magiceden.us/item-details/nTBrrKiW3xZvXyVcRgRtedjUjvg5fN5zqpjtZHrjPw6"
+    },
+    {
+      "mint": "5nAhRxjrf7VTGv7QkhtcjwZa3KM6MsJg5D89Z5FUT5iH",
+      "name": "Gorbagio  #3786",
+      "image": "https://plum-far-bobcat-940.mypinata.cloud/ipfs/bafybeihkdrontwttwgcaqlpifsav2pvyzyi2m4otl2jeklp4dbdzasdcu4/3786.png",
+      "traits": {
+        "backgrounds": "dont fight",
+        "binz": "original",
+        "eyes": "anime",
+        "facez": "white",
+        "hands": "gor-boy",
+        "mouth": "lollipop"
+      },
+      "owner": "92gs5GSD6dHkzKGkHTMyYdxG1zSgcPUXZz5oVXHFisTg",
+      "isListed": 0,
+      "price": null,
+      "magicEdenUrl": "https://magiceden.us/item-details/5nAhRxjrf7VTGv7QkhtcjwZa3KM6MsJg5D89Z5FUT5iH"
+    },
+    {
+      "mint": "AskUmkw5FZCFMMy5wwxavkFLZKZXUwdTvy8g2BYrF4SV",
+      "name": "Gorbagio  #3800",
+      "image": "https://plum-far-bobcat-940.mypinata.cloud/ipfs/bafybeihkdrontwttwgcaqlpifsav2pvyzyi2m4otl2jeklp4dbdzasdcu4/3800.png",
+      "traits": {
+        "backgrounds": "snake eyes",
+        "binz": "recycle-bin",
+        "eyes": "hazel",
+        "facez": "oni",
+        "hands": "gor-boy",
+        "mouth": "oh,-you-mouth",
+        "over head": "oni-horns",
+        "stickers": "gor father"
+      },
+      "owner": "HJsWn116Co95vzMLEbsyeEDrAAZ9PGfL9gaUf7wyEVXA",
+      "isListed": 0,
+      "price": null,
+      "magicEdenUrl": "https://magiceden.us/item-details/AskUmkw5FZCFMMy5wwxavkFLZKZXUwdTvy8g2BYrF4SV"
+    },
+    {
+      "mint": "3aouBCFe1usdnxs7wjud13KiPg3cwUz2HwmHjWHqh5DD",
+      "name": "Gorbagio  #3828",
+      "image": "https://plum-far-bobcat-940.mypinata.cloud/ipfs/bafybeihkdrontwttwgcaqlpifsav2pvyzyi2m4otl2jeklp4dbdzasdcu4/3828.png",
+      "traits": {
+        "backgrounds": "cookies",
+        "binz": "box",
+        "eyes": "dark brown",
+        "facez": "white",
+        "hands": "gor-boy",
+        "mouth": "oh,-you-mouth",
+        "stickers": "gorbagana street"
+      },
+      "owner": "CTpE74zMVUw4s98VGC8Ff4q69fXTAdrbsmhwZRRAShr5",
+      "isListed": 0,
+      "price": null,
+      "magicEdenUrl": "https://magiceden.us/item-details/3aouBCFe1usdnxs7wjud13KiPg3cwUz2HwmHjWHqh5DD"
+    },
+    {
+      "mint": "CWBbbqkE7utnqRSxdXjcjB4V3csVZD6cD4wTgduDVXG1",
+      "name": "Gorbagio  #3846",
+      "image": "https://plum-far-bobcat-940.mypinata.cloud/ipfs/bafybeihkdrontwttwgcaqlpifsav2pvyzyi2m4otl2jeklp4dbdzasdcu4/3846.png",
+      "traits": {
+        "backgrounds": "flat earth map",
+        "binz": "dumpster",
+        "facez": "zombie",
+        "hands": "gor-boy",
+        "mouth": "lollipop",
+        "stickers": "wheeler"
+      },
+      "owner": "TPjBz6Pj3aVBAJry9S8bHwK8RZz64Wic7YdbvCzZX7G",
+      "isListed": 0,
+      "price": null,
+      "magicEdenUrl": "https://magiceden.us/item-details/CWBbbqkE7utnqRSxdXjcjB4V3csVZD6cD4wTgduDVXG1"
+    },
+    {
+      "mint": "7MMxYj1Dzn1v5inV7A8cb9MHk7M2we2PjPhTtx2X1HSQ",
+      "name": "Gorbagio  #3876",
+      "image": "https://plum-far-bobcat-940.mypinata.cloud/ipfs/bafybeihkdrontwttwgcaqlpifsav2pvyzyi2m4otl2jeklp4dbdzasdcu4/3876.png",
+      "traits": {
+        "backgrounds": "girl dev",
+        "binz": "recycle-bin",
+        "eyes": "heheh",
+        "facez": "black",
+        "hands": "gor-boy",
+        "mouth": "zipper",
+        "over head": "hackererman",
+        "stickers": "wolf of gor street"
+      },
+      "owner": "93uC9SF4tXFDYVoKWez6LUgyccETM4FwSFMU6xKgDttb",
+      "isListed": 0,
+      "price": null,
+      "magicEdenUrl": "https://magiceden.us/item-details/7MMxYj1Dzn1v5inV7A8cb9MHk7M2we2PjPhTtx2X1HSQ"
+    },
+    {
+      "mint": "5kw25w1hJxLzKzz7cYf41i5LwiFpo11J4EC8ugPrbX8e",
+      "name": "Gorbagio  #3884",
+      "image": "https://plum-far-bobcat-940.mypinata.cloud/ipfs/bafybeihkdrontwttwgcaqlpifsav2pvyzyi2m4otl2jeklp4dbdzasdcu4/3884.png",
+      "traits": {
+        "backgrounds": "no dumping",
+        "binz": "box",
+        "eyes": "hazel",
+        "facez": "white",
+        "hands": "gor-boy",
+        "mouth": ":3",
+        "over head": "beerhat",
+        "stickers": "garbage showzen"
+      },
+      "owner": "A88Nb1uyU7i5ntJnbRU37mAjBYMWtfrKEhEmtHMZKLHF",
+      "isListed": 0,
+      "price": null,
+      "magicEdenUrl": "https://magiceden.us/item-details/5kw25w1hJxLzKzz7cYf41i5LwiFpo11J4EC8ugPrbX8e"
+    },
+    {
+      "mint": "5EGQFWxJymHSQkCG2rurwPdnhtaCYa15bGLcAbdt4eKH",
+      "name": "Gorbagio  #3890",
+      "image": "https://plum-far-bobcat-940.mypinata.cloud/ipfs/bafybeihkdrontwttwgcaqlpifsav2pvyzyi2m4otl2jeklp4dbdzasdcu4/3890.png",
+      "traits": {
+        "backgrounds": "dumpster",
+        "binz": "recycle-bin",
+        "eyes": "dark brown",
+        "facez": "black",
+        "hands": "gor-boy",
+        "mouth": "u"
+      },
+      "owner": "31vwZ3UXMzL1R8BDYThUs4Ei3AfEZCzTbjXYE3RR1n4E",
+      "isListed": 0,
+      "price": null,
+      "magicEdenUrl": "https://magiceden.us/item-details/5EGQFWxJymHSQkCG2rurwPdnhtaCYa15bGLcAbdt4eKH"
+    },
+    {
+      "mint": "6ZwDNEVYQijXjQHK6yMV21jukZ5cE4TPAm1STYttMMbY",
+      "name": "Gorbagio  #3896",
+      "image": "https://plum-far-bobcat-940.mypinata.cloud/ipfs/bafybeihkdrontwttwgcaqlpifsav2pvyzyi2m4otl2jeklp4dbdzasdcu4/3896.png",
+      "traits": {
+        "backgrounds": "gw freemason",
+        "binz": "digibin",
+        "eyes": "starry",
+        "facez": "white",
+        "hands": "gor-boy",
+        "mouth": "cookie-crumbs",
+        "over head": "hackererman"
+      },
+      "owner": "3pVUqNK1LGu7ctSh4avpDM9qDi1Zj8iojiYTy7kCCwpB",
+      "isListed": 0,
+      "price": null,
+      "magicEdenUrl": "https://magiceden.us/item-details/6ZwDNEVYQijXjQHK6yMV21jukZ5cE4TPAm1STYttMMbY"
+    },
+    {
+      "mint": "4y2Xqxo8UHTcWv2s19DSkuHu7jbotqh3Di3Ca7J4FhvA",
+      "name": "Gorbagio  #3897",
+      "image": "https://plum-far-bobcat-940.mypinata.cloud/ipfs/bafybeihkdrontwttwgcaqlpifsav2pvyzyi2m4otl2jeklp4dbdzasdcu4/3897.png",
+      "traits": {
+        "backgrounds": "casino",
+        "binz": "original",
+        "eyes": "starry",
+        "facez": "white",
+        "hands": "gor-boy",
+        "mouth": "heheh",
+        "over head": "hackererman"
+      },
+      "owner": "HXUnhRqssXKfLmRwF7dv3RvBcEkCdfFVRTg4EVFnbwzs",
+      "isListed": 0,
+      "price": null,
+      "magicEdenUrl": "https://magiceden.us/item-details/4y2Xqxo8UHTcWv2s19DSkuHu7jbotqh3Di3Ca7J4FhvA"
+    },
+    {
+      "mint": "5vNPLU29xKiupDkcgZT3niQrfY8FzAKv64H17PB23RFJ",
+      "name": "Gorbagio  #3908",
+      "image": "https://plum-far-bobcat-940.mypinata.cloud/ipfs/bafybeihkdrontwttwgcaqlpifsav2pvyzyi2m4otl2jeklp4dbdzasdcu4/3908.png",
+      "traits": {
+        "backgrounds": "sesame",
+        "binz": "futuristic",
+        "eyes": "flora",
+        "facez": "white",
+        "hands": "gor-boy",
+        "mouth": "lollipop",
+        "stickers": "oscar phone"
+      },
+      "owner": "AjeugHwCk5GCpd8e3PqAFb9ZjUcN2cQKEByAp42BWmC1",
+      "isListed": 0,
+      "price": null,
+      "magicEdenUrl": "https://magiceden.us/item-details/5vNPLU29xKiupDkcgZT3niQrfY8FzAKv64H17PB23RFJ"
+    },
+    {
+      "mint": "9634CrVzzNrW3KCSoiBQB6BCNEahAn1PfnbNNtgGgwYx",
+      "name": "Gorbagio  #3917",
+      "image": "https://plum-far-bobcat-940.mypinata.cloud/ipfs/bafybeihkdrontwttwgcaqlpifsav2pvyzyi2m4otl2jeklp4dbdzasdcu4/3917.png",
+      "traits": {
+        "backgrounds": "ocean",
+        "binz": "matress",
+        "eyes": "anime",
+        "facez": "white",
+        "hands": "gor-boy",
+        "mouth": "u",
+        "over head": "tinfoil"
+      },
+      "owner": "HU2nTRuq8HywfACwX9xdoRH6VSAFPjXCFM35wiDnwQ3U",
+      "isListed": 0,
+      "price": null,
+      "magicEdenUrl": "https://magiceden.us/item-details/9634CrVzzNrW3KCSoiBQB6BCNEahAn1PfnbNNtgGgwYx"
+    },
+    {
+      "mint": "7tbrhumrxyF5Wj6Egh26dGvboaebvN1f7jVoC7SzqWcB",
+      "name": "Gorbagio  #3982",
+      "image": "https://plum-far-bobcat-940.mypinata.cloud/ipfs/bafybeihkdrontwttwgcaqlpifsav2pvyzyi2m4otl2jeklp4dbdzasdcu4/3982.png",
+      "traits": {
+        "backgrounds": "casino",
+        "binz": "original",
+        "eyes": "dark brown",
+        "facez": "white",
+        "hands": "gor-boy",
+        "mouth": "pouty",
+        "stickers": "oscar phone"
+      },
+      "owner": "DVbmvMQ8U9udPFf3qCRnSdytU6CgNvnjMYis7dL1PPMP",
+      "isListed": 0,
+      "price": null,
+      "magicEdenUrl": "https://magiceden.us/item-details/7tbrhumrxyF5Wj6Egh26dGvboaebvN1f7jVoC7SzqWcB"
+    },
+    {
+      "mint": "6KHSiWbbSrgbPGY3zAm2xsECtzwf6cbHNWFxhEavBYbm",
+      "name": "Gorbagio  #3997",
+      "image": "https://plum-far-bobcat-940.mypinata.cloud/ipfs/bafybeihkdrontwttwgcaqlpifsav2pvyzyi2m4otl2jeklp4dbdzasdcu4/3997.png",
+      "traits": {
+        "backgrounds": "girl dev",
+        "binz": "shredder",
+        "eyes": "dark brown",
+        "facez": "black",
+        "hands": "gor-boy",
+        "mouth": "remilio"
+      },
+      "owner": "9ToQJ4bPMf9YTPAjdEZEt7N7vdEnbwJCgtJ12YVuuCpf",
+      "isListed": 0,
+      "price": null,
+      "magicEdenUrl": "https://magiceden.us/item-details/6KHSiWbbSrgbPGY3zAm2xsECtzwf6cbHNWFxhEavBYbm"
+    },
+    {
+      "mint": "FKRtf5hcZNfpC2YRweLFa3LfunXVcLnUmVZv7ue7nGLp",
+      "name": "Gorbagio  #4008",
+      "image": "https://plum-far-bobcat-940.mypinata.cloud/ipfs/bafybeihkdrontwttwgcaqlpifsav2pvyzyi2m4otl2jeklp4dbdzasdcu4/4008.png",
+      "traits": {
+        "backgrounds": "cookies",
+        "binz": "original",
+        "eyes": "flora",
+        "facez": "oni",
+        "hands": "gor-boy",
+        "mouth": "u",
+        "over head": "oni-horns"
+      },
+      "owner": "B4hf2oiNDSmvXa47nkgi2ypzhfH8ppWf5Xaz7wBcT2dc",
+      "isListed": 0,
+      "price": null,
+      "magicEdenUrl": "https://magiceden.us/item-details/FKRtf5hcZNfpC2YRweLFa3LfunXVcLnUmVZv7ue7nGLp"
+    },
+    {
+      "mint": "Bnqk3Y9JxWdgbthDQJedDbNVHfQ15HkJzyPddS7XmZqh",
+      "name": "Gorbagio  #4029",
+      "image": "https://plum-far-bobcat-940.mypinata.cloud/ipfs/bafybeihkdrontwttwgcaqlpifsav2pvyzyi2m4otl2jeklp4dbdzasdcu4/4029.png",
+      "traits": {
+        "backgrounds": "gw freemason",
+        "binz": "original",
+        "eyes": "dark brown",
+        "facez": "white",
+        "hands": "gor-boy",
+        "mouth": "remilio"
+      },
+      "owner": "FV4E3VqRDXepoTC7KsFxcvidnA81VMZ1kDRKB8uVehaY",
+      "isListed": 0,
+      "price": null,
+      "magicEdenUrl": "https://magiceden.us/item-details/Bnqk3Y9JxWdgbthDQJedDbNVHfQ15HkJzyPddS7XmZqh"
+    },
+    {
+      "mint": "Ch1sd88yaeLUZfiv2FWfAH1i4WHeTuEhxrs8vGPsyAj6",
+      "name": "Gorbagio  #4033",
+      "image": "https://plum-far-bobcat-940.mypinata.cloud/ipfs/bafybeihkdrontwttwgcaqlpifsav2pvyzyi2m4otl2jeklp4dbdzasdcu4/4033.png",
+      "traits": {
+        "backgrounds": "cardboard",
+        "binz": "original",
+        "eyes": "dark brown",
+        "facez": "white",
+        "hands": "gor-boy",
+        "mouth": "remilio"
+      },
+      "owner": "BrT5kYQ125u6NaRKFKNiBnHak6X7MvcZSQ3LfQCB3sqg",
+      "isListed": 0,
+      "price": null,
+      "magicEdenUrl": "https://magiceden.us/item-details/Ch1sd88yaeLUZfiv2FWfAH1i4WHeTuEhxrs8vGPsyAj6"
+    },
+    {
+      "mint": "RMMKVPZKZ2NfwsYRU6z7FHgWx12TkzQT797gc5raYXv",
+      "name": "Gorbagio  #4093",
+      "image": "https://plum-far-bobcat-940.mypinata.cloud/ipfs/bafybeihkdrontwttwgcaqlpifsav2pvyzyi2m4otl2jeklp4dbdzasdcu4/4093.png",
+      "traits": {
+        "backgrounds": "girl dev",
+        "binz": "original",
+        "eyes": "heheh",
+        "facez": "white",
+        "hands": "gor-boy",
+        "mouth": "sbf",
+        "over head": "fumo"
+      },
+      "owner": "6EaDAiQ4ztfdhnDesiij14GDf2UNawg1r4zujvWVYCdN",
+      "isListed": 0,
+      "price": null,
+      "magicEdenUrl": "https://magiceden.us/item-details/RMMKVPZKZ2NfwsYRU6z7FHgWx12TkzQT797gc5raYXv"
+    },
+    {
+      "mint": "Cn3T6BPm8N1KumH85iRLVDUotpA7jwBBzPfdsjfi1Dyo",
+      "name": "Gorbagio  #4114",
+      "image": "https://plum-far-bobcat-940.mypinata.cloud/ipfs/bafybeihkdrontwttwgcaqlpifsav2pvyzyi2m4otl2jeklp4dbdzasdcu4/4114.png",
+      "traits": {
+        "backgrounds": "fast food",
+        "binz": "matress",
+        "eyes": "flora",
+        "facez": "white",
+        "hands": "gor-boy",
+        "mouth": "troll",
+        "over head": "green phat",
+        "stickers": "bogged"
+      },
+      "owner": "4evha5y8StpSBqqAgdRVoQ3ANYm8X6Bf8vprpWLiApfd",
+      "isListed": 0,
+      "price": null,
+      "magicEdenUrl": "https://magiceden.us/item-details/Cn3T6BPm8N1KumH85iRLVDUotpA7jwBBzPfdsjfi1Dyo"
+    },
+    {
+      "mint": "D6iRzcCeeSKFNCgko6EiW95mjLyJsMkNkyE7cCJytsk8",
+      "name": "Gorbagio  #4118",
+      "image": "https://plum-far-bobcat-940.mypinata.cloud/ipfs/bafybeihkdrontwttwgcaqlpifsav2pvyzyi2m4otl2jeklp4dbdzasdcu4/4118.png",
+      "traits": {
+        "backgrounds": "gw freemason",
+        "binz": "box",
+        "eyes": "oh, you",
+        "facez": "white",
+        "hands": "gor-boy",
+        "mouth": "cookie-crumbs",
+        "over head": "beerhat"
+      },
+      "owner": "AVi8HJEqZksYWoarp9JZiK1PRrbvjEvF3Qzv9UoP69MW",
+      "isListed": 0,
+      "price": null,
+      "magicEdenUrl": "https://magiceden.us/item-details/D6iRzcCeeSKFNCgko6EiW95mjLyJsMkNkyE7cCJytsk8"
+    },
+    {
+      "mint": "BonEVKAVNEb8dvvQNziZk7YPJ4t5K3cdSQtB3PhBjR7d",
+      "name": "Gorbagio  #4156",
+      "image": "https://plum-far-bobcat-940.mypinata.cloud/ipfs/bafybeihkdrontwttwgcaqlpifsav2pvyzyi2m4otl2jeklp4dbdzasdcu4/4156.png",
+      "traits": {
+        "backgrounds": "money",
+        "binz": "recycle-bin",
+        "eyes": "heheh",
+        "facez": "oni",
+        "hands": "gor-boy",
+        "mouth": "u",
+        "over head": "oni-horns",
+        "stickers": "george droyd"
+      },
+      "owner": "5CYiAZG3ebzURjzii3UFGmw9XSLG3uskzo6AYoXpUuMk",
+      "isListed": 0,
+      "price": null,
+      "magicEdenUrl": "https://magiceden.us/item-details/BonEVKAVNEb8dvvQNziZk7YPJ4t5K3cdSQtB3PhBjR7d"
+    },
+    {
+      "mint": "Fc6MQVRLEfPLd6WQno9JJsfdZYcxDYkdspzU86KCxvnd",
+      "name": "Gorbagio  #4244",
+      "image": "https://plum-far-bobcat-940.mypinata.cloud/ipfs/bafybeihkdrontwttwgcaqlpifsav2pvyzyi2m4otl2jeklp4dbdzasdcu4/4244.png",
+      "traits": {
+        "backgrounds": "money",
+        "binz": "box",
+        "eyes": "flora",
+        "facez": "white",
+        "hands": "gor-boy",
+        "mouth": "heheh",
+        "stickers": "moggers"
+      },
+      "owner": "8pgaRDTDKVZnAg7JpUcKiFgXXepfZwid8sdjn9QPZUf6",
+      "isListed": 0,
+      "price": null,
+      "magicEdenUrl": "https://magiceden.us/item-details/Fc6MQVRLEfPLd6WQno9JJsfdZYcxDYkdspzU86KCxvnd"
+    },
+    {
+      "mint": "8hkugDVVFR3hshUUjRKqeKouW7y3eJS288paRrZoEWk7",
+      "name": "Gorbagio  #4272",
+      "image": "https://plum-far-bobcat-940.mypinata.cloud/ipfs/bafybeihkdrontwttwgcaqlpifsav2pvyzyi2m4otl2jeklp4dbdzasdcu4/4272.png",
+      "traits": {
+        "backgrounds": "dc pentragram",
+        "binz": "paper mound",
+        "eyes": "hazel",
+        "facez": "black",
+        "hands": "gor-boy",
+        "mouth": "u",
+        "stickers": "moggers"
+      },
+      "owner": "GsaZdYyBfKemRyz8reSD5v1fx2xWCFpHGRBJ1mFr5Uju",
+      "isListed": 0,
+      "price": null,
+      "magicEdenUrl": "https://magiceden.us/item-details/8hkugDVVFR3hshUUjRKqeKouW7y3eJS288paRrZoEWk7"
+    },
+    {
+      "mint": "3M7yZtzCrVs7EzG86fNHs4SdB6sAEyFrwCVsRVVJ4k9i",
+      "name": "Gorbagio  #4292",
+      "image": "https://plum-far-bobcat-940.mypinata.cloud/ipfs/bafybeihkdrontwttwgcaqlpifsav2pvyzyi2m4otl2jeklp4dbdzasdcu4/4292.png",
+      "traits": {
+        "backgrounds": "cookies",
+        "binz": "box",
+        "eyes": "flora",
+        "facez": "cookie",
+        "hands": "gor-boy",
+        "mouth": "oh,-you-mouth",
+        "over head": "tinfoil",
+        "stickers": "gorbagana street"
+      },
+      "owner": "6juALmA9qzACfcthsr3NabM3hTarzVpYzWV6hRT13dN2",
+      "isListed": 0,
+      "price": null,
+      "magicEdenUrl": "https://magiceden.us/item-details/3M7yZtzCrVs7EzG86fNHs4SdB6sAEyFrwCVsRVVJ4k9i"
+    },
+    {
+      "mint": "EVQsGiYd6UxhHNezsGH7yr5wSb4PSeqxRwnZ3tT318NB",
+      "name": "Gorbagio  #4296",
+      "image": "https://plum-far-bobcat-940.mypinata.cloud/ipfs/bafybeihkdrontwttwgcaqlpifsav2pvyzyi2m4otl2jeklp4dbdzasdcu4/4296.png",
+      "traits": {
+        "backgrounds": "girl dev",
+        "binz": "matress",
+        "eyes": "heheh",
+        "facez": "white",
+        "hands": "gor-boy",
+        "mouth": "u"
+      },
+      "owner": "Fmt7aVmxqPzU5UcpCLPi8mieYgoTWBDPTQ3XYzCAKT3P",
+      "isListed": 0,
+      "price": null,
+      "magicEdenUrl": "https://magiceden.us/item-details/EVQsGiYd6UxhHNezsGH7yr5wSb4PSeqxRwnZ3tT318NB"
+    },
+    {
+      "mint": "AEVk8myYNtAcrF7zAKoJzQTsUMuncyFrdvCLLnLCCm64",
+      "name": "Gorbagio  #4313",
+      "image": "https://plum-far-bobcat-940.mypinata.cloud/ipfs/bafybeihkdrontwttwgcaqlpifsav2pvyzyi2m4otl2jeklp4dbdzasdcu4/4313.png",
+      "traits": {
+        "backgrounds": "sesame",
+        "binz": "digibin",
+        "eyes": "dark brown",
+        "facez": "white",
+        "hands": "gor-boy",
+        "mouth": "oh,-you-mouth",
+        "over head": "lol-hat"
+      },
+      "owner": "Fmt7aVmxqPzU5UcpCLPi8mieYgoTWBDPTQ3XYzCAKT3P",
+      "isListed": 0,
+      "price": null,
+      "magicEdenUrl": "https://magiceden.us/item-details/AEVk8myYNtAcrF7zAKoJzQTsUMuncyFrdvCLLnLCCm64"
+    },
+    {
+      "mint": "7RmquHz7qyQK4qGh8vkw3MeiNxMbUbD9eitc93MFvJTU",
+      "name": "Gorbagio  #4340",
+      "image": "https://plum-far-bobcat-940.mypinata.cloud/ipfs/bafybeihkdrontwttwgcaqlpifsav2pvyzyi2m4otl2jeklp4dbdzasdcu4/4340.png",
+      "traits": {
+        "backgrounds": "cookies",
+        "binz": "pump pill",
+        "eyes": "oh, you",
+        "facez": "white",
+        "hands": "gor-boy",
+        "mouth": "pouty",
+        "over head": "fumo",
+        "stickers": "garbagewave"
+      },
+      "owner": "GykYdGm68ZoTxPWgvLhHiWy3VxfgZhYbesLxMbXYr3dn",
+      "isListed": 0,
+      "price": null,
+      "magicEdenUrl": "https://magiceden.us/item-details/7RmquHz7qyQK4qGh8vkw3MeiNxMbUbD9eitc93MFvJTU"
+    },
+    {
+      "mint": "A2c8vqbscZeNPfKTEQ6uvWSs4QEHTcRDVLqnK99zaCX2",
+      "name": "Gorbagio  #4364",
+      "image": "https://plum-far-bobcat-940.mypinata.cloud/ipfs/bafybeihkdrontwttwgcaqlpifsav2pvyzyi2m4otl2jeklp4dbdzasdcu4/4364.png",
+      "traits": {
+        "backgrounds": "dont fight",
+        "binz": "original",
+        "eyes": "starry",
+        "facez": "black",
+        "hands": "gor-boy",
+        "mouth": "bubblegum"
+      },
+      "owner": "DZK7DiaHiFtiZPQc7pZfQhmwG5UmTY14HH1bBzt5dwyJ",
+      "isListed": 0,
+      "price": null,
+      "magicEdenUrl": "https://magiceden.us/item-details/A2c8vqbscZeNPfKTEQ6uvWSs4QEHTcRDVLqnK99zaCX2"
+    },
+    {
+      "mint": "BunXBvFWG3nFzVqT19h1jprhbm7ygfgsJfKZPUd2p8rc",
+      "name": "Gorbagio  #4368",
+      "image": "https://plum-far-bobcat-940.mypinata.cloud/ipfs/bafybeihkdrontwttwgcaqlpifsav2pvyzyi2m4otl2jeklp4dbdzasdcu4/4368.png",
+      "traits": {
+        "backgrounds": "nuclear",
+        "binz": "original",
+        "eyes": "oh, you",
+        "facez": "black",
+        "hands": "gor-boy",
+        "mouth": "smirk"
+      },
+      "owner": "69WzGPkuPqzsST2HyuUaJnYr236gDUeR9sSyRyhEpTJR",
+      "isListed": 0,
+      "price": null,
+      "magicEdenUrl": "https://magiceden.us/item-details/BunXBvFWG3nFzVqT19h1jprhbm7ygfgsJfKZPUd2p8rc"
+    },
+    {
+      "mint": "5iix7BJ894tQB8gNHcv9kG86WgzFmXErwXWz2eEKHer9",
+      "name": "Gorbagio  #4426",
+      "image": "https://plum-far-bobcat-940.mypinata.cloud/ipfs/bafybeihkdrontwttwgcaqlpifsav2pvyzyi2m4otl2jeklp4dbdzasdcu4/4426.png",
+      "traits": {
+        "backgrounds": "gorhouse",
+        "binz": "futuristic",
+        "eyes": "hazel",
+        "facez": "white",
+        "hands": "gor-boy",
+        "mouth": "smirk",
+        "over head": "beerhat"
+      },
+      "owner": "GSDmghdWBkUM6tLYfAjgva4ySfTeXV1LViZDei22FnZi",
+      "isListed": 0,
+      "price": null,
+      "magicEdenUrl": "https://magiceden.us/item-details/5iix7BJ894tQB8gNHcv9kG86WgzFmXErwXWz2eEKHer9"
+    },
+    {
+      "mint": "41MUyWAh4X58g8Q2wnhURGPSU188zMpdNZeRXYyqSxYA",
+      "name": "Gorbagio  #4441",
+      "image": "https://plum-far-bobcat-940.mypinata.cloud/ipfs/bafybeihkdrontwttwgcaqlpifsav2pvyzyi2m4otl2jeklp4dbdzasdcu4/4441.png",
+      "traits": {
+        "backgrounds": "gorbatrix",
+        "binz": "matress",
+        "eyes": "heheh",
+        "facez": "white",
+        "hands": "gor-boy",
+        "mouth": "fishy",
+        "over head": "green phat",
+        "stickers": "ansem shitpost"
+      },
+      "owner": "78Lk9Ae6c3XBQjgyT2e8Abx4YW7aBgAyenT3z2c82Ggz",
+      "isListed": 0,
+      "price": null,
+      "magicEdenUrl": "https://magiceden.us/item-details/41MUyWAh4X58g8Q2wnhURGPSU188zMpdNZeRXYyqSxYA"
     }
   ]
 }
