@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>GORBAGIO Collection - All 4444 NFTs</title>
+    <title>GORBAGIO Collection - Live Prices</title>
     <style>
         * {
             margin: 0;
@@ -12,9 +12,9 @@
         }
 
         body {
-            font-family: 'Arial', sans-serif;
-            background: linear-gradient(135deg, #0a0a0a 0%, #1a1a1a 100%);
-            color: #e0e0e0;
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', sans-serif;
+            background: #0f1419;
+            color: #d1d5db;
             min-height: 100vh;
         }
 
@@ -26,67 +26,106 @@
 
         /* Header */
         header {
-            text-align: center;
-            padding: 40px 20px;
-            background: linear-gradient(135deg, #1a1a1a 0%, #2a2a2a 100%);
-            border-bottom: 3px solid #00ff00;
+            padding: 30px 20px 20px 20px;
             margin-bottom: 30px;
         }
 
         h1 {
-            font-size: 48px;
-            color: #00ff00;
-            text-shadow: 0 0 20px #00ff00;
-            margin-bottom: 10px;
+            font-size: 36px;
+            color: #ffffff;
+            font-weight: 600;
+            margin-bottom: 8px;
         }
 
         .subtitle {
-            font-size: 18px;
-            color: #888;
+            font-size: 15px;
+            color: #6b7280;
+        }
+
+        /* Live indicator */
+        .live-indicator {
+            display: inline-block;
+            margin-top: 12px;
+            padding: 6px 14px;
+            background: rgba(16, 185, 129, 0.1);
+            border: 1px solid rgba(16, 185, 129, 0.3);
+            border-radius: 6px;
+            font-size: 13px;
+            color: #10b981;
+            font-weight: 500;
+        }
+
+        .live-indicator.loading {
+            background: rgba(251, 146, 60, 0.1);
+            border-color: rgba(251, 146, 60, 0.3);
+            color: #fb923c;
+        }
+
+        .live-indicator .pulse {
+            display: inline-block;
+            width: 6px;
+            height: 6px;
+            background: #10b981;
+            border-radius: 50%;
+            margin-right: 6px;
+            animation: pulse 2s infinite;
+        }
+
+        @keyframes pulse {
+            0%, 100% { opacity: 1; }
+            50% { opacity: 0.3; }
         }
 
         /* Stats Bar */
         .stats {
             display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-            gap: 15px;
-            margin-bottom: 30px;
+            grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+            gap: 16px;
+            margin-bottom: 24px;
         }
 
         .stat-card {
-            background: #1a1a1a;
-            border: 2px solid #00ff00;
+            background: #1a202c;
+            border: 1px solid #2d3748;
             padding: 20px;
-            text-align: center;
             border-radius: 8px;
+            transition: all 0.2s;
         }
 
-        .stat-value {
-            font-size: 36px;
-            font-weight: bold;
-            color: #00ff00;
+        .stat-card:hover {
+            border-color: #10b981;
+            background: #1f2937;
         }
 
         .stat-label {
-            font-size: 14px;
-            color: #888;
-            margin-top: 5px;
+            font-size: 12px;
+            color: #9ca3af;
+            margin-bottom: 8px;
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+            font-weight: 500;
+        }
+
+        .stat-value {
+            font-size: 28px;
+            font-weight: 600;
+            color: #ffffff;
         }
 
         /* Filters */
         .filters {
-            background: #1a1a1a;
-            border: 2px solid #00ff00;
-            padding: 20px;
+            background: #1a202c;
+            border: 1px solid #2d3748;
+            padding: 24px;
             border-radius: 8px;
-            margin-bottom: 30px;
+            margin-bottom: 24px;
         }
 
         .filter-row {
             display: grid;
             grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-            gap: 15px;
-            margin-bottom: 15px;
+            gap: 16px;
+            margin-bottom: 16px;
         }
 
         .filter-group {
@@ -95,109 +134,117 @@
         }
 
         .filter-group label {
-            font-size: 12px;
-            color: #888;
-            margin-bottom: 5px;
+            font-size: 11px;
+            color: #9ca3af;
+            margin-bottom: 6px;
             text-transform: uppercase;
+            letter-spacing: 0.05em;
+            font-weight: 500;
         }
 
         .filter-group select,
         .filter-group input {
-            padding: 10px;
-            background: #0a0a0a;
-            border: 1px solid #00ff00;
-            color: #00ff00;
-            border-radius: 4px;
+            padding: 10px 12px;
+            background: #111827;
+            border: 1px solid #374151;
+            color: #d1d5db;
+            border-radius: 6px;
             font-size: 14px;
+            transition: all 0.2s;
         }
 
         .filter-group select:focus,
         .filter-group input:focus {
             outline: none;
-            border-color: #00ff00;
-            box-shadow: 0 0 10px rgba(0, 255, 0, 0.3);
+            border-color: #10b981;
+            background: #1f2937;
+        }
+
+        .filter-group select:hover,
+        .filter-group input:hover {
+            border-color: #4b5563;
         }
         
-        /* Style selected options in dropdowns */
-        .filter-group select option:checked,
-        .filter-group select option[selected] {
-            background: #00ff00;
-            color: #000;
-            font-weight: bold;
-        }
-        
-        /* For browsers that support it, style the selected value in the dropdown */
-        .filter-group select:has(option:not([value=""]):checked) {
-            background: rgba(0, 255, 0, 0.15);
-            font-weight: bold;
-            border-color: #00ff00;
+        /* Active filter styling */
+        .filter-group select.active {
+            background: rgba(16, 185, 129, 0.1);
+            border-color: #10b981;
+            color: #10b981;
         }
 
         .filter-buttons {
             display: flex;
-            gap: 10px;
+            gap: 12px;
             flex-wrap: wrap;
+            justify-content: center;
         }
 
-        /* Updated Button Styling - Rounded Pill Shape */
+        /* Button Styling */
         button {
-            padding: 12px 30px;
-            background: #00ff00;
-            color: #000;
-            border: 3px solid #fff;
-            border-radius: 50px;
-            font-weight: bold;
-            font-size: 16px;
+            padding: 10px 20px;
+            background: #10b981;
+            color: #ffffff;
+            border: none;
+            border-radius: 6px;
+            font-weight: 500;
+            font-size: 14px;
             cursor: pointer;
-            transition: all 0.3s;
-            text-transform: capitalize;
+            transition: all 0.2s;
         }
 
         button:hover {
-            background: #00cc00;
-            transform: translateY(-2px);
-            box-shadow: 0 5px 15px rgba(0, 255, 0, 0.4);
+            background: #059669;
+            transform: translateY(-1px);
+        }
+
+        button:active {
+            transform: translateY(0);
         }
 
         button.secondary {
             background: transparent;
-            color: #00ff00;
-            border: 3px solid #00ff00;
+            color: #10b981;
+            border: 1px solid #10b981;
         }
 
         button.secondary:hover {
-            background: rgba(0, 255, 0, 0.1);
+            background: rgba(16, 185, 129, 0.1);
         }
 
         /* View Toggle Buttons */
         .view-toggle {
             display: flex;
-            gap: 10px;
+            gap: 8px;
             margin-bottom: 20px;
             justify-content: center;
         }
 
         button.view-btn {
-            padding: 10px 25px;
-            font-size: 14px;
+            padding: 8px 16px;
+            font-size: 13px;
+            border-radius: 6px;
         }
 
         button.view-btn.active {
-            background: #00ff00;
-            color: #000;
-            border-color: #fff;
+            background: #10b981;
+            color: #ffffff;
         }
 
         button.view-btn:not(.active) {
             background: transparent;
-            color: #00ff00;
-            border-color: #00ff00;
+            color: #9ca3af;
+            border: 1px solid #374151;
+        }
+
+        button.view-btn:not(.active):hover {
+            border-color: #10b981;
+            color: #10b981;
         }
 
         /* NFT List View */
         .nft-list {
-            background: #1a1a1a;
-            border: 2px solid #00ff00;
+            background: #1a202c;
+            border: 1px solid #2d3748;
             border-radius: 8px;
             overflow: hidden;
         }
@@ -205,32 +252,38 @@
         .list-header {
             display: grid;
             grid-template-columns: 80px 200px 150px 200px 1fr;
-            gap: 15px;
-            padding: 15px;
-            background: #0a0a0a;
-            border-bottom: 2px solid #00ff00;
-            font-weight: bold;
-            color: #00ff00;
-            font-size: 14px;
+            gap: 16px;
+            padding: 16px 20px;
+            background: #111827;
+            border-bottom: 1px solid #2d3748;
+            font-weight: 500;
+            color: #9ca3af;
+            font-size: 12px;
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
         }
 
         .list-row {
             display: grid;
             grid-template-columns: 80px 200px 150px 200px 1fr;
-            gap: 15px;
-            padding: 15px;
-            border-bottom: 1px solid #333;
+            gap: 16px;
+            padding: 16px 20px;
+            border-bottom: 1px solid #2d3748;
             align-items: center;
-            transition: all 0.3s;
+            transition: all 0.2s;
             cursor: pointer;
         }
 
         .list-row:hover {
-            background: rgba(0, 255, 0, 0.1);
+            background: #1f2937;
         }
 
         .list-row.listed {
-            background: rgba(0, 255, 0, 0.05);
+            background: rgba(16, 185, 129, 0.05);
+        }
+
+        .list-row.listed:hover {
+            background: rgba(16, 185, 129, 0.1);
         }
 
         /* Image with hover preview */
@@ -244,12 +297,12 @@
             width: 100%;
             height: 100%;
             object-fit: cover;
-            border-radius: 4px;
-            border: 2px solid #333;
+            border-radius: 6px;
+            border: 1px solid #374151;
         }
 
         .list-row:hover .list-image {
-            border-color: #00ff00;
+            border-color: #10b981;
         }
 
         /* Large image preview on hover */
@@ -263,33 +316,36 @@
             background-image: var(--hover-image);
             background-size: cover;
             background-position: center;
-            border: 3px solid #00ff00;
+            border: 2px solid #10b981;
             border-radius: 8px;
-            box-shadow: 0 10px 30px rgba(0, 255, 0, 0.5);
+            box-shadow: 0 20px 50px rgba(0, 0, 0, 0.8);
             z-index: 1000;
             pointer-events: none;
         }
 
         .list-name {
-            color: #00ff00;
-            font-weight: bold;
-            font-size: 16px;
+            color: #ffffff;
+            font-weight: 500;
+            font-size: 15px;
         }
 
         .list-price {
-            color: #fff;
-            font-size: 16px;
+            color: #10b981;
+            font-size: 15px;
+            font-weight: 500;
         }
 
         .list-price.not-listed {
-            color: #888;
+            color: #6b7280;
             font-style: italic;
+            font-weight: normal;
         }
 
         .list-owner {
-            color: #00ff00;
-            font-size: 14px;
+            color: #10b981;
+            font-size: 13px;
             text-decoration: none;
+            font-family: 'Courier New', monospace;
         }
 
         .list-owner:hover {
@@ -299,16 +355,16 @@
         .list-traits {
             display: flex;
             flex-wrap: wrap;
-            gap: 5px;
+            gap: 6px;
         }
 
         .trait-badge {
-            background: #0a0a0a;
-            border: 1px solid #00ff00;
-            padding: 3px 8px;
-            border-radius: 3px;
-            font-size: 10px;
-            color: #00ff00;
+            background: #111827;
+            border: 1px solid #374151;
+            padding: 4px 8px;
+            border-radius: 4px;
+            font-size: 11px;
+            color: #9ca3af;
         }
 
         /* NFT Grid (kept for toggle option) */
@@ -320,29 +376,29 @@
         }
 
         .nft-card {
-            background: #1a1a1a;
-            border: 2px solid #333;
+            background: #1a202c;
+            border: 1px solid #2d3748;
             border-radius: 8px;
             overflow: hidden;
-            transition: all 0.3s;
+            transition: all 0.2s;
             cursor: pointer;
         }
 
         .nft-card:hover {
-            border-color: #00ff00;
-            transform: translateY(-5px);
-            box-shadow: 0 10px 30px rgba(0, 255, 0, 0.3);
+            border-color: #10b981;
+            transform: translateY(-2px);
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.5);
         }
 
         .nft-card.listed {
-            border-color: #00ff00;
+            border-color: #10b981;
         }
 
         .nft-image-container {
             position: relative;
             width: 100%;
             padding-top: 100%;
-            background: #0a0a0a;
+            background: #111827;
             overflow: hidden;
         }
 
@@ -359,42 +415,46 @@
             position: absolute;
             top: 10px;
             right: 10px;
-            background: #00ff00;
-            color: #000;
-            padding: 5px 10px;
+            background: #10b981;
+            color: #ffffff;
+            padding: 4px 10px;
             border-radius: 4px;
-            font-size: 12px;
-            font-weight: bold;
+            font-size: 11px;
+            font-weight: 600;
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
         }
 
         .nft-info {
-            padding: 15px;
+            padding: 16px;
         }
 
         .nft-name {
-            font-size: 18px;
-            font-weight: bold;
-            color: #00ff00;
-            margin-bottom: 10px;
+            font-size: 16px;
+            font-weight: 500;
+            color: #ffffff;
+            margin-bottom: 8px;
         }
 
         .nft-price {
-            font-size: 16px;
-            color: #fff;
-            margin-bottom: 10px;
+            font-size: 15px;
+            color: #10b981;
+            margin-bottom: 8px;
+            font-weight: 500;
         }
 
         .nft-owner {
-            font-size: 12px;
-            color: #888;
+            font-size: 11px;
+            color: #6b7280;
             word-break: break-all;
-            margin-bottom: 10px;
+            margin-bottom: 12px;
+            font-family: 'Courier New', monospace;
         }
 
         .nft-traits {
             display: flex;
             flex-wrap: wrap;
-            gap: 5px;
+            gap: 6px;
             margin-top: 10px;
         }
 
@@ -402,21 +462,27 @@
         .loading, .empty-state {
             text-align: center;
             padding: 60px 20px;
-            color: #888;
+            color: #6b7280;
         }
 
         .loading h2, .empty-state h2 {
-            color: #00ff00;
+            color: #ffffff;
             margin-bottom: 10px;
+            font-weight: 500;
         }
 
         /* Footer */
         footer {
             text-align: center;
             padding: 40px 20px;
-            border-top: 2px solid #00ff00;
+            border-top: 1px solid #2d3748;
             margin-top: 40px;
-            color: #888;
+            color: #6b7280;
+            font-size: 13px;
+        }
+
+        footer p {
+            margin-bottom: 6px;
         }
 
         /* Responsive */
@@ -428,6 +494,10 @@
         }
 
         @media (max-width: 768px) {
+            h1 {
+                font-size: 28px;
+            }
+
             .list-header {
                 display: none;
             }
@@ -440,13 +510,25 @@
             .list-image-container:hover::after {
                 display: none;
             }
+
+            .stats {
+                grid-template-columns: 1fr 1fr;
+            }
+
+            .filter-row {
+                grid-template-columns: 1fr;
+            }
         }
     </style>
 </head>
 <body>
     <header>
-        <h1>🦍 GORBAGIO COLLECTION</h1>
+        <h1>GORBAGIO NFT COLLECTION</h1>
         <p class="subtitle">Complete Collection - All 4444 NFTs</p>
+        <div class="live-indicator loading" id="liveIndicator">
+            <span class="pulse"></span>
+            <span id="liveStatus">Loading prices...</span>
+        </div>
     </header>
 
     <div class="container">
@@ -462,7 +544,7 @@
             </div>
             <div class="stat-card">
                 <div class="stat-value" id="floorPrice">-</div>
-                <div class="stat-label">Floor Price</div>
+                <div class="stat-label">Floor Price (Base)</div>
             </div>
             <div class="stat-card">
                 <div class="stat-value" id="visibleCount">-</div>
@@ -501,7 +583,8 @@
             </div>
             <div class="filter-row">
                 <div class="filter-buttons" style="width: 100%; justify-content: center;">
-                    <button onclick="resetFilters()">Reset Filters</button>
+                    <button onclick="refreshPrices()">Refresh Prices</button>
+                    <button class="secondary" onclick="resetFilters()">Reset Filters</button>
                     <button class="secondary" onclick="exportToCSV()">Export to CSV</button>
                     <button class="secondary" onclick="exportToJSON()">Export to JSON</button>
                 </div>
@@ -516,7 +599,7 @@
 
         <!-- Loading State -->
         <div id="loadingState" class="loading">
-            Loading GORBAGIO Collection...
+            <h2>Loading GORBAGIO Collection...</h2>
         </div>
 
         <!-- List View (Default) -->
@@ -542,14 +625,19 @@
     </div>
 
     <footer>
-        <p>GORBAGIO Collection • Powered by Magic Eden API</p>
-        <p style="margin-top: 10px; font-size: 12px;">Data updates when page is refreshed</p>
+        <p>GORBAGIO Collection • Live Prices via Magic Eden API</p>
+        <p style="margin-top: 10px; font-size: 12px;">Prices show base amount (seller receives). Magic Eden adds ~4% marketplace fees to buyer price.</p>
+        <p style="margin-top: 5px; font-size: 12px;">Prices update automatically when page loads</p>
     </footer>
 
     <script>
         let allNFTs = [];
         let filteredNFTs = [];
-        let currentView = 'list'; // Default to list view
+        let currentView = 'list';
+        
+        // CORS proxy for Magic Eden API
+        const CORS_PROXY = 'https://corsproxy.io/?';
+        const MAGIC_EDEN_API = 'https://api-mainnet.magiceden.dev/v2';
 
         // Load the JSON data
         async function loadNFTData() {
@@ -560,41 +648,34 @@
                 }
                 const data = await response.json();
                 
-                // Map the new data format to match expected format
+                // Map the data format
                 allNFTs = (data.nfts || []).map(nft => {
-                    // Price might be in lamports or SOL, detect which
-                    let priceInSOL = null;
-                    if (nft.price) {
-                        // If price is over 1000, it's probably in lamports
-                        priceInSOL = nft.price > 1000 ? nft.price / 1000000000 : nft.price;
-                    }
-                    
                     return {
                         name: nft.title || nft.name || `Gorbagio #${nft.tokenId}`,
                         image: nft.image,
                         owner: nft.owner,
-                        price: priceInSOL,
-                        isListed: !!(nft.listedStatus || (priceInSOL && priceInSOL > 0)),
+                        price: nft.price,
+                        isListed: !!(nft.listedStatus || (nft.price && nft.price > 0)),
                         traits: nft.traits || {},
                         mintAddress: nft.mintAddress,
                         magicEdenUrl: `https://magiceden.io/item-details/${nft.mintAddress}`
                     };
                 });
                 
-                // Debug: Log listing stats
-                const listedCount = allNFTs.filter(n => n.isListed).length;
-                const withPrice = allNFTs.filter(n => n.price && n.price > 0).length;
-                console.log(`Total NFTs: ${allNFTs.length}, Listed: ${listedCount}, With Price: ${withPrice}`);
+                console.log(`Loaded ${allNFTs.length} NFTs from data.json`);
                 
-                // Initialize
+                // Initialize UI with static data
                 createTraitFilters();
                 populateFilterDropdowns();
-                setDefaultFilters(); // Set hands to gor-boy
+                setDefaultFilters();
                 applyFilters();
                 updateStats();
                 
                 document.getElementById('loadingState').style.display = 'none';
-                switchView('list'); // Start with list view
+                switchView('list');
+                
+                // Now fetch live prices in background
+                fetchLivePrices();
                 
             } catch (error) {
                 console.error('Error loading NFT data:', error);
@@ -602,10 +683,119 @@
                     <div class="error">
                         <h2>Error Loading NFTs</h2>
                         <p>${error.message}</p>
-                        <p style="margin-top: 10px; font-size: 14px;">Make sure data.json is accessible from GitHub</p>
                     </div>
                 `;
             }
+        }
+
+        // Fetch live prices from Magic Eden
+        async function fetchLivePrices() {
+            const indicator = document.getElementById('liveIndicator');
+            const status = document.getElementById('liveStatus');
+            
+            try {
+                status.textContent = 'Fetching live prices...';
+                
+                // Clean, working approach - fetches as many listings as API allows
+                let allListings = [];
+                let offset = 0;
+                const limit = 25;
+                const maxPages = 20; // Safety limit
+                
+                for (let page = 0; page < maxPages; page++) {
+                    const apiUrl = `https://api-mainnet.magiceden.dev/v2/collections/gorbagio/listings?offset=${offset}&limit=${limit}`;
+                    const url = CORS_PROXY + encodeURIComponent(apiUrl);
+                    
+                    console.log(`Fetching page ${page + 1}, offset ${offset}`);
+                    
+                    const response = await fetch(url);
+                    
+                    if (!response.ok) {
+                        console.error(`API returned ${response.status} at offset ${offset}`);
+                        break;
+                    }
+                    
+                    const batch = await response.json();
+                    
+                    if (!Array.isArray(batch) || batch.length === 0) {
+                        console.log('No more listings available');
+                        break;
+                    }
+                    
+                    console.log(`Got ${batch.length} listings in batch ${page + 1}`);
+                    allListings = allListings.concat(batch);
+                    status.textContent = `Fetching... ${allListings.length} listings so far`;
+                    
+                    offset += limit;
+                    
+                    // Delay between requests
+                    await new Promise(resolve => setTimeout(resolve, 100));
+                }
+                
+                console.log(`✅ Total fetched: ${allListings.length} listings`);
+                
+                // Check official stats
+                try {
+                    const statsUrl = `${CORS_PROXY}${encodeURIComponent('https://api-mainnet.magiceden.dev/v2/collections/gorbagio/stats')}`;
+                    const statsResponse = await fetch(statsUrl);
+                    if (statsResponse.ok) {
+                        const stats = await statsResponse.json();
+                        console.log(`Official listedCount: ${stats.listedCount}`);
+                        console.log(`Coverage: ${((allListings.length / stats.listedCount) * 100).toFixed(1)}%`);
+                    }
+                } catch (e) {
+                    console.log('Could not fetch stats');
+                }
+                
+                // Create a map of mint address to price
+                const priceMap = {};
+                allListings.forEach(item => {
+                    const mint = item.tokenMint;
+                    const price = item.price;
+                    
+                    if (mint && price) {
+                        priceMap[mint] = price;
+                    }
+                });
+                
+                console.log(`Mapped ${Object.keys(priceMap).length} prices`);
+                
+                // Update prices in our NFT array
+                let updatedCount = 0;
+                allNFTs.forEach(nft => {
+                    if (priceMap[nft.mintAddress]) {
+                        const newPrice = priceMap[nft.mintAddress];
+                        nft.price = newPrice;
+                        nft.isListed = true;
+                        updatedCount++;
+                    }
+                });
+                
+                console.log(`Updated ${updatedCount} NFT prices`);
+                
+                // Update UI
+                indicator.classList.remove('loading');
+                status.textContent = `Live • ${allListings.length} listings tracked`;
+                
+                // Re-render and update stats
+                applyFilters();
+                updateStats();
+                
+            } catch (error) {
+                console.error('Error fetching live prices:', error);
+                indicator.classList.remove('loading');
+                indicator.style.borderColor = '#ef4444';
+                indicator.style.background = 'rgba(239, 68, 68, 0.1)';
+                status.style.color = '#ef4444';
+                status.textContent = `Error: ${error.message}`;
+            }
+        }
+
+        // Refresh prices button
+        function refreshPrices() {
+            const indicator = document.getElementById('liveIndicator');
+            indicator.classList.add('loading');
+            fetchLivePrices();
         }
 
         // Switch between list and grid views
@@ -636,12 +826,10 @@
             const container = document.getElementById('traitFiltersContainer');
             const traitTypes = new Set();
             
-            // Collect all unique trait types
             allNFTs.forEach(nft => {
                 Object.keys(nft.traits || {}).forEach(trait => traitTypes.add(trait));
             });
             
-            // Create a filter for each trait type
             Array.from(traitTypes).sort().forEach(traitType => {
                 const filterGroup = document.createElement('div');
                 filterGroup.className = 'filter-group';
@@ -662,7 +850,6 @@
                 filterGroup.appendChild(select);
                 container.appendChild(filterGroup);
                 
-                // Add event listener
                 select.addEventListener('change', applyFilters);
             });
         }
@@ -671,7 +858,6 @@
         function populateFilterDropdowns() {
             const traitValues = {};
             
-            // Collect all unique values for each trait
             allNFTs.forEach(nft => {
                 Object.entries(nft.traits || {}).forEach(([traitType, value]) => {
                     if (!traitValues[traitType]) {
@@ -683,7 +869,6 @@
                 });
             });
             
-            // Populate each filter dropdown
             Object.entries(traitValues).forEach(([traitType, values]) => {
                 const select = document.getElementById(`${traitType}Filter`);
                 if (select) {
@@ -697,24 +882,18 @@
             });
         }
         
-        // Set default filters (Listed Only)
+        // Set default filters
         function setDefaultFilters() {
-            // Set listing filter to "listed" by default
             const listingFilter = document.getElementById('listingFilter');
             if (listingFilter) {
                 listingFilter.value = 'listed';
             }
-        }
-
-        function populateSelect(selectId, options) {
-            const select = document.getElementById(selectId);
-            if (!select) return;
-            options.forEach(option => {
-                const opt = document.createElement('option');
-                opt.value = option;
-                opt.textContent = option;
-                select.appendChild(opt);
-            });
+            
+            // Set default sort to price (low to high) to match Magic Eden
+            const sortFilter = document.getElementById('sortFilter');
+            if (sortFilter) {
+                sortFilter.value = 'price-low';
+            }
         }
 
         // Apply filters
@@ -723,59 +902,54 @@
             const listingFilter = document.getElementById('listingFilter').value;
             const sortFilter = document.getElementById('sortFilter').value;
             
-            // Get all trait filters dynamically
             const traitFilters = {};
             document.querySelectorAll('.trait-filter').forEach(select => {
                 const traitType = select.id.replace('Filter', '');
                 const value = select.value;
                 if (value) {
                     traitFilters[traitType] = value;
-                    // Add visual indicator for selected filters
-                    select.style.background = 'rgba(0, 255, 0, 0.15)';
-                    select.style.borderColor = '#00ff00';
-                    select.style.fontWeight = 'bold';
+                    select.classList.add('active');
+                    select.style.background = 'rgba(16, 185, 129, 0.1)';
+                    select.style.borderColor = '#10b981';
+                    select.style.color = '#10b981';
                 } else {
-                    // Reset styling if no selection
-                    select.style.background = '#0a0a0a';
-                    select.style.borderColor = '#00ff00';
-                    select.style.fontWeight = 'normal';
+                    select.classList.remove('active');
+                    select.style.background = '#111827';
+                    select.style.borderColor = '#374151';
+                    select.style.color = '#d1d5db';
                 }
             });
             
-            // Highlight listing filter if not "all"
             const listingSelect = document.getElementById('listingFilter');
             if (listingFilter !== 'all') {
-                listingSelect.style.background = 'rgba(0, 255, 0, 0.15)';
-                listingSelect.style.borderColor = '#00ff00';
-                listingSelect.style.fontWeight = 'bold';
+                listingSelect.classList.add('active');
+                listingSelect.style.background = 'rgba(16, 185, 129, 0.1)';
+                listingSelect.style.borderColor = '#10b981';
+                listingSelect.style.color = '#10b981';
             } else {
-                listingSelect.style.background = '#0a0a0a';
-                listingSelect.style.borderColor = '#00ff00';
-                listingSelect.style.fontWeight = 'normal';
+                listingSelect.classList.remove('active');
+                listingSelect.style.background = '#111827';
+                listingSelect.style.borderColor = '#374151';
+                listingSelect.style.color = '#d1d5db';
             }
 
-            // Filter NFTs
             filteredNFTs = allNFTs.filter(nft => {
-                // Search filter
                 if (searchTerm && !nft.name.toLowerCase().includes(searchTerm)) {
                     return false;
                 }
 
-                // Trait filters - check all dynamically
                 for (const [traitType, filterValue] of Object.entries(traitFilters)) {
                     if (nft.traits[traitType] !== filterValue) {
                         return false;
                     }
                 }
 
-                // Listing filter
                 if (listingFilter === 'listed' && !nft.isListed) return false;
                 if (listingFilter === 'unlisted' && nft.isListed) return false;
 
                 return true;
             });
 
-            // Sort NFTs
             filteredNFTs.sort((a, b) => {
                 if (sortFilter === 'number') {
                     const aNum = parseInt(a.name.match(/\d+/)?.[0] || '0');
@@ -793,7 +967,7 @@
             updateVisibleCount();
         }
 
-        // Render NFTs (both views)
+        // Render NFTs
         function renderNFTs() {
             const emptyState = document.getElementById('emptyState');
 
@@ -851,7 +1025,6 @@
                 </div>
             `;
 
-            // Click to open Magic Eden (except when clicking owner link)
             row.addEventListener('click', (e) => {
                 if (e.target.tagName !== 'A') {
                     window.open(nft.magicEdenUrl, '_blank');
@@ -872,7 +1045,7 @@
             });
         }
 
-        // Create NFT Card (Grid View)
+        // Create NFT Card
         function createNFTCard(nft) {
             const card = document.createElement('div');
             card.className = `nft-card ${nft.isListed ? 'listed' : ''}`;
@@ -900,7 +1073,6 @@
 
         // Export to CSV
         function exportToCSV() {
-            // Get all trait types
             const traitTypes = new Set();
             filteredNFTs.forEach(nft => {
                 Object.keys(nft.traits || {}).forEach(trait => traitTypes.add(trait));
@@ -963,22 +1135,21 @@
         function resetFilters() {
             document.getElementById('searchInput').value = '';
             
-            // Reset all trait filters and their styling
             document.querySelectorAll('.trait-filter').forEach(select => {
                 select.value = '';
-                select.style.background = '#0a0a0a';
-                select.style.borderColor = '#00ff00';
-                select.style.fontWeight = 'normal';
+                select.classList.remove('active');
+                select.style.background = '#111827';
+                select.style.borderColor = '#374151';
+                select.style.color = '#d1d5db';
             });
             
-            // Keep Listed Only as default
             document.getElementById('listingFilter').value = 'listed';
             document.getElementById('sortFilter').value = 'number';
             
             applyFilters();
         }
 
-        // Event listeners (trait filters are added dynamically in createTraitFilters)
+        // Event listeners
         document.getElementById('searchInput').addEventListener('input', applyFilters);
         document.getElementById('listingFilter').addEventListener('change', applyFilters);
         document.getElementById('sortFilter').addEventListener('change', applyFilters);
