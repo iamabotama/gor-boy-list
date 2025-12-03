@@ -1,6 +1,6 @@
 # GORBOY Tokenomics White Paper
 
-![GORBOY Logo](../uploads/gorboy_logo_v2.png)
+![GORBOY Logo](../gorboy_logo_v2.png)
 
 **Version 2.0 — Mining & Inflation Model**
 
