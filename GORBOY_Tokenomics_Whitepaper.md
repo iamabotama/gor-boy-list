@@ -388,7 +388,7 @@ This creates a **natural value appreciation curve** independent of mining activi
 
 The chart below illustrates the complete 15-year ecosystem behavior:
 
-![GORBOY 15-Year Ecosystem Chart](1764797883346_image.png)
+![GORBOY 15-Year Ecosystem Chart](sample_gb_mining_chart.png)
 
 **Key Observations:**
 - Mining pool (brown line) grows during years 0-5 (early adopter phase)
