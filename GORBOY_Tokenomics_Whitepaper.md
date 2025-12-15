@@ -6,11 +6,19 @@
 
 ## ABSTRACT
 
-GORBOY is a framework where culture, infrastructure, and predictable economics coexist.
+GORBOY is a meme native ecosystem and participation token built on Gorbagana, engineered to convert culture into coordination and gameplay into sustainable on chain economies.
 
-The ecosystem is designed for three equally important participants: **Gamers**, who earn transparently through gameplay. **Developers**, who build safe, on chain games using trusted tools and infrastructure. **Token holders**, who benefit from controlled supply and long term alignment.
+GORBOY is not a single product and not a speculative meme coin. It is a framework where culture, infrastructure, and predictable economics coexist.
 
-Built on Gorbagana with predictable emissions, self regulating rewards, and auditable on chain mechanics.
+The ecosystem is designed for three equally important participants:
+
+**Gamers**, who earn transparently through gameplay
+
+**Developers**, who integrate via open, fair infrastructure
+
+**Token holders**, who benefit from controlled supply and long term alignment
+
+GORBOY combines meme culture with engineered systems: predictable emissions, self regulating rewards, and auditable on chain mechanics.
 
 ---
 
