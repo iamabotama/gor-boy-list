@@ -8155,5 +8155,10 @@
     "nftAsset": "5vpGUs8G9qLyCU5vbj1BN496qdcR5nhpvu6Gzaf5Boi3",
     "receiver": "GRBGN55vQpZKdVGTgwykstdj4PrguVk22QZdY3t4qCpx",
     "entering": true
+  },
+  "48MUJKufEfQPLVUBHUTdyLcHWTMkDqcc1XkUkysSF5scjrbfnMgHSQDEZgVQNswpVigwVQCiQJbnRhhsbzSPULXX": {
+    "signature": "48MUJKufEfQPLVUBHUTdyLcHWTMkDqcc1XkUkysSF5scjrbfnMgHSQDEZgVQNswpVigwVQCiQJbnRhhsbzSPULXX",
+    "timestamp": 1766871978000,
+    "noTransfer": true
   }
 }
