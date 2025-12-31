@@ -8341,14 +8341,11 @@
   "2FAEAnjya5eMW7umkiyNunx9rYghfnTeererKPZcYR2TNciFq8jNLy5so5dXhfJ2TuXtWvxw1YF8TNnTXWC3fAaa": {
     "signature": "2FAEAnjya5eMW7umkiyNunx9rYghfnTeererKPZcYR2TNciFq8jNLy5so5dXhfJ2TuXtWvxw1YF8TNnTXWC3fAaa",
     "timestamp": 1767155812000,
-    "sender": "6AhnEqPYqUw2XcjdaPjr91hCw9JjCss5tnYAW8pqhAua",
-    "nftAsset": "HPQnLJ6aJXZS9JCazkbkMXhY7VJuXf777Rv4mW1QV9v8",
-    "receiver": "GRBGN55vQpZKdVGTgwykstdj4PrguVk22QZdY3t4qCpx",
-    "entering": true
+    "error": "Failed to fetch"
   },
   "4mkeixLyiGwrpx4vUaYsSotaENPGUkrkqwFxWvSQkLHVrgcYTmxDSkXFBnDyNEQms8HJrYWB2bMKMzKuz7aHS7oy": {
     "signature": "4mkeixLyiGwrpx4vUaYsSotaENPGUkrkqwFxWvSQkLHVrgcYTmxDSkXFBnDyNEQms8HJrYWB2bMKMzKuz7aHS7oy",
     "timestamp": 1767153010000,
-    "noTransfer": true
+    "error": "Failed to fetch"
   }
 }
